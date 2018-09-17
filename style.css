@@ -779,7 +779,7 @@ body.is_app .santillana_demo-navbar.ocultar {
     color: #fff;
     font-weight: 700;
     text-align: left;
-    padding: 10px 30px 5px 30px;
+    padding: 10px 30px 5px 40px;
     border-radius: 20px 0px 0px 0px;
     width: fit-content;
 }
@@ -789,8 +789,15 @@ body.is_app .santillana_demo-navbar.ocultar {
     font-family: FontAwesome;
     display: inline-block;
     background-color: #fff;
-    color: rgb(150, 101, 171);
-    margin: 0px 0px 0px -20px;
+    color: #a3bd31;
+    border-radius: 50%;
+    padding: 3px;
+    font-weight: 300;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    left: 9px;
+    text-align: center;
 }
 
 
