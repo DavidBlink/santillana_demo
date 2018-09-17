@@ -61,27 +61,8 @@
 
 				{ name: 'Imagen Sin Bordes', type: 'widget', widget: 'image', attributes: { 'class': 'normal-img' } },
 				{ name: 'Imagen derecha', element: 'img', attributes: { 'class': 'bck-img right' } },
-				{ name: 'Imagen izquierda', element: 'img', attributes: { 'class': 'bck-img left' } },
+				{ name: 'Imagen izquierda', element: 'img', attributes: { 'class': 'bck-img left' } }
 
-				{ name: 'Icono Clase', element: 'span', attributes: { 'class': 'icon icon-clase' } },
-				{ name: 'Icono Clase Rosa', element: 'span', attributes: { 'class': 'icon icon-clase-rosa' } },
-				{ name: 'Icono Conversación', element: 'span', attributes: { 'class': 'icon icon-conversation' } },
-				{ name: 'Icono Conversación Verde', element: 'span', attributes: { 'class': 'icon icon-conversation-verde' } },
-				{ name: 'Icono Conversación Azul', element: 'span', attributes: { 'class': 'icon icon-conversation-azul' } },
-				{ name: 'Icono Conversación Rosa', element: 'span', attributes: { 'class': 'icon icon-conversation-rosa' } },
-				{ name: 'Icono Herramienta', element: 'span', attributes: { 'class': 'icon icon-tool' } },
-				{ name: 'Icono Herramienta Verde', element: 'span', attributes: { 'class': 'icon icon-tool-verde' } },
-				{ name: 'Icono Herramienta Azul', element: 'span', attributes: { 'class': 'icon icon-tool-azul' } },
-				{ name: 'Icono Herramienta Rosa', element: 'span', attributes: { 'class': 'icon icon-tool-rosa' } },
-				{ name: 'Icono Llave', element: 'span', attributes: { 'class': 'icon icon-llave' } },
-				{ name: 'Icono Ratón', element: 'span', attributes: { 'class': 'icon icon-raton' } },
-				{ name: 'Icono Museo', element: 'span', attributes: { 'class': 'icon icon-museo' } },
-				{ name: 'Icono Talento', element: 'span', attributes: { 'class': 'icon icon-talento' } },
-				{ name: 'Icono Talento 2', element: 'span', attributes: { 'class': 'icon icon-talento-2' } },
-				{ name: 'Icono Talento Verde', element: 'span', attributes: { 'class': 'icon icon-talento-verde' } },
-
-				{ name: 'icono ablink', element: 'span', attributes: { 'class': 'icono ablink' } },
-				{ name: 'icono ascorm', element: 'span', attributes: { 'class': 'icono ascorm' } }
 			]
 		},
 		slidesTitle: {},
