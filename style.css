@@ -775,11 +775,18 @@ body.is_app .santillana_demo-navbar.ocultar {
 /*caja 4 Activaverde*/
 
 .bck-box.bck-box-4 .bck-title {
-   
+   background-color: #666;
 }
 
+.bck-box.bck-box-4 .bck-title:before {
+	content:"."
+	color: green;
+}
+
+
 .bck-box.bck-box-4 {
-	
+	background-color: #f6e7bf;
+    border-radius: 0px 30px 0px 0px;
 }
 
 /*caja 5 Activaazul*/
