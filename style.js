@@ -28,6 +28,10 @@
 				{ name: 'Caja 1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-1' } },
 				{ name: 'Caja 2', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-2' } },
 				{ name: 'Caja 3', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-3' } },
+				{ name: 'Caja Activaverde', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-4' } },
+				{ name: 'Caja Activaazul', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-5' } },
+				{ name: 'Caja Activamorado', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-6' } },
+				{ name: 'Caja Activa', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-7' } },
 
 				{ name: 'Tabla', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table'} },
 				{ name: 'Celda', element: 'td', attributes: { 'class': 'bck-td'} },
