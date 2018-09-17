@@ -785,7 +785,7 @@ body.is_app .santillana_demo-navbar.ocultar {
 }
 
 .bck-box.bck-box-4 .bck-title:before {
-	content: "f063";
+	content: "\f063";
     font-family: FontAwesome;
     display: inline-block;
     background-color: #fff;
