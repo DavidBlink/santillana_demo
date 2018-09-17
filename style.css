@@ -745,11 +745,11 @@ body.is_app .santillana_demo-navbar.ocultar {
 
 
 .bck-box.bck-box-1 .bck-title {
-    
+    background: red;
 }
 
 .bck-box.bck-box-2 {
-	
+	background: green;
 }
 
 .bck-box.bck-box-2 > .bck-content {
@@ -757,7 +757,7 @@ body.is_app .santillana_demo-navbar.ocultar {
 }
 
 .bck-box.bck-box-3 {
-	
+	background: grey;
 }
 
 
