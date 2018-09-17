@@ -664,6 +664,35 @@ body.is_app .santillana_demo-navbar.ocultar {
 	color: #9665AB;
 }
 
+#actividad .content .texto_curso .bck-ul-4 li:before,
+#actividad .content .workspace ul li .bck-ul-4 li:before {
+	content: "- ";
+	background: #333;
+    position: relative;
+}
+
+#actividad .content .texto_curso .bck-ul-5 li:before,
+#actividad .content .workspace ul li .bck-ul-5 li:before {
+	content: "- ";
+	background: #333;
+    position: relative;
+}
+
+#actividad .content .texto_curso .bck-ul-6 li:before,
+#actividad .content .workspace ul li .bck-ul-6 li:before {
+	content: "- ";
+	background: #333;
+    position: relative;
+}
+
+#actividad .content .texto_curso .bck-ul-7 li:before,
+#actividad .content .workspace ul li .bck-ul-7 li:before {
+	content: "- ";
+	background: #333;
+    position: relative;
+}
+
+
 #actividad .content .texto_curso .bck-ol li,
 #actividad .content .workspace ul li .bck-ol li {
     list-style-type: none;
