@@ -302,7 +302,7 @@ body.is_app .santillana_demo-navbar.ocultar {
 .content_type_clase_santillana_demo .santillana_demo-navbar .navbar-content {
 	max-width: 1160px;
 	margin: 0 20px;
-	border-bottom: 1px solid #9665AB;
+	border-bottom: 0px solid #9665AB;
 }
 
 .content_type_clase_santillana_demo .santillana_demo-navbar .dropdownTemas {
