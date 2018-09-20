@@ -825,7 +825,7 @@ body.is_app .santillana_demo-navbar.ocultar {
 /*caja 4 Activaverde*/
 
 .bck-box.bck-box-4 .bck-title {
-    background-color: #70a83b;
+    background-color: #09a109;
     color: #fff;
     font-weight: 700;
     text-align: left;
@@ -853,11 +853,16 @@ body.is_app .santillana_demo-navbar.ocultar {
     left: 9px;
     text-align: center;
 }
-
+.bck-box.center .bck-box-4 {
+	position: absolute;
+	top: 120px;
+	left: 40px;
+}
 
 .bck-box.bck-box-4 .bck-content {
 	background-color: #f6e7bf;
     border-radius: 0px 30px 0px 0px;
+    padding: 20px 40px 20px 20px;
 }
 
 /*caja 5 Activaazul*/
