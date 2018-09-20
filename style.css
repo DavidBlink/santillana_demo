@@ -767,13 +767,13 @@ content: "\f063";
 #actividad .content .texto_curso .bck-ol li,
 #actividad .content .workspace ul li .bck-ol li {
     list-style-type: none;
-    counter-increment: bck-li-counter 1;
+    counter-increment: bck-li-counter;
     position: relative;
 }
 
 #actividad .content .texto_curso .bck-ol li:before,
 #actividad .content .workspace ul li .bck-ol li:before {
-	content: counter(bck-li-counter)'.-';
+	content: counter(bck-li-counter)" ";
 	position: absolute;
 	left: -47px;
 	width: 38px;
