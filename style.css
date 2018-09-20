@@ -114,7 +114,7 @@ input, button, select, textarea {
 }
 
 #actividad .class_slide {
-	padding: 0px 97px 0px;
+	padding: 80px 97px 0px;
 }
 
 body.is_app #actividad .class_slide {
