@@ -814,12 +814,17 @@ body.is_app .santillana_demo-navbar.ocultar {
 	
 }
 
-.bck-box.bck-box-3 .bck-title {
-   
+.bck-box.bck-box-3 {
+	position: absolute;
+	top: 120px;
+	left: 40px;
+	border-radius: 0px 10px 0px 10px;
 }
 
-.bck-box.bck-box-3 {
-	
+.bck-box.bck-box-3 .bck-content {
+	background-color: #fcf7ec;
+    border-radius: 0px 30px 0px 0px;
+    padding: 20px 40px 20px 20px;
 }
 
 /*caja 4 Activaverde*/
