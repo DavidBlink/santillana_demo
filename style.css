@@ -814,6 +814,7 @@ content: "\f063";
 	counter-increment: bck-li-counter;
 	position: relative;
 	z-index: 0;
+	font-weight: 700;
 }
 
 #actividad .content .texto_curso ol.bck-ol-3 li:before,
