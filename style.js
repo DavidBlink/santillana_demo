@@ -27,6 +27,7 @@
 				{ name: 'Lista morada', element: 'ul', attributes: { 'class': 'bck-ul-6'} },
 				{ name: 'Lista blanca', element: 'ul', attributes: { 'class': 'bck-ul-7'} },
 				{ name: 'Lista negra', element: 'ul', attributes: { 'class': 'bck-ul-8'} },
+				{ name: 'Lista blanca', element: 'ul', attributes: { 'class': 'bck-ul-9'} },
 				
 				{ name: 'Lista Ordenada', element: 'ol', attributes: { 'class': 'bck-ol' } },
 				{ name: 'Lista Ordenada 2', element: 'ol', attributes: { 'class': 'bck-ol-2' } },
