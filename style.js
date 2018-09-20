@@ -16,6 +16,7 @@
 				{ name: 'Título 3', element: 'h3', attributes: { 'class': 'bck-title3'} },
 				{ name: '¿Qué sabes?', element: 'h3', attributes: { 'class': 'bck-title4'} },
 				{ name: 'titulo verde', element: 'h3', attributes: { 'class': 'bck-title5'} },
+				{ name: 'explora', element: 'h3', attributes: { 'class': 'bck-title6'} },
 
 				{ name: 'Énfasis', element: 'span', attributes: { 'class': 'bck-enfasis'} },
 				{ name: 'Énfasis Naranja', element: 'span', attributes: { 'class': 'bck-enfasis-naranja'} },
