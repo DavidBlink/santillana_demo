@@ -833,7 +833,9 @@ body.is_app .santillana_demo-navbar.ocultar {
     color: #fff;
     font-weight: 700;
     border-radius: 20px 0px 0px 0px;
-    
+    background-color: #a87c24;
+    text-align: left;
+   
 }
 
 .bck-box.bck-box-2 .bck-title p{
