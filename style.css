@@ -606,6 +606,31 @@ body.is_app .santillana_demo-navbar.ocultar {
 	position: relative;
 }
 
+.bck-title4{
+    color: #ffffff;
+    font-size: 2.4rem;
+    font-weight: 600;
+    display: inline-block;
+	position: relative;
+	background: #6aa842;
+}
+
+.bck-title4:before {
+content: "\f063";
+    font-family: FontAwesome;
+    display: inline-block;
+    background-color: #fff;
+    color: #6aa842;
+    border-radius: 50%;
+    padding: 3px;
+    font-weight: 300;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    left: 9px;
+    text-align: center;
+}
+
 .bck-enfasis {
     color: #9363A8;
     font-weight: bold;
