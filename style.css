@@ -812,6 +812,15 @@ content: "\f063";
 
 /*lista naranja*/
 
+
+#actividad .content .texto_curso .bck-ol-3 li,
+#actividad .content .workspace ul li .bck-ol-3 li {
+	counter-increment: bck-li-counter;
+	padding-left: 4px;
+	position: relative;
+	z-index: 0;
+}
+
 #actividad .content .texto_curso ol.bck-ol-3 li:before,
 #actividad .content .workspace ul li ol.bck-ol-3 li:before {
     content: counter(bck-li-counter)" ";
