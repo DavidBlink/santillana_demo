@@ -607,12 +607,14 @@ body.is_app .santillana_demo-navbar.ocultar {
 }
 
 .bck-title4{
-    color: #ffffff;
+        color: #ffffff;
     font-size: 2.4rem;
     font-weight: 600;
     display: inline-block;
-	position: relative;
-	background: #6aa842;
+    position: relative;
+    background: #008000;
+    padding: 5px 30px 2px 60px;
+    border-radius: 0px 15px 0px 0px;
 }
 
 .bck-title4:before {
@@ -620,14 +622,14 @@ content: "\f063";
     font-family: FontAwesome;
     display: inline-block;
     background-color: #fff;
-    color: #6aa842;
+    color: #008000;
     border-radius: 50%;
-    padding: 3px;
-    font-weight: 300;
+    padding: 0px;
+    font-weight: 100;
     width: 24px;
     height: 24px;
     position: absolute;
-    left: 9px;
+    left: 25px;
     text-align: center;
 }
 
