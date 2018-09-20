@@ -633,6 +633,9 @@ content: "\f063";
     text-align: center;
 }
 
+/*enfasis*/
+
+
 .bck-enfasis {
     color: #9363A8;
     font-weight: bold;
@@ -640,6 +643,10 @@ content: "\f063";
 
 .bck-enfasis-naranja {
 	color: #ED7102;
+}
+
+.bck-verde1 {
+	color: #5c8b41;
 }
 
 /*listas*/
