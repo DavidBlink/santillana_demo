@@ -815,8 +815,8 @@ content: "\f063";
 
 #actividad .content .texto_curso .bck-ol-3 li,
 #actividad .content .workspace ul li .bck-ol-3 li {
+	list-style: none;
 	counter-increment: bck-li-counter;
-	padding-left: 4px;
 	position: relative;
 	z-index: 0;
 }
