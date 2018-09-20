@@ -814,7 +814,7 @@ content: "\f063";
 
 #actividad .content .texto_curso ol.bck-ol-3 li:before,
 #actividad .content .workspace ul li ol.bck-ol-3 li:before {
-    content: counter(bck-li-counter)'- ';
+    content: counter(bck-li-counter)" ";
     position: absolute;
     background: orange;
     left: 10px;
