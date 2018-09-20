@@ -783,15 +783,11 @@ content: "\f063";
 
 /*lista 2*/
 
-#actividad .content .texto_curso .bck-ol-2,
-#actividad .content .workspace ul li .bck-ol-2 {
-	list-style-type: none;
-	 counter-reset: bck-li-counter;
-}
 
 #actividad .content .texto_curso .bck-ol-2 li,
 #actividad .content .workspace ul li .bck-ol-2 li {
-	counter-increment: bck-li-counter;
+	list-style-type: none;
+	 counter-reset: bck-li-counter;
 	padding-left: 4px;
 	position: relative;
 	z-index: 0;
@@ -808,7 +804,6 @@ content: "\f063";
     padding-right: 8px;
     text-align: left;
 }
-
 
 /*lista naranja*/
 
