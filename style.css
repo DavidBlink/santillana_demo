@@ -262,8 +262,6 @@ body.is_app .santillana_demo-navbar.ocultar {
 
 .content_type_clase_santillana_demo .santillana_demo-navbar .dropdown button,
 .content_type_clase_santillana_demo .santillana_demo-navbar li {
-	display: none;
-
 	border-radius: 5px;
 	border: none;
 	background-color: transparent;
