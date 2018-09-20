@@ -832,6 +832,7 @@ body.is_app .santillana_demo-navbar.ocultar {
 .bck-box.bck-box-2 .bck-title {
     color: #fff;
     font-weight: 700;
+    border-radius: 20px 0px 0px 0px;
     
 }
 
@@ -840,12 +841,9 @@ body.is_app .santillana_demo-navbar.ocultar {
 	border-bottom: 2px solid #ffffff;
 }
 
-.bck-box.bck-box-2 {
-	background: #333;
-}
 
 .bck-box.bck-box-3 .bck-content {
-	background-color: #666;
+	background-color: #a87c24;
     border-radius: 20px 0px 0px 0px;
     padding: 20px 40px 20px 20px;
     color: #fff;
