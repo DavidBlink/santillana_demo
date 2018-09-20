@@ -781,6 +781,8 @@ content: "\f063";
 	color: #9665AB;
 }
 
+/*lista 2*/
+
 #actividad .content .texto_curso .bck-ol-2,
 #actividad .content .workspace ul li .bck-ol-2 {
 	list-style-type: none;
@@ -795,6 +797,7 @@ content: "\f063";
 	z-index: 0;
 }
 
+
 #actividad .content .texto_curso ol.bck-ol-2 li:before,
 #actividad .content .workspace ul li ol.bck-ol-2 li:before {
 	content: counter(bck-li-counter, upper-alpha)'.-';
@@ -805,6 +808,24 @@ content: "\f063";
     padding-right: 8px;
     text-align: left;
 }
+
+
+/*lista naranja*/
+
+#actividad .content .texto_curso ol.bck-ol-3 li:before,
+#actividad .content .workspace ul li ol.bck-ol-3 li:before {
+    content: counter(bck-li-counter)' ';
+    position: absolute;
+    background: orange;
+    left: -47px;
+    color: #ffffff;
+    width: 28px;
+    text-align: center;
+    text-align: center;
+    color: #fff;
+    border-radius: 30% 30% 0% 30%;
+}
+
 /**/
 
 /*Cajas*/
