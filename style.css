@@ -811,17 +811,29 @@ body.is_app .santillana_demo-navbar.ocultar {
    
 }
 
+/*caja 2 caja marron*/
+
 .bck-box.bck-box-2 .bck-title {
-   
+    background-color: #09a109;
+    color: #fff;
+    font-weight: 700;
+    text-align: left;
+    padding: 10px 30px 5px 40px;
+    border-radius: 20px 0px 0px 0px;
+    width: fit-content;
+}
+
+.bck-box.bck-box-2 .bck-title p{
+	font-size: 2rem;
 }
 
 .bck-box.bck-box-2 {
-	
+	position: absolute;
+	top: 120px;
+	left: 40px;
 }
 
-.bck-box.bck-box-2 > .bck-content {
-	
-}
+/*caja3 flotante*/
 
 .bck-box.bck-box-3 {
 	position: absolute;
@@ -835,7 +847,7 @@ body.is_app .santillana_demo-navbar.ocultar {
     padding: 20px 40px 20px 20px;
 }
 
-/*caja 4 Activaverde*/
+/*caja 4 Activaverde flotante*/
 
 .bck-box.bck-box-4 .bck-title {
     background-color: #09a109;
