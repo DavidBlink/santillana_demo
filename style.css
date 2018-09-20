@@ -853,7 +853,7 @@ body.is_app .santillana_demo-navbar.ocultar {
     left: 9px;
     text-align: center;
 }
-.bck-box.center .bck-box-4 {
+.bck-box.bck-box-4 {
 	position: absolute;
 	top: 120px;
 	left: 40px;
