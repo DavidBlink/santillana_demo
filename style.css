@@ -830,23 +830,25 @@ body.is_app .santillana_demo-navbar.ocultar {
 /*caja 2 marron*/
 
 .bck-box.bck-box-2 .bck-title {
-    background-color: #09a109;
     color: #fff;
     font-weight: 700;
-    text-align: left;
-    padding: 10px 30px 5px 40px;
-    border-radius: 20px 0px 0px 0px;
-    width: fit-content;
+    
 }
 
 .bck-box.bck-box-2 .bck-title p{
 	font-size: 2rem;
+	border-bottom: 2px solid #ffffff;
 }
 
 .bck-box.bck-box-2 {
-	position: absolute;
-	top: 120px;
-	left: 40px;
+	background: #333;
+}
+
+.bck-box.bck-box-3 .bck-content {
+	background-color: #666;
+    border-radius: 20px 0px 0px 0px;
+    padding: 20px 40px 20px 20px;
+    color: #fff;
 }
 
 /*caja3 flotante*/
