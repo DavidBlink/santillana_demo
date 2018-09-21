@@ -920,7 +920,7 @@ content: "\f063";
 
 #actividad .content .texto_curso ol.bck-ol-5 li:before,
 #actividad .content .workspace ul li ol.bck-ol-5 li:before {
-    content: counter(bck-li-counter, lower-alpha)" ";
+    content: counter(bck-li-counter, lower-alpha)".";
     position: absolute;
     left: -20px;
     text-align: center;
