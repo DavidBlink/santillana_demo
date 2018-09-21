@@ -1296,10 +1296,15 @@ content: "\f0da";
 
 .bck-box.bck-box-10 .bck-content {
     background-color: #faecd4;
-    border-radius: 0px 20px 0px 20px;
-    padding: 50px 20px 10px 20px;
+    padding: 10px 20px 10px 20px;
 }
 
+.bck-box.bck-box-10 {
+    max-width: 100%;
+    margin-bottom: 20px;
+    background: #faecd4;
+    border-radius: 0px 20px 0px 20px;
+}
 
 /**Iconos**/
 
