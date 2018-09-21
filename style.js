@@ -53,7 +53,8 @@
 				{ name: 'Caja materiales', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-7' } },
 				{ name: 'Caja comprensión', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-8' } },
 				{ name: 'Caja resumen naranja', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-9' } },
-
+                                { name: 'Caja saber más', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-10' } },
+				
 				{ name: 'Tabla', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table'} },
 				{ name: 'Celda', element: 'td', attributes: { 'class': 'bck-td'} },
 
