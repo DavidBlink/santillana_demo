@@ -17,6 +17,8 @@
 				{ name: '¿Qué sabes?', element: 'h3', attributes: { 'class': 'bck-title4'} },
 				{ name: 'titulo verde', element: 'h3', attributes: { 'class': 'bck-title5'} },
 				{ name: 'explora', element: 'h3', attributes: { 'class': 'bck-title6'} },
+				{ name: 'paso', element: 'h3', attributes: { 'class': 'bck-title7'} },
+				
 
 				{ name: 'Énfasis', element: 'span', attributes: { 'class': 'bck-enfasis'} },
 				{ name: 'Énfasis Naranja', element: 'span', attributes: { 'class': 'bck-enfasis-naranja'} },
@@ -36,7 +38,6 @@
 				{ name: 'Lista Ordenada', element: 'ol', attributes: { 'class': 'bck-ol' } },
 				{ name: 'Lista Ordenada 2', element: 'ol', attributes: { 'class': 'bck-ol-2' } },
 				{ name: 'Lista naranja', element: 'ol', attributes: { 'class': 'bck-ol-3' } },
-				{ name: 'Lista paso', element: 'ol', attributes: { 'class': 'bck-ol-4' } },
 
 				{ name: 'Caja 1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-1' } },
 				{ name: 'Caja marron', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-2' } },
