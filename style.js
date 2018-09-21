@@ -19,6 +19,7 @@
 				{ name: 'explora', element: 'h3', attributes: { 'class': 'bck-title6'} },
 				{ name: 'paso', element: 'h3', attributes: { 'class': 'bck-title7'} },
 				{ name: 'titulo gris', element: 'h3', attributes: { 'class': 'bck-title8'} },
+				{ name: 'pie de foto', element: 'h3', attributes: { 'class': 'bck-title9'} },
 				
 
 				{ name: 'Énfasis', element: 'span', attributes: { 'class': 'bck-enfasis'} },
