@@ -36,6 +36,7 @@
 				{ name: 'Lista Ordenada', element: 'ol', attributes: { 'class': 'bck-ol' } },
 				{ name: 'Lista Ordenada 2', element: 'ol', attributes: { 'class': 'bck-ol-2' } },
 				{ name: 'Lista naranja', element: 'ol', attributes: { 'class': 'bck-ol-3' } },
+				{ name: 'Lista paso', element: 'ol', attributes: { 'class': 'bck-ol-4' } },
 
 				{ name: 'Caja 1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-1' } },
 				{ name: 'Caja marron', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-2' } },
