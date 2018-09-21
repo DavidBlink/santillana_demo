@@ -749,8 +749,8 @@ content: "\f0da";
 
 /*LISTA ORDENADA 1*/ 
 
-#actividad .content .texto_curso .bck-ol li,
-#actividad .content .workspace ol li .bck-ol li {
+#actividad .content .texto_curso .bck-ol-1 li,
+#actividad .content .workspace ol li .bck-ol-1 li {
        counter-increment: bck-li-counter 1;
 		position: relative;
 }
