@@ -684,6 +684,7 @@ content: "\f063";
 .bck-title9{
     font-size: 1.6rem;
     position: relative;
+    padding-left: 40px;
 }
 
 .bck-title9:before {
