@@ -1199,6 +1199,26 @@ content: "\f0da";
     padding: 10px 20px 10px 20px;
 }
 
+/*caja resumen naranja*/
+
+.bck-box.bck-box-9 .bck-title {
+    background-color: #eae7d8;
+    color: #d3711c;
+    font-weight: 700;
+    text-align: left;
+    padding: 10px 0px 5px 0px;
+    border-radius: 0px 20px 0px 0px;
+   
+    
+}
+
+.bck-box.bck-box-9 .bck-content {
+    background-color: #eae7d8;
+    border-radius: 0px 0px 20px 20px;
+    padding: 10px 20px 10px 20px;
+}
+
+
 
 /**Iconos**/
 
