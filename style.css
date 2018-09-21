@@ -593,6 +593,8 @@ body.is_app .santillana_demo-navbar.ocultar {
 	position: relative;
 }
 
+/*titulo 2*/
+
 .bck-title2 {
     color: #9665AB;
     font-size: 2.1rem;
@@ -601,6 +603,8 @@ body.is_app .santillana_demo-navbar.ocultar {
 	position: relative;
 }
 
+/*titulo 3*/
+
 .bck-title3 {
     color: #FF8400;
     font-size: 2.4rem;
@@ -608,6 +612,8 @@ body.is_app .santillana_demo-navbar.ocultar {
     display: inline-block;
 	position: relative;
 }
+
+/*que sabes*/
 
 .bck-title4{
         color: #ffffff;
@@ -636,11 +642,15 @@ content: "\f063";
     text-align: center;
 }
 
+/*titulo verde*/
+
 .bck-title5 {
 	font-size: 26px;
     font-weight: 600;
     color: #008000;
 }
+
+/*explora*/
 
 .bck-title6 {
 	background: #a1c037;
@@ -650,12 +660,15 @@ content: "\f063";
     border-radius: 20% 20% 0% 0%;
 }
 
+/*paso*/
+
 .bck-title7 {
 	background: #98a6b9;
     width: fit-content;
     padding: 5px 5px 5px 5px;
     color: #fff;
     border-radius: 20% 20% 20% 20%;
+    font-size: 2rem;
 }
 
 /*enfasis*/
@@ -696,6 +709,9 @@ content: "\f063";
 	border-radius: 50%;
 }
 
+/*lista verde*/
+
+
 #actividad .content .texto_curso  ul.bck-ul-2 li,
 #actividad .content .workspace ul li ul.bck-ul-2 li {
 	list-style: none;
@@ -733,7 +749,7 @@ content: "\f063";
 	color: #9665AB;
 }
 
-/*lista verde*/
+/*lista sin uso*/
 
 #actividad .content .texto_curso .bck-ul-4 li:before,
 #actividad .content .workspace ul li .bck-ul-4 li:before {
@@ -742,7 +758,7 @@ content: "\f063";
     position: relative;
 }
 
-/*lista azul*/
+/*lista sin uso azul*/
 
 #actividad .content .texto_curso .bck-ul-5 li:before,
 #actividad .content .workspace ul li .bck-ul-5 li:before {
@@ -751,7 +767,7 @@ content: "\f063";
     position: relative;
 }
 
-/*lista morada*/
+/*lista sin uso morada*/
 
 #actividad .content .texto_curso .bck-ul-6 li:before,
 #actividad .content .workspace ul li .bck-ul-6 li:before {
@@ -760,7 +776,7 @@ content: "\f063";
     position: relative;
 }
 
-/*lista blanca*/
+/*lista sin uso blanca*/
 
 #actividad .content .texto_curso .bck-ul-7 li:before,
 #actividad .content .workspace ul li .bck-ul-7 li:before {
@@ -769,7 +785,7 @@ content: "\f063";
     position: relative;
 }
 
-/*lista negra*/
+/*lista sin uso negra*/
 
 #actividad .content .texto_curso .bck-ul-8 li:before,
 #actividad .content .workspace ul li .bck-ul-8 li:before {
