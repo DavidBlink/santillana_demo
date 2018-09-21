@@ -679,6 +679,30 @@ content: "\f063";
     color: #4b4b4a;
 }
 
+/*pie de foto*/
+
+.bck-title9{
+    font-size: 1.6rem;
+    position: relative;
+}
+
+.bck-title9:before {
+content: "\f0da";
+    font-family: FontAwesome;
+    display: inline-block;
+    background-color: #fff;
+    color: #008000;
+    border-radius: 50%;
+    padding: 0px;
+    font-weight: 100;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    left: 15px;
+    text-align: center;
+}
+
+
 /*enfasis*/
 
 
