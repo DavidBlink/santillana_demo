@@ -18,6 +18,7 @@
 				{ name: 'titulo verde', element: 'h3', attributes: { 'class': 'bck-title5'} },
 				{ name: 'explora', element: 'h3', attributes: { 'class': 'bck-title6'} },
 				{ name: 'paso', element: 'h3', attributes: { 'class': 'bck-title7'} },
+				{ name: 'titulo gris', element: 'h3', attributes: { 'class': 'bck-title8'} },
 				
 
 				{ name: 'Énfasis', element: 'span', attributes: { 'class': 'bck-enfasis'} },
