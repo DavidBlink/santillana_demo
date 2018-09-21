@@ -764,18 +764,26 @@ content: "\f0da";
 }
 
 /*lista naranja*/
+#actividad .content .cke_contents .bck-ol-3,
+#actividad .content .texto_curso .bck-ol-3,
+#actividad .content .workspace ul li .bck-ol-3 {
+    list-style-type: none;
+    counter-reset: bck-li-counter;
+}
 
-
+#actividad .content .cke_contents .bck-ol-3 li,
+#actividad .content .cke_contents .bck-ol-3 li,
 #actividad .content .texto_curso .bck-ol-3 li,
+#actividad .popover-content .bck-ol-3 li,
 #actividad .content .workspace ul li .bck-ol-3 li {
-	list-style: none;
-	counter-increment: bck-li-counter;
 	position: relative;
 	z-index: 0;
 	font-weight: 700;
 }
 
+#actividad .content .cke_contents .bck-ol-3 li:before,
 #actividad .content .texto_curso ol.bck-ol-3 li:before,
+#actividad .popover-content ol.bck-ol-3 li:before,
 #actividad .content .workspace ul li ol.bck-ol-3 li:before {
     content: counter(bck-li-counter)" ";
     position: absolute;
@@ -793,15 +801,24 @@ content: "\f0da";
 
 /*lista verde*/
 
+#actividad .content .cke_contents .bck-ol-4,
+#actividad .content .texto_curso .bck-ol-4,
+#actividad .content .workspace ul li .bck-ol-4 {
+    list-style-type: none;
+    counter-reset: bck-li-counter;
+}
+
+
+#actividad .content .cke_contents .bck-ol-4 li,
 #actividad .content .texto_curso .bck-ol-4 li,
+#actividad .popover-content .bck-ol-4 li,
 #actividad .content .workspace ul li .bck-ol-4 li {
-	list-style: none;
-	counter-increment: bck-li-counter;
 	position: relative;
 	z-index: 0;
 	font-weight: 700;
 }
 
+#actividad .cke-content .texto_curso ol.bck-ol-4 li:before,
 #actividad .content .texto_curso ol.bck-ol-4 li:before,
 #actividad .content .workspace ul li ol.bck-ol-4 li:before {
     content: counter(bck-li-counter)" ";
