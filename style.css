@@ -665,7 +665,7 @@ content: "\f063";
 .bck-title7 {
 	background: #98a6b9;
     width: fit-content;
-    padding: 5px 5px 5px 5px;
+    padding: 5px 10px 5px 10px;
     color: #fff;
     border-radius: 20% 20% 20% 20%;
     font-size: 2rem;
@@ -1083,18 +1083,18 @@ content: "\f063";
 /*caja materiales*/
 
 .bck-box.bck-box-7 .bck-title {
-    background-color: #9e61a4;
-    color: #fff;
-    font-weight: 700;
-    text-align: left;
-    padding: 10px 30px 5px 40px;
-    border-radius: 20px 0px 0px 0px;
-    width: fit-content;
+    background-color: #d3de9d;
+    color: #333;
+    font-weight: 600;
+    text-align: center;
+    padding: 10px 0px 5px 0px;
+    border-radius: 20px 20px 0px 0px;
 }
 
 .bck-box.bck-box-7 .bck-content {
-	background-color: #f6e7bf;
-    border-radius: 0px 30px 0px 0px;
+    background-color: #ffffff;
+    border: 1px solid #d3de9d;
+    border-radius: 0px 0px 20px 20px;
 }
 
 
