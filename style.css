@@ -720,6 +720,12 @@ content: "\f0da";
 	color: #5c8b41;
 }
 
+.bck-naranja {
+	background: orange;
+	border-radius: 50%;
+	color: #ffffff;
+}
+
 
 /*listas ordenadas*/
     .content ol,
