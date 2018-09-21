@@ -49,6 +49,7 @@
 				{ name: 'Caja Activaazul', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-5' } },
 				{ name: 'Caja Activamorado', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-6' } },
 				{ name: 'Caja materiales', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-7' } },
+				{ name: 'Caja comprensión', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-8' } },
 
 				{ name: 'Tabla', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table'} },
 				{ name: 'Celda', element: 'td', attributes: { 'class': 'bck-td'} },
