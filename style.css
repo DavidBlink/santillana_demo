@@ -1282,6 +1282,23 @@ content: "\f0da";
     padding: 10px 20px 10px 20px;
 }
 
+/*caja saber más*/
+
+.bck-box.bck-box-10 .bck-title {
+    background-color: #ffa500;
+    color: #ffffff;
+    font-weight: 700;
+    width: fit-content;
+    text-align: left;
+    padding: 5px 20px 5px 20px;
+    border-radius: 0px 0px 20px 0px;
+}
+
+.bck-box.bck-box-10 .bck-content {
+    background-color: #faecd4;
+    border-radius: 0px 20px 0px 20px;
+    padding: 50px 20px 10px 20px;
+}
 
 
 /**Iconos**/
