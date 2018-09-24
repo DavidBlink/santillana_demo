@@ -29,6 +29,7 @@
 				{ name: 'verde', element: 'span', attributes: { 'class': 'bck-verde1'} },
 				{ name: 'circulo naranja', element: 'span', attributes: { 'class': 'bck-naranja'} },
 				{ name: 'azul claro', element: 'span', attributes: { 'class': 'bck-azulclaro'} },
+				{ name: 'verde desafio', element: 'span', attributes: { 'class': 'bck-verdedesafio'} },
 
 				{ name: 'Lista Ordenada', element: 'ol', attributes: { 'class': 'bck-ol' } },
 				{ name: 'Lista Ordenada 2', element: 'ol', attributes: { 'class': 'bck-ol-2' } },
@@ -41,7 +42,7 @@
 				{ name: 'Lista Des verde', element: 'ul', attributes: { 'class': 'bck-ul-2'} },
 				{ name: 'Lista Desordenada 3', element: 'ul', attributes: { 'class': 'bck-ul-3'} },
 				{ name: 'Lista Des amarilla', element: 'ul', attributes: { 'class': 'bck-ul-4'} },
-				{ name: 'Lista DES blanca', element: 'ul', attributes: { 'class': 'bck-ul-5'} },
+				{ name: 'Lista Des blanca', element: 'ul', attributes: { 'class': 'bck-ul-5'} },
 				
 				{ name: 'Caja 1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-1' } },
 				{ name: 'Caja marron', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-2' } },
