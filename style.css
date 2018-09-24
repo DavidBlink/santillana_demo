@@ -613,7 +613,7 @@ body.is_app .santillana_demo-navbar.ocultar {
 	position: relative;
 }
 
-/*que sabes*/
+/*flecha verde*/
 
 .bck-title4{
         color: #ffffff;
@@ -714,9 +714,7 @@ content: "\f0da";
 }
 
 
-
 /*enfasis*/
-
 
 .bck-enfasis {
     color: #9363A8;
@@ -741,6 +739,12 @@ content: "\f0da";
 .bck-azulclaro {
 	color: #99a6ba;
 }
+
+.bck-verdedesafio {
+	color: #95c11f;
+	font-weight: 700;
+}
+
 
 /*listas ordenadas*/
     .content ol,
