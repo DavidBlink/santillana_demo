@@ -1346,10 +1346,16 @@ table td.bck-td {
 }
 
 .bck-table-2 {
-	
+	border: 2px solid #a1c037;
+
 }
 
-
+/*celda 1*/
+.bck-td-1 {
+	color: #ffffff;
+	background: #a1c037;
+	border-right: 1px solid #ffffff;
+}
 
 
 /**/
