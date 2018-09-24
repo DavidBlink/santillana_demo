@@ -727,6 +727,9 @@ content: "\f0da";
 	padding: 4px 11px 5px 11px;
 }
 
+.bck-azulclaro {
+	color: #99a6ba;
+}
 
 /*listas ordenadas*/
     .content ol,
@@ -1341,6 +1344,13 @@ content: "\f0da";
 table td.bck-td {
 	background-color: #CC99FF;
 }
+
+.bck-table-2 {
+	
+}
+
+
+
 
 /**/
 
