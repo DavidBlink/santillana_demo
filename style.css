@@ -976,55 +976,37 @@ content: "\f0da";
 	color: #9665AB;
 }
 
-/*lista sin uso*/
 
+/*lista des amarilla*/
+#actividad .content .cke_contents ul .bck-ul-4 li,
+#actividad .content .texto_curso ul .bck-ul-4 li,
+#actividad .content .texto_curso ul .bck-ul-4 li,
+#actividad .content .workspace ul .bck-ul-4 li {
+	list-style: none;
+}
+
+#actividad .content .cke_contents ul .bck-ul-4 li:before,
+#actividad .content .texto_curso ul .bck-ul-4 li:before,
 #actividad .content .texto_curso .bck-ul-4 li:before,
 #actividad .content .workspace ul li .bck-ul-4 li:before {
-	content: "- ";
-	background-color: #333;
-    position: relative;
+	content: "";
+    position: absolute;
+	height: 6px;
+    width: 6px;
+    background-color: #baba0f;
+    margin-top: 12px;
+    margin-left: -15px;
+	margin-right: 7px;
+	margin-bottom: 2px;
+	border-radius: 50%;
 }
 
-/*lista sin uso azul*/
 
-#actividad .content .texto_curso .bck-ul-5 li:before,
-#actividad .content .workspace ul li .bck-ul-5 li:before {
-	content: "- ";
-	background-color: #333;
-    position: relative;
-}
-
-/*lista sin uso morada*/
-
-#actividad .content .texto_curso .bck-ul-6 li:before,
-#actividad .content .workspace ul li .bck-ul-6 li:before {
-	content: "- ";
-    background-color: #333;
-    position: relative;
-}
-
-/*lista sin uso blanca*/
-
-#actividad .content .texto_curso .bck-ul-7 li:before,
-#actividad .content .workspace ul li .bck-ul-7 li:before {
-	content: "- ";
-	background-color: #333;
-    position: relative;
-}
-
-/*lista sin uso negra*/
-
-#actividad .content .texto_curso .bck-ul-8 li:before,
-#actividad .content .workspace ul li .bck-ul-8 li:before {
-	content: "- ";
-	background-color: #333;
-    position: relative;
-}
 
 /*lista blanca*/
 
-#actividad .content .texto_curso .bck-ul-9 li:before,
-#actividad .content .workspace ul li .bck-ul-9 li:before {
+#actividad .content .texto_curso .bck-ul-5 li:before,
+#actividad .content .workspace ul li .bck-ul-5 li:before {
 	content: "";
     position: absolute;
 	height: 6px;
