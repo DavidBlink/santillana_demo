@@ -914,18 +914,14 @@ content: "\f0da";
 
 /*listas desordenadas*/
 
-    .content ul,
-	.cke_contents ul {
-		
-			}
+#actividad .content ul.bck-ul li {
+	list-style: none;
+}
 
-	.content ul li,
-	.cke_contents ul li {
-		list-style: none;
-	}
-
-	.content ul li:before,
-	.cke_contents ul li:before {
+#actividad .content .texto_curso ul li:before,
+#actividad .content .workspace ul li:before,
+#actividad .content .texto_curso .bck-ul li:before,
+#actividad .content .workspace ul li .bck-ul li:before {
 	content: "";
     position: absolute;
 	height: 6px;
@@ -936,25 +932,18 @@ content: "\f0da";
 	margin-right: 7px;
 	margin-bottom: 2px;
 	border-radius: 50%;
-	}
-
-
-
-/*lista verde*/
-#actividad .content .cke_contents .bck-ul-2,
-#actividad .content .texto_curso .bck-ul-2,
-#actividad .content .workspace ul li .bck-ul-2 {
-
 }
 
-
+/*lista verde*/
 #actividad .content .cke_contents ul .bck-ul-2 li,
+#actividad .content .texto_curso ul .bck-ul-2 li,
 #actividad .content .texto_curso ul .bck-ul-2 li,
 #actividad .content .workspace ul .bck-ul-2 li {
 	list-style: none;
 }
 
 #actividad .content .cke_contents ul .bck-ul-2 li:before,
+#actividad .content .texto_curso ul .bck-ul-2 li:before,
 #actividad .content .texto_curso .bck-ul-2 li:before,
 #actividad .content .workspace ul li .bck-ul-2 li:before {
 	content: "";
