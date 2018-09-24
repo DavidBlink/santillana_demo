@@ -37,14 +37,10 @@
 				
 				
 				{ name: 'Lista Desordenada', element: 'ul', attributes: { 'class': 'bck-ul'} },
-				{ name: 'Lista verde', element: 'ul', attributes: { 'class': 'bck-ul-2'} },
+				{ name: 'Lista Des verde', element: 'ul', attributes: { 'class': 'bck-ul-2'} },
 				{ name: 'Lista Desordenada 3', element: 'ul', attributes: { 'class': 'bck-ul-3'} },
-				{ name: 'Lista sin uso', element: 'ul', attributes: { 'class': 'bck-ul-4'} },
-				{ name: 'Lista sin uso', element: 'ul', attributes: { 'class': 'bck-ul-5'} },
-				{ name: 'Lista sin uso', element: 'ul', attributes: { 'class': 'bck-ul-6'} },
-				{ name: 'Lista sin uso', element: 'ul', attributes: { 'class': 'bck-ul-7'} },
-				{ name: 'Lista sin uso', element: 'ul', attributes: { 'class': 'bck-ul-8'} },
-				{ name: 'Lista blanca', element: 'ul', attributes: { 'class': 'bck-ul-9'} },
+				{ name: 'Lista Des amarilla', element: 'ul', attributes: { 'class': 'bck-ul-4'} },
+				{ name: 'Lista blanca', element: 'ul', attributes: { 'class': 'bck-ul-5'} },
 				
 				{ name: 'Caja 1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-1' } },
 				{ name: 'Caja marron', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-2' } },
