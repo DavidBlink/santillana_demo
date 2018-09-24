@@ -20,6 +20,7 @@
 				{ name: 'paso', element: 'h3', attributes: { 'class': 'bck-title7'} },
 				{ name: 'titulo gris', element: 'h3', attributes: { 'class': 'bck-title8'} },
 				{ name: 'pie de foto', element: 'h3', attributes: { 'class': 'bck-title9'} },
+				{ name: 'relaciona', element: 'h3', attributes: { 'class': 'bck-title10'} },
 				
 
 				{ name: 'Énfasis', element: 'span', attributes: { 'class': 'bck-enfasis'} },
