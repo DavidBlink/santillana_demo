@@ -1346,6 +1346,7 @@ table td.bck-td {
 }
 
 .bck-table-2 {
+	border-radius: 10px;
 	border: 2px solid #a1c037;
 
 }
