@@ -1350,6 +1350,10 @@ table td.bck-td {
 
 }
 
+.bck-table-2 td {
+	border: 1px solid #a1c037;
+}
+
 /*celda 1*/
 .bck-td-1 {
 	color: #ffffff;
