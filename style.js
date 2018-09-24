@@ -40,7 +40,7 @@
 				{ name: 'Lista Des verde', element: 'ul', attributes: { 'class': 'bck-ul-2'} },
 				{ name: 'Lista Desordenada 3', element: 'ul', attributes: { 'class': 'bck-ul-3'} },
 				{ name: 'Lista Des amarilla', element: 'ul', attributes: { 'class': 'bck-ul-4'} },
-				{ name: 'Lista blanca', element: 'ul', attributes: { 'class': 'bck-ul-5'} },
+				{ name: 'Lista DES blanca', element: 'ul', attributes: { 'class': 'bck-ul-5'} },
 				
 				{ name: 'Caja 1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-1' } },
 				{ name: 'Caja marron', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-2' } },
