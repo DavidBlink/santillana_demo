@@ -1300,6 +1300,26 @@ content: "\f0da";
     border-radius: 0px 20px 0px 20px;
 }
 
+/*caja imagen*/
+
+.bck-box.bck-box-7 .bck-title {
+    background-color: #d3de9d;
+    color: #333;
+    font-weight: 600;
+    text-align: center;
+    padding: 10px 0px 5px 0px;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.bck-box.bck-box-7 .bck-content {
+    background-color: #ffffff;
+    border: 1px solid #d3de9d;
+    border-radius: 0px 0px 20px 20px;
+}
+
+
+
+
 /**Iconos**/
 
 .item-container .icon:before {
