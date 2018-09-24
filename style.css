@@ -703,6 +703,17 @@ content: "\f0da";
     text-align: center;
 }
 
+/*relaciona*/
+
+.bck-title10 {
+	background: green;
+    width: fit-content;
+    padding: 5px 15px 2px 15px;
+    color: #fff;
+    border-radius: 20% 20% 0% 0%;
+}
+
+
 
 /*enfasis*/
 
@@ -1313,7 +1324,7 @@ content: "\f0da";
 
 .bck-box.bck-box-11 .bck-content {
     background-color: #ffffff;
-    border-bottom: 1px solid #baba0f;
+    border-bottom: 2px solid #baba0f;
 }
 
 /**Iconos**/
