@@ -27,6 +27,7 @@
 				{ name: 'Versalitas', element: 'span', attributes: { 'class': 'bck-versalitas'} },
 				{ name: 'verde', element: 'span', attributes: { 'class': 'bck-verde1'} },
 				{ name: 'circulo naranja', element: 'span', attributes: { 'class': 'bck-naranja'} },
+				{ name: 'azul claro', element: 'span', attributes: { 'class': 'bck-azulclaro'} },
 
 				{ name: 'Lista Ordenada', element: 'ol', attributes: { 'class': 'bck-ol' } },
 				{ name: 'Lista Ordenada 2', element: 'ol', attributes: { 'class': 'bck-ol-2' } },
@@ -57,6 +58,7 @@
                                 { name: 'Caja saber más', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-10' } },
 				
 				{ name: 'Tabla', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table'} },
+				{ name: 'Tabla verde', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-2'} },
 				{ name: 'Celda', element: 'td', attributes: { 'class': 'bck-td'} },
 
 				{ name: 'Desplegable', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'santillana_demo-dropdown' } },
