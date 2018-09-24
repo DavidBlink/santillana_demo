@@ -14,7 +14,7 @@
 				{ name: 'Título 1', element: 'h2', attributes: { 'class': 'bck-title1'} },
 				{ name: 'Título 2', element: 'h3', attributes: { 'class': 'bck-title2'} },
 				{ name: 'Título 3', element: 'h3', attributes: { 'class': 'bck-title3'} },
-				{ name: '¿Qué sabes?', element: 'h3', attributes: { 'class': 'bck-title4'} },
+				{ name: 'Flecha verde', element: 'h3', attributes: { 'class': 'bck-title4'} },
 				{ name: 'titulo verde', element: 'h3', attributes: { 'class': 'bck-title5'} },
 				{ name: 'explora', element: 'h3', attributes: { 'class': 'bck-title6'} },
 				{ name: 'paso', element: 'h3', attributes: { 'class': 'bck-title7'} },
