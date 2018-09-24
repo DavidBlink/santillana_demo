@@ -1359,6 +1359,8 @@ table td.bck-td {
 	color: #ffffff;
 	background: #a1c037;
 	border-right: 1px solid #ffffff;
+	text-align: center;
+	font-weight: 700;
 }
 
 
