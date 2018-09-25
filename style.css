@@ -188,7 +188,7 @@ fieldset[disabled] .content_type_clase_santillana_demo .slide_main input {
 }
 
 #indice .unit-content .header {
-	border: 2px solid #9665AB;
+	border: 2px solid #008000;
     border-radius: 20px;
     border-bottom-right-radius: 0px;
 }
@@ -211,7 +211,7 @@ fieldset[disabled] .content_type_clase_santillana_demo .slide_main input {
 #indice .units ul li.active:not(.disabled),
 body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 #indice .units ul li:focus:not(.disabled) {
-	background: #9665AB;
+	background: #008000;
 }
 
 #indice .units ul li:not(.add) a .title {
@@ -793,7 +793,7 @@ content: "\f0da";
 	color: #9665AB;
 }
 
-/*lista 2*/
+/*LISTA 2*/
 
 #actividad .content .cke_contents .bck-ol-2,
 #actividad .content .texto_curso .bck-ol-2,
@@ -1395,10 +1395,19 @@ table td.bck-td {
     background: white;
 }
 
-.btn-primary, .btn-primary.disabled, .btn-primary.disabled:focus {
+.btn-primary {
     background-color: #9665AB;
+
 }
 
+ .btn-primary.disabled {
+ 	background: red;
+ }
+
+
+ .btn-primary.disabled:focus {
+ 	background: orange;
+ }
 
 
 /* CKEDITOR */
