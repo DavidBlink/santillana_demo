@@ -202,7 +202,6 @@ fieldset[disabled] .content_type_clase_santillana_demo .slide_main input {
 
 #indice .unit-content .header {
 	border: 2px solid #008000;
-    border-radius: 20px;
     border-bottom-right-radius: 0px;
 }
 
@@ -236,6 +235,18 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 }
 
 #indice .unit-content .actividades .item:not(.nivel_1) .title{font-size: 1.5rem;}
+
+#indice .unit-content {
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    background-color: #eee;
+    border: 1px solid #ddd;
+    overflow: hidden;
+    margin-bottom: 40px;
+    position: relative;
+}
+
 
 /**/
 
