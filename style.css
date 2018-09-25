@@ -65,7 +65,7 @@ a:hover, a:active, a:focus {
     float: left;
     font-size: 30px;
     font-weight: 700;
-    padding: 13px;
+    padding: 4px 10px 6px 10px;
     height: auto;
     border-radius: 10px;
     background-color: #262e2a8f;
