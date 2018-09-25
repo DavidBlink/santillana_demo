@@ -60,6 +60,19 @@ a:hover, a:active, a:focus {
 }
 /*HEADER*/
 
+#indice .unit-content .header .title {
+    color: #fff;
+    float: left;
+    font-size: 30px;
+    font-weight: 700;
+    padding: 13px;
+    height: auto;
+    border-radius: 10px;
+    background-color: #262e2a8f;
+    margin: 20px 140px 20px 30px;
+}
+
+
 .content_type_clase_santillana_demo #actividad .content .header .title img,
 .content_type_clase_santillana_demo #actividad .content .header .chapter {
 	display: none;
