@@ -37,6 +37,7 @@
 				{ name: 'Lista naranja', element: 'ol', attributes: { 'class': 'bck-ol-3' } },
 				{ name: 'Lista verde', element: 'ol', attributes: { 'class': 'bck-ol-4' } },
 				{ name: 'Lista letra verde', element: 'ol', attributes: { 'class': 'bck-ol-5' } },
+				{ name: 'Lista letra naranja', element: 'ol', attributes: { 'class': 'bck-ol-6' } },
 				
 				
 				{ name: 'Lista Desordenada', element: 'ul', attributes: { 'class': 'bck-ul'} },
