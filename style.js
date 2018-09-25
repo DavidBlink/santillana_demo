@@ -58,6 +58,7 @@
                                 { name: 'Caja saber más', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-10' } },
 				{ name: 'Caja imagen', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-11' } },
 				{ name: 'Caja azul', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-12' } },
+				{ name: 'Caja formacion', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-13' } },
 				
 				{ name: 'Tabla', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table'} },
 				{ name: 'Tabla verde', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-2'} },
