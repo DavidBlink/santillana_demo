@@ -30,6 +30,7 @@
 				{ name: 'circulo naranja', element: 'span', attributes: { 'class': 'bck-naranja'} },
 				{ name: 'azul claro', element: 'span', attributes: { 'class': 'bck-azulclaro'} },
 				{ name: 'verde desafio', element: 'span', attributes: { 'class': 'bck-verdedesafio'} },
+				{ name: 'sombreado', element: 'span', attributes: { 'class': 'bck-sombreado'} },
 
 				{ name: 'Lista Ordenada', element: 'ol', attributes: { 'class': 'bck-ol' } },
 				{ name: 'Lista Ordenada 2', element: 'ol', attributes: { 'class': 'bck-ol-2' } },
