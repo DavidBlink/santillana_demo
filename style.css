@@ -779,6 +779,10 @@ content: "\f0da";
 	font-weight: 700;
 }
 
+.bck-gris {
+	color: #98a6b9;
+}
+
 /*listas ordenadas*/
     .content ol,
 	.cke_contents ol {
