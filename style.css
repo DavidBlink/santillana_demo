@@ -304,15 +304,7 @@ body.is_app .santillana_demo-navbar.ocultar {
 
 .content_type_clase_santillana_demo .santillana_demo-navbar .dropdown button {
 	font-weight: 600;
-    width: auto;
-    color: #fff;
-    padding-bottom: 20px;
-    padding-left: 80px;
-    margin: 0;
-    text-align: center;
-    line-height: border: none;
-
-}
+   }
 
 .content_type_clase_santillana_demo .santillana_demo-navbar .dropdown button:focus {
 	outline: none;
@@ -332,8 +324,9 @@ body.is_app .santillana_demo-navbar.ocultar {
 .content_type_clase_santillana_demo .santillana_demo-navbar .dropdownTemas {
 	position: relative;
 	background-color: green;
-	padding-left: 80px;
+	padding-left: 6%;
 	display: inline-block;
+	float: left;
 }
 
 .content_type_clase_santillana_demo .santillana_demo-navbar .dropdownTemas:focus,
@@ -392,12 +385,14 @@ body.is_app .santillana_demo-navbar.ocultar {
 
 .content_type_clase_santillana_demo .santillana_demo-navbar .navbar-content h2 a {
 	font-size: 1.6rem;
-	font-weight: normal;
-	padding-left: 10px;
-	margin-left: 10px;
-	display: inline-block;
-	border-left: 1px dotted white;
-	color: #fff;
+    font-weight: 600;
+    margin-left: 10px;
+    display: inline-block;
+    color: white;
+    background-color: #0a740a;
+    border-radius: 10px;
+    text-align: center;
+    padding: 1px 6px 1px 6px;
 }
 
 .content_type_clase_santillana_demo .slider-indicators {
@@ -440,9 +435,13 @@ body.is_app .santillana_demo-navbar.ocultar {
 }
 
 .content_type_clase_santillana_demo .santillana_demo-navbar .dropdown {
-	display: block;
-	float: right;
-    margin: 37px 0px;
+	display: inline-block;
+    width: 100px;
+    float: left;
+    margin: 33px 0px;
+    padding-left: 5px;
+    border-left: 1px dotted #fff;
+    margin-left: 10px;
 }
 
 .open > .dropdown-menu {
