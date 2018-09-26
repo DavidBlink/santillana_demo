@@ -332,7 +332,7 @@ body.is_app .santillana_demo-navbar.ocultar {
 .content_type_clase_santillana_demo .santillana_demo-navbar .dropdownTemas {
 	position: relative;
 	background-color: green;
-	padding-left: 20px;
+	padding-left: 80px;
 	display: inline-block;
 }
 
