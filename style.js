@@ -31,6 +31,7 @@
 				{ name: 'azul claro', element: 'span', attributes: { 'class': 'bck-azulclaro'} },
 				{ name: 'verde desafio', element: 'span', attributes: { 'class': 'bck-verdedesafio'} },
 				{ name: 'sombreado', element: 'span', attributes: { 'class': 'bck-sombreado'} },
+				{ name: 'enfasis gris', element: 'span', attributes: { 'class': 'bck-gris'} },
 
 				{ name: 'Lista Ordenada', element: 'ol', attributes: { 'class': 'bck-ol' } },
 				{ name: 'Lista Ordenada 2', element: 'ol', attributes: { 'class': 'bck-ol-2' } },
