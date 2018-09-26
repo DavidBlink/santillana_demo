@@ -289,7 +289,7 @@ body.is_app .santillana_demo-navbar.ocultar {
 	border-radius: 5px;
 	border: none;
 	background-color: transparent;
-	color: black;
+	color: #fff;
 	vertical-align: middle;
 	margin: 0px 5px;
 	text-indent: 0px;
@@ -304,12 +304,14 @@ body.is_app .santillana_demo-navbar.ocultar {
 
 .content_type_clase_santillana_demo .santillana_demo-navbar .dropdown button {
 	font-weight: 600;
-	width: auto;
-	padding: 0;
-	margin: 0;
-	text-align: left;
-	line-height:
-	border: none;
+    width: auto;
+    color: #fff;
+    padding-bottom: 20px;
+    padding-left: 80px;
+    margin: 0;
+    text-align: center;
+    line-height: border: none;
+
 }
 
 .content_type_clase_santillana_demo .santillana_demo-navbar .dropdown button:focus {
@@ -317,7 +319,7 @@ body.is_app .santillana_demo-navbar.ocultar {
 }
 
 .content_type_clase_santillana_demo .santillana_demo-navbar .dropdown .caret {
-	border-color: black transparent transparent transparent;
+	border-color: #ffffff transparent transparent transparent;
 	margin-left: 10px;
 }
 
@@ -331,6 +333,7 @@ body.is_app .santillana_demo-navbar.ocultar {
 	position: relative;
 	background-color: green;
 	padding-left: 20px;
+	display: inline-block;
 }
 
 .content_type_clase_santillana_demo .santillana_demo-navbar .dropdownTemas:focus,
