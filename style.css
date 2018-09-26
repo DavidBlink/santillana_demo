@@ -441,8 +441,8 @@ body.is_app .santillana_demo-navbar.ocultar {
 
 .content_type_clase_santillana_demo .santillana_demo-navbar .dropdown {
 	display: block;
-	float: left;
-	margin: 10px 0;
+	float: right;
+    margin: 37px 0px;
 }
 
 .open > .dropdown-menu {
