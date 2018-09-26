@@ -293,6 +293,7 @@ body.is_app .santillana_demo-navbar.ocultar {
 	vertical-align: middle;
 	margin: 0px 5px;
 	text-indent: 0px;
+	width: 100px;
 	line-height: 3.5rem;
 	font-size: 1.9rem;
 	cursor: pointer;
