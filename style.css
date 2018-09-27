@@ -1422,11 +1422,12 @@ content: "\f0da";
 /*caja 13 formacion*/
 
 .bck-box.bck-box-13 .bck-title {
-    background-color: #9e61a4;
-    color: #fff;
+	background-color: transparent;
+    color: #e6b300;
     font-weight: 700;
-    text-align: left;
+    text-align: center;
     padding: 10px 30px 5px 40px;
+    border: 2px solid #906da6;
     border-radius: 20px 0px 0px 0px;
     width: fit-content;
 }
@@ -1445,15 +1446,9 @@ content: "\f0da";
 
 
 .bck-box.bck-box-13 .bck-content {
-	background-color: #f6e7bf;
+	background-color: #e8e3f0;
     border-radius: 0px 30px 0px 0px;
 }
-
-
-
-
-
-
 
 /**Iconos**/
 
