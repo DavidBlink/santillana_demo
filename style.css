@@ -1426,28 +1426,26 @@ content: "\f0da";
     color: #e6b300;
     font-weight: 700;
     text-align: center;
-    padding: 10px 30px 5px 40px;
+    padding: 10px 10px 5px 10px;
     border: 2px solid #906da6;
-    border-radius: 20px 0px 0px 0px;
-    width: fit-content;
+    border-radius: 20px 0px 20px 0px;
 }
 
 .bck-box.bck-box-13 .bck-title:before {
-	content: " ";
-    display: block;
+    content: " ";
     background: url(imagenes/bambefore.png);
-    padding: 30px;
-    width: 24px;
-    height: 24px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 40px;
+    z-index: 100;
     position: absolute;
-    left: 9px;
-
+    left: -9px;
+    top: -32px;
 }
-
 
 .bck-box.bck-box-13 .bck-content {
 	background-color: #e8e3f0;
-    border-radius: 0px 30px 0px 0px;
+    border-radius: 0px 0px 30px 0px;
 }
 
 /**Iconos**/
