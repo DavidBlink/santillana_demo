@@ -1491,6 +1491,12 @@ table td.bck-td {
 	border: 1px solid #a1c037;
 }
 
+
+/*celda general*/
+td {
+    padding: 10px;
+}
+
 /*celda 1*/
 .bck-td-1 {
 	color: #ffffff;
