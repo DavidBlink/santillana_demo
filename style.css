@@ -1172,7 +1172,7 @@ content: "\f0da";
     border-bottom: 2px solid #ffffff;
     padding-left: 30px;
     padding-top: 5px;
-    margin-top: -40px;
+    margin-top: -30px;
 }
 
 
@@ -1418,6 +1418,42 @@ content: "\f0da";
     border: 1px solid #848d94;
     border-radius: 0px 0px 20px 20px;
 }
+
+/*caja 13 formacion*/
+
+.bck-box.bck-box-13 .bck-title {
+    background-color: #9e61a4;
+    color: #fff;
+    font-weight: 700;
+    text-align: left;
+    padding: 10px 30px 5px 40px;
+    border-radius: 20px 0px 0px 0px;
+    width: fit-content;
+}
+
+.bck-box.bck-box-13 .bck-title:before {
+	content: " ";
+    display: block;
+    background: url(imagenes/bambefore.png);
+    padding: 30px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    left: 9px;
+
+}
+
+
+.bck-box.bck-box-13 .bck-content {
+	background-color: #f6e7bf;
+    border-radius: 0px 30px 0px 0px;
+}
+
+
+
+
+
+
 
 /**Iconos**/
 
