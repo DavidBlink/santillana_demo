@@ -18,7 +18,7 @@
 				{ name: 'titulo verde', element: 'h3', attributes: { 'class': 'bck-title5'} },
 				{ name: 'titulo morado', element: 'h3', attributes: { 'class': 'bck-title11'} },
 				{ name: 'explora', element: 'h3', attributes: { 'class': 'bck-title6'} },
-				{ name: 'paso', element: 'h3', attributes: { 'class': 'bck-title7'} },
+				{ name: 'paso gris', element: 'h3', attributes: { 'class': 'bck-title7'} },
 				{ name: 'paso naranja', element: 'h3', attributes: { 'class': 'bck-title12'} },
 				{ name: 'titulo gris', element: 'h3', attributes: { 'class': 'bck-title8'} },
 				{ name: 'pie de foto', element: 'h3', attributes: { 'class': 'bck-title9'} },
