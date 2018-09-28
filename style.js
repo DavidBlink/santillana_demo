@@ -16,12 +16,14 @@
 				{ name: 'Título 3', element: 'h3', attributes: { 'class': 'bck-title3'} },
 				{ name: 'Flecha verde', element: 'h3', attributes: { 'class': 'bck-title4'} },
 				{ name: 'titulo verde', element: 'h3', attributes: { 'class': 'bck-title5'} },
+				{ name: 'titulo morado', element: 'h3', attributes: { 'class': 'bck-title11'} },
 				{ name: 'explora', element: 'h3', attributes: { 'class': 'bck-title6'} },
 				{ name: 'paso', element: 'h3', attributes: { 'class': 'bck-title7'} },
+				{ name: 'paso naranja', element: 'h3', attributes: { 'class': 'bck-title12'} },
 				{ name: 'titulo gris', element: 'h3', attributes: { 'class': 'bck-title8'} },
 				{ name: 'pie de foto', element: 'h3', attributes: { 'class': 'bck-title9'} },
 				{ name: 'relaciona', element: 'h3', attributes: { 'class': 'bck-title10'} },
-				
+							
 
 				{ name: 'Énfasis', element: 'span', attributes: { 'class': 'bck-enfasis'} },
 				{ name: 'Énfasis Naranja', element: 'span', attributes: { 'class': 'bck-enfasis-naranja'} },
@@ -37,8 +39,10 @@
 				{ name: 'Lista Ordenada 2', element: 'ol', attributes: { 'class': 'bck-ol-2' } },
 				{ name: 'Lista naranja', element: 'ol', attributes: { 'class': 'bck-ol-3' } },
 				{ name: 'Lista verde', element: 'ol', attributes: { 'class': 'bck-ol-4' } },
+				{ name: 'Lista morado', element: 'ol', attributes: { 'class': 'bck-ol-7' } },				
 				{ name: 'Lista letra verde', element: 'ol', attributes: { 'class': 'bck-ol-5' } },
 				{ name: 'Lista letra naranja', element: 'ol', attributes: { 'class': 'bck-ol-6' } },
+				{ name: 'Lista letra morado', element: 'ol', attributes: { 'class': 'bck-ol-8' } },
 				
 				
 				{ name: 'Lista Desordenada', element: 'ul', attributes: { 'class': 'bck-ul'} },
@@ -46,6 +50,7 @@
 				{ name: 'Lista Desordenada 3', element: 'ul', attributes: { 'class': 'bck-ul-3'} },
 				{ name: 'Lista Des amarilla', element: 'ul', attributes: { 'class': 'bck-ul-4'} },
 				{ name: 'Lista Des blanca', element: 'ul', attributes: { 'class': 'bck-ul-5'} },
+				{ name: 'Lista Des morado', element: 'ul', attributes: { 'class': 'bck-ul-6'} },
 				
 				{ name: 'Caja 1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-1' } },
 				{ name: 'Caja marron', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-2' } },
