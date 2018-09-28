@@ -1299,8 +1299,6 @@ content: "\f0da";
     margin-top: 30px;
     background-color: #a87c24;
     text-align: left;
-
-
 }
 
 .bck-box.bck-box-2 .bck-title p{
@@ -1317,6 +1315,35 @@ content: "\f0da";
     padding: 20px 40px 20px 20px;
     color: #fff;
 }
+
+
+/*caja blanca*/
+
+.bck-box.bck-box-14 .bck-title {
+    color: #9e61a4;
+    font-weight: 700;
+    border-radius: 20px 0px 0px 0px;
+    margin-top: 30px;
+    background-color: #ffffff;
+    text-align: left;
+}
+
+.bck-box.bck-box-14 .bck-title p{
+	font-size: 2rem;
+    border-bottom: 2px solid #9e61a4;
+    padding-left: 30px;
+    padding-top: 5px;
+    margin-top: -30px;
+}
+
+
+.bck-box.bck-box-14 .bck-content {
+	background-color: #a87c24;
+    padding: 20px 40px 20px 20px;
+    color: #000000;
+}
+
+
 
 /*caja3 flotante*/
 
