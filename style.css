@@ -1124,6 +1124,30 @@ content: "\f0da";
 
 /*listas desordenadas*/
 
+.content ul,
+.cke_contents ul {
+		list-style: none;
+		padding: 0;
+		margin: 0 0 20px 0;
+	}
+.content ul li,
+.cke_contents ul li {
+		counter-increment: bck-li-counter 1;
+		position: relative;
+		padding-left: 32px;
+	}
+
+.content ul li:before,
+.cke_contents ul li:before {
+		content: counter(bck-li-counter)'. ';
+   		 position: absolute;
+   		 margin-left: -25px;
+    	 font-weight: bold;
+   		 font-size: 2.0rem;
+   		 text-align: right;
+   		 margin-top: -3px;
+	}
+
 #actividad .content ul.bck-ul li {
 	list-style: none;
 }
@@ -1190,14 +1214,12 @@ content: "\f0da";
 /*lista des amarilla*/
 #actividad .content .cke_contents ul .bck-ul-4 li,
 #actividad .content .texto_curso ul .bck-ul-4 li,
-#actividad .content .texto_curso ul .bck-ul-4 li,
 #actividad .content .workspace ul .bck-ul-4 li {
 	list-style: none;
 }
 
 #actividad .content .cke_contents ul .bck-ul-4 li:before,
 #actividad .content .texto_curso ul .bck-ul-4 li:before,
-#actividad .content .texto_curso .bck-ul-4 li:before,
 #actividad .content .workspace ul li .bck-ul-4 li:before {
 	content: "";
     position: absolute;
@@ -1214,6 +1236,22 @@ content: "\f0da";
 
 
 /*lista blanca*/
+
+#actividad .content .texto_curso .bck-ul-5 li:before,
+#actividad .content .workspace ul li .bck-ul-5 li:before {
+	content: "";
+    position: absolute;
+	height: 6px;
+    width: 6px;
+    background-color: #ffffff;
+    margin-top: 12px;
+    margin-left: -15px;
+	margin-right: 7px;
+	margin-bottom: 2px;
+	border-radius: 50%;
+}
+
+/*lista des morado*/
 
 #actividad .content .texto_curso .bck-ul-5 li:before,
 #actividad .content .workspace ul li .bck-ul-5 li:before {
