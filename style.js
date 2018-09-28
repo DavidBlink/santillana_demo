@@ -12,7 +12,6 @@
 			name: 'santillana_demo',
 			styles: [
 				
-				
 				{ name: 'Flecha verde', element: 'h3', attributes: { 'class': 'bck-title4'} },
 				{ name: 'Flecha morado', element: 'h3', attributes: { 'class': 'bck-title13'} },
 				{ name: 'titulo verde', element: 'h3', attributes: { 'class': 'bck-title5'} },
