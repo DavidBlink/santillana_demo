@@ -612,24 +612,6 @@ body.is_app .santillana_demo-navbar.ocultar {
 
 /*titulos*/
 
-
-.bck-title1 {
-    color: #9665AB;
-    font-size: 2.4rem;
-    font-weight: bold;
-	position: relative;
-}
-
-/*titulo 2*/
-
-.bck-title2 {
-    color: #9665AB;
-    font-size: 2.1rem;
-    font-weight: bold;
-    border-bottom: 1px solid #9665AB;
-	position: relative;
-}
-
 /*titulo 3*/
 
 .bck-title3 {
