@@ -1128,24 +1128,24 @@ content: "\f0da";
 .cke_contents ul {
 		list-style: none;
 		padding: 0;
-		margin: 0 0 20px 0;
 	}
 .content ul li,
 .cke_contents ul li {
-		counter-increment: bck-li-counter 1;
-		position: relative;
-		padding-left: 32px;
+		list-style: none;
 	}
 
 .content ul li:before,
 .cke_contents ul li:before {
-		content: counter(bck-li-counter)'. ';
-   		 position: absolute;
-   		 margin-left: -25px;
-    	 font-weight: bold;
-   		 font-size: 2.0rem;
-   		 text-align: right;
-   		 margin-top: -3px;
+    content: "";
+    position: absolute;
+	height: 6px;
+    width: 6px;
+    background-color: #9665AB;
+    margin-top: 12px;
+    margin-left: -15px;
+	margin-right: 7px;
+	margin-bottom: 2px;
+	border-radius: 50%;
 	}
 
 #actividad .content ul.bck-ul li {
