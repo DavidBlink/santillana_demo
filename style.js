@@ -30,6 +30,7 @@
 				{ name: 'Énfasis Naranja', element: 'span', attributes: { 'class': 'bck-enfasis-naranja'} },
 				{ name: 'Versalitas', element: 'span', attributes: { 'class': 'bck-versalitas'} },
 				{ name: 'verde', element: 'span', attributes: { 'class': 'bck-verde1'} },
+				{ name: 'morado', element: 'span', attributes: { 'class': 'bck-morado'} },
 				{ name: 'circulo naranja', element: 'span', attributes: { 'class': 'bck-naranja'} },
 				{ name: 'azul claro', element: 'span', attributes: { 'class': 'bck-azulclaro'} },
 				{ name: 'verde desafio', element: 'span', attributes: { 'class': 'bck-verdedesafio'} },
