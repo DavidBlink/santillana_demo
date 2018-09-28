@@ -612,16 +612,6 @@ body.is_app .santillana_demo-navbar.ocultar {
 
 /*titulos*/
 
-/*titulo 3*/
-
-.bck-title3 {
-    color: #FF8400;
-    font-size: 2.4rem;
-    font-weight: 600;
-    display: inline-block;
-	position: relative;
-}
-
 /*flecha verde*/
 
 .bck-title4{
@@ -697,7 +687,15 @@ content: "\f063";
     color: #9e61a4;
 }
 
+/*titulo naranja*/
 
+.bck-title3 {
+    color: #FF8400;
+    font-size: 2.4rem;
+    font-weight: 600;
+    display: inline-block;
+	position: relative;
+}
 
 /*explora*/
 
