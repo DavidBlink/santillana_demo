@@ -11,13 +11,13 @@
 		ckEditorStyles: {
 			name: 'santillana_demo',
 			styles: [
-				{ name: 'Título 1', element: 'h2', attributes: { 'class': 'bck-title1'} },
-				{ name: 'Título 2', element: 'h3', attributes: { 'class': 'bck-title2'} },
-				{ name: 'Título 3', element: 'h3', attributes: { 'class': 'bck-title3'} },
+				
+				
 				{ name: 'Flecha verde', element: 'h3', attributes: { 'class': 'bck-title4'} },
 				{ name: 'Flecha morado', element: 'h3', attributes: { 'class': 'bck-title13'} },
 				{ name: 'titulo verde', element: 'h3', attributes: { 'class': 'bck-title5'} },
 				{ name: 'titulo morado', element: 'h3', attributes: { 'class': 'bck-title11'} },
+				{ name: 'titulo naranja', element: 'h3', attributes: { 'class': 'bck-title3'} },
 				{ name: 'titulo gris', element: 'h3', attributes: { 'class': 'bck-title8'} },
 				{ name: 'explora', element: 'h3', attributes: { 'class': 'bck-title6'} },
 				{ name: 'paso gris', element: 'h3', attributes: { 'class': 'bck-title7'} },
@@ -75,11 +75,8 @@
 				{ name: 'Celda verde', element: 'td', attributes: { 'class': 'bck-td-1' } },
 
 				{ name: 'Desplegable', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'santillana_demo-dropdown' } },
-				{ name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'santillana_demo-dropdown-2' } },
+				{ name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'santillana_demo-dropdown-2' } }
 
-				{ name: 'Imagen Sin Bordes', type: 'widget', widget: 'image', attributes: { 'class': 'normal-img' } },
-				{ name: 'Imagen derecha', element: 'img', attributes: { 'class': 'bck-img right' } },
-				{ name: 'Imagen izquierda', element: 'img', attributes: { 'class': 'bck-img left' } }
 
 			]
 		},
