@@ -35,6 +35,7 @@
 				{ name: 'demuestra-naranja', element: 'h3', attributes: { 'class': 'bck-title21'} },
 				{ name: 'demuestra-azul', element: 'h3', attributes: { 'class': 'bck-title22'} },
 				{ name: 'demuestra-morado', element: 'h3', attributes: { 'class': 'bck-title23'} },
+				{ name: 'relaciona', element: 'h3', attributes: { 'class': 'bck-title26'} },
 				
 							
 
