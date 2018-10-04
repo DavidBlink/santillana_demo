@@ -1947,7 +1947,7 @@ content: "\f0da";
 
 /*caja 17 formacion buitre*/
 
-.bck-box.bck-box-13 .bck-title {
+.bck-box.bck-box-17 .bck-title {
 	background-color: transparent;
     color: #e6b300;
     font-weight: 700;
@@ -1957,7 +1957,7 @@ content: "\f0da";
     border-radius: 20px 20px 0px 0px;
 }
 
-.bck-box.bck-box-13 .bck-title:after {
+.bck-box.bck-box-17 .bck-title:after {
     content: " ";
     background: url(imagenes/buitre1.png);
     background-repeat: no-repeat;
@@ -1968,7 +1968,7 @@ content: "\f0da";
     left: 0px;
 }
 
-.bck-box.bck-box-13 .bck-content {
+.bck-box.bck-box-17 .bck-content {
 	background-color: #e8e3f0;
     border-radius: 0px 0px 30px 0px;
     padding: 10px 25px 10px 15px;
