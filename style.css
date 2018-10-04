@@ -778,13 +778,79 @@ content: "\f0da";
 	width: fit-content;
 	border-radius: 10px 10px 0px 0px;
 	padding: 5px 10px 4px 10px;
-
 }
 
+/*saber hacer2*/
+.bck-title25 {
+	background-color: #ffffff;
+	color: #e3ab00;
+	width: fit-content;
+	border-radius: 10px 10px 0px 0px;
+	padding: 5px 10px 4px 10px;
+}
 
+/*revisa naranja1*/
+.bck-title10 {
+	background-color: #e3ab00;
+	color: #ffffff;
+	border-radius: 0px 0px 10px 0px;
+	padding: 10px;
+	width: fit-content;
+}
 
+/*revisa naranja2*/
+.bck-title18 {
+	background-color: #e3ab00;
+	color: #ffffff;
+	border-radius: 0px 0px 10px 0px;
+	padding: 10px;
+	width: fit-content;
+}
 
+/*revisa azul*/
+.bck-title19 {
+	background-color: #e3ab00;
+	color: #ffffff;
+	border-radius: 0px 0px 10px 0px;
+	padding: 10px;
+	width: fit-content;
+}
 
+/*demuestra verde*/
+.bck-title20 {
+	background-color: #e3ab00;
+	color: #ffffff;
+	border-radius: 0px 0px 10px 0px;
+	padding: 10px;
+	width: fit-content;
+}
+
+/*demuestra naranja*/
+.bck-title21 {
+	background-color: #e3ab00;
+	color: #ffffff;
+	border-radius: 0px 0px 10px 0px;
+	padding: 10px;
+	width: fit-content;
+}
+
+/*demuestra azul*/
+.bck-title22 {
+	background-color: #e3ab00;
+	color: #ffffff;
+	border-radius: 0px 0px 10px 0px;
+	padding: 10px;
+	width: fit-content;
+}
+
+/*demuestra morado*/
+.bck-title23 {
+	background-color: #e3ab00;
+	color: #ffffff;
+	border-radius: 0px 0px 10px 0px;
+	padding: 10px;
+	width: fit-content;
+}
 
 
 
@@ -807,6 +873,13 @@ content: "\f0da";
 	color: #9e61a4;
 }
 
+.bck-azul {
+	color: #9e61a4;
+}
+
+.bck-rojo {
+	color: #9e61a4;
+}
 
 .bck-naranja {
 	background: orange;
@@ -1466,6 +1539,41 @@ content: "\f0da";
 	background-color: #f6e7bf;
     border-radius: 0px 30px 0px 0px;
 }
+
+/*caja 15 Activarojo*/
+
+.bck-box.bck-box-15 .bck-title {
+    background-color: red;
+    color: #fff;
+    font-weight: 700;
+    text-align: left;
+    padding: 10px 30px 5px 40px;
+    border-radius: 20px 0px 0px 0px;
+    width: fit-content;
+}
+
+.bck-box.bck-box-15 .bck-title:before {
+	content: "\f063";
+    font-family: FontAwesome;
+    display: inline-block;
+    background-color: #fff;
+    color: red;
+    border-radius: 50%;
+    padding: 3px;
+    font-weight: 300;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    left: 9px;
+    text-align: center;
+}
+
+
+.bck-box.bck-box-15 .bck-content {
+	background-color: red;
+    border-radius: 0px 30px 0px 0px;
+}
+
 
 /*caja materiales*/
 
