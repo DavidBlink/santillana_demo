@@ -1507,7 +1507,7 @@ content: "\f0da";
 /*caja 4 Activaverde flotante*/
 
 .bck-box.bck-box-4 .bck-title {
-    background-color: #70a83b;
+    background-color: #3aaa35;
     color: #fff;
     font-weight: 700;
     text-align: left;
@@ -1525,7 +1525,7 @@ content: "\f0da";
     font-family: FontAwesome;
     display: inline-block;
     background-color: #fff;
-    color: #70a83b;
+    color: #3aaa35;
     border-radius: 50%;
     padding: 3px;
     font-weight: 300;
@@ -1618,7 +1618,7 @@ content: "\f0da";
 /*caja 15 Activarojo*/
 
 .bck-box.bck-box-15 .bck-title {
-    background-color: red;
+    background-color: #e30613;
     color: #fff;
     font-weight: 700;
     text-align: left;
@@ -1632,7 +1632,7 @@ content: "\f0da";
     font-family: FontAwesome;
     display: inline-block;
     background-color: #fff;
-    color: red;
+    color: #e30613;
     border-radius: 50%;
     padding: 3px;
     font-weight: 300;
@@ -1649,6 +1649,150 @@ content: "\f0da";
     border-radius: 0px 30px 0px 0px;
 }
 
+/*caja queverde*/
+
+.bck-box.bck-box-18 .bck-title {
+    background-color: #3aaa35;
+    color: #fff;
+    font-weight: 700;
+    text-align: left;
+    padding: 10px 30px 5px 40px;
+    border-radius: 20px 0px 0px 0px;
+    width: fit-content;
+}
+
+.bck-box.bck-box-18 .bck-title p{
+	font-size: 2rem;
+}
+
+.bck-box.bck-box-18 .bck-title:before {
+	content: "\f063";
+    font-family: FontAwesome;
+    display: inline-block;
+    background-color: #fff;
+    color: #3aaa35;
+    border-radius: 50%;
+    padding: 3px;
+    font-weight: 300;
+    width: 24px;
+    height: 24px;
+    text-align: center;
+}
+
+.bck-box.bck-box-18 .bck-content {
+	background-color: #f6e7bf;
+    border-radius: 0px 30px 0px 0px;
+    padding: 20px 40px 20px 20px;
+}
+
+/*caja queazul*/
+
+.bck-box.bck-box-19 .bck-title {
+    background-color: #007bc2;
+    color: #fff;
+    font-weight: 700;
+    text-align: left;
+    padding: 10px 30px 5px 40px;
+    border-radius: 20px 0px 0px 0px;
+    width: fit-content;
+}
+
+.bck-box.bck-box-19 .bck-title p{
+	font-size: 2rem;
+}
+
+.bck-box.bck-box-19 .bck-title:before {
+	content: "\f063";
+    font-family: FontAwesome;
+    display: inline-block;
+    background-color: #fff;
+    color: #007bc2;
+    border-radius: 50%;
+    padding: 3px;
+    font-weight: 300;
+    width: 24px;
+    height: 24px;
+    text-align: center;
+}
+
+.bck-box.bck-box-19 .bck-content {
+	background-color: #f6e7bf;
+    border-radius: 0px 30px 0px 0px;
+    padding: 20px 40px 20px 20px;
+}
+
+/*caja quemorado*/
+
+.bck-box.bck-box-20 .bck-title {
+    background-color: #9e61a4;
+    color: #fff;
+    font-weight: 700;
+    text-align: left;
+    padding: 10px 30px 5px 40px;
+    border-radius: 20px 0px 0px 0px;
+    width: fit-content;
+}
+
+.bck-box.bck-box-20 .bck-title p{
+	font-size: 2rem;
+}
+
+.bck-box.bck-box-20 .bck-title:before {
+	content: "\f063";
+    font-family: FontAwesome;
+    display: inline-block;
+    background-color: #fff;
+    color: #9e61a4;
+    border-radius: 50%;
+    padding: 3px;
+    font-weight: 300;
+    width: 24px;
+    height: 24px;
+    text-align: center;
+}
+
+.bck-box.bck-box-20 .bck-content {
+	background-color: #f6e7bf;
+    border-radius: 0px 30px 0px 0px;
+    padding: 20px 40px 20px 20px;
+}
+
+/*caja querojo*/
+
+.bck-box.bck-box-21 .bck-title {
+    background-color: #e30613;
+    color: #fff;
+    font-weight: 700;
+    text-align: left;
+    padding: 10px 30px 5px 40px;
+    border-radius: 20px 0px 0px 0px;
+    width: fit-content;
+}
+
+.bck-box.bck-box-21 .bck-title p{
+	font-size: 2rem;
+}
+
+.bck-box.bck-box-21 .bck-title:before {
+	content: "\f063";
+    font-family: FontAwesome;
+    display: inline-block;
+    background-color: #fff;
+    color: #e30613;
+    border-radius: 50%;
+    padding: 3px;
+    font-weight: 300;
+    width: 24px;
+    height: 24px;
+    text-align: center;
+}
+
+
+.bck-box.bck-box-21 .bck-content {
+	background-color: #f6e7bf;
+    border-radius: 0px 30px 0px 0px;
+    padding: 20px 40px 20px 20px;
+}
 
 /*caja materiales*/
 
