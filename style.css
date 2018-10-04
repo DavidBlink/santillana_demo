@@ -620,7 +620,7 @@ body.is_app .santillana_demo-navbar.ocultar {
     font-weight: 600;
     display: inline-block;
     position: relative;
-    background: #70a83b;
+    background: #3aaa35;
     padding: 5px 30px 2px 60px;
     border-radius: 0px 15px 0px 0px;
 }
@@ -630,7 +630,7 @@ content: "\f063";
     font-family: FontAwesome;
     display: inline-block;
     background-color: #fff;
-    color: #70a83b;
+    color: #3aaa35;
     border-radius: 50%;
     padding: 0px;
     font-weight: 100;
@@ -671,6 +671,65 @@ content: "\f063";
 }
 
 
+/*flecha rojo*/
+
+.bck-title14{
+        color: #ffffff;
+    font-size: 2.4rem;
+    font-weight: 600;
+    display: inline-block;
+    position: relative;
+    background: #e30613;
+    padding: 5px 30px 2px 60px;
+    border-radius: 0px 15px 0px 0px;
+}
+
+.bck-title14:before {
+content: "\f063";
+    font-family: FontAwesome;
+    display: inline-block;
+    background-color: #ffffff;
+    color: #e30613;
+    border-radius: 50%;
+    padding: 0px;
+    font-weight: 100;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    left: 15px;
+    text-align: center;
+}
+
+/*flecha azul*/
+
+.bck-title15{
+        color: #ffffff;
+    font-size: 2.4rem;
+    font-weight: 600;
+    display: inline-block;
+    position: relative;
+    background: #007bc2;
+    padding: 5px 30px 2px 60px;
+    border-radius: 0px 15px 0px 0px;
+}
+
+.bck-title15:before {
+content: "\f063";
+    font-family: FontAwesome;
+    display: inline-block;
+    background-color: #ffffff;
+    color: #007bc2;
+    border-radius: 50%;
+    padding: 0px;
+    font-weight: 100;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    left: 15px;
+    text-align: center;
+}
+
+
 /*titulo verde*/
 
 .bck-title5 {
@@ -687,10 +746,26 @@ content: "\f063";
     color: #9e61a4;
 }
 
+/*titulo rojo*/
+
+.bck-title16 {
+	font-size: 26px;
+    font-weight: 600;
+    color: #e30613;
+}
+
+/*titulo azul*/
+
+.bck-title17 {
+	font-size: 26px;
+    font-weight: 600;
+    color: #007bc2;
+}
+
 /*titulo naranja*/
 
 .bck-title3 {
-    color: #FF8400;
+    color: #f8a800;
     font-size: 2.4rem;
     font-weight: 600;
     display: inline-block;
@@ -763,7 +838,7 @@ content: "\f0da";
 /*relaciona*/
 
 .bck-title10 {
-	background: green;
+	background: #19763a;
     width: fit-content;
     padding: 5px 15px 2px 15px;
     color: #fff;
@@ -774,7 +849,7 @@ content: "\f0da";
 /*saber hacer*/
 .bck-title24 {
 	background-color: #ffffff;
-	color: #e3ab00;
+	color: #f8a800;
 	width: fit-content;
 	border-radius: 10px 10px 0px 0px;
 	padding: 5px 10px 4px 10px;
@@ -783,7 +858,7 @@ content: "\f0da";
 /*saber hacer2*/
 .bck-title25 {
 	background-color: #ffffff;
-	color: #e3ab00;
+	color: #f8a800;
 	width: fit-content;
 	border-radius: 10px 10px 0px 0px;
 	padding: 5px 10px 4px 10px;
@@ -791,7 +866,7 @@ content: "\f0da";
 
 /*revisa naranja1*/
 .bck-title10 {
-	background-color: #e3ab00;
+	background-color: #f8a800;
 	color: #ffffff;
 	border-radius: 0px 0px 10px 0px;
 	padding: 10px;
@@ -800,7 +875,7 @@ content: "\f0da";
 
 /*revisa naranja2*/
 .bck-title18 {
-	background-color: #e3ab00;
+	background-color: #f8a800;
 	color: #ffffff;
 	border-radius: 0px 0px 10px 0px;
 	padding: 10px;
@@ -809,7 +884,7 @@ content: "\f0da";
 
 /*revisa azul*/
 .bck-title19 {
-	background-color: #e3ab00;
+	background-color: #72a5d9;
 	color: #ffffff;
 	border-radius: 0px 0px 10px 0px;
 	padding: 10px;
@@ -818,7 +893,7 @@ content: "\f0da";
 
 /*demuestra verde*/
 .bck-title20 {
-	background-color: #e3ab00;
+	background-color: #3aaa35;
 	color: #ffffff;
 	border-radius: 0px 0px 10px 0px;
 	padding: 10px;
@@ -827,7 +902,7 @@ content: "\f0da";
 
 /*demuestra naranja*/
 .bck-title21 {
-	background-color: #e3ab00;
+	background-color: #f8a800;
 	color: #ffffff;
 	border-radius: 0px 0px 10px 0px;
 	padding: 10px;
@@ -836,7 +911,7 @@ content: "\f0da";
 
 /*demuestra azul*/
 .bck-title22 {
-	background-color: #e3ab00;
+	background-color: #007bc2;
 	color: #ffffff;
 	border-radius: 0px 0px 10px 0px;
 	padding: 10px;
@@ -845,7 +920,7 @@ content: "\f0da";
 
 /*demuestra morado*/
 .bck-title23 {
-	background-color: #e3ab00;
+	background-color: #9e61a4;
 	color: #ffffff;
 	border-radius: 0px 0px 10px 0px;
 	padding: 10px;
@@ -1634,7 +1709,7 @@ content: "\f0da";
 /*caja saber más*/
 
 .bck-box.bck-box-10 .bck-title {
-    background-color: #ffa500;
+    background-color: #f8a800;
     color: #ffffff;
     font-weight: 700;
     width: fit-content;
