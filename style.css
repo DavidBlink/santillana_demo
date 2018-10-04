@@ -272,7 +272,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
     height: 82px;
     left: 0;
     z-index: 100;
-    background-color: green;
+    background-color: #3aaa35;
 }
 
 body.is_app .santillana_demo-navbar {
@@ -324,7 +324,7 @@ body.is_app .santillana_demo-navbar.ocultar {
 
 .content_type_clase_santillana_demo .santillana_demo-navbar .dropdownTemas {
 	position: relative;
-	background-color: green;
+	background-color: #3aaa35;
 	padding-left: 6%;
 	display: inline-block;
 	float: left;
@@ -389,8 +389,8 @@ body.is_app .santillana_demo-navbar.ocultar {
     font-weight: 600;
     margin-left: 10px;
     display: inline-block;
-    color: white;
-    background-color: #0a740a;
+    color: #ffffff;
+    background-color: #33a32e;
     border-radius: 10px;
     text-align: center;
     padding: 1px 6px 1px 6px;
@@ -1126,7 +1126,7 @@ content: "\f0da";
 #actividad .content .workspace ol li .bck-ol-4 li:before {
     content: counter(bck-li-counter)" ";
     position: absolute;
-    background: green;
+    background: #3aaa35;
     width: 24px;
     height: 24px;
     line-height: initial;
@@ -1201,7 +1201,7 @@ content: "\f0da";
     content: counter(bck-li-counter, lower-alpha)".";
     position: absolute;
     text-align: center;
-    color: green;
+    color: #3aaa35;
     margin-left: -30px;
 }
 
@@ -2051,7 +2051,7 @@ td {
 }
 
  .btn-primary.disabled {
- 	background: green;
+ 	background: #3aaa35;
  }
 
 
