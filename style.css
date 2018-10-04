@@ -836,15 +836,6 @@ content: "\f0da";
     text-align: center;
 }
 
-/*relaciona*/
-
-.bck-title10 {
-	background: #19763a;
-    width: fit-content;
-    padding: 5px 15px 2px 15px;
-    color: #fff;
-    border-radius: 20% 20% 0% 0%;
-}
 
 
 /*saber hacer*/
@@ -929,12 +920,12 @@ content: "\f0da";
 }
 
 /*relaciona*/
-.bck-title24 {
-	background-color: #19763a;
-	color: #ffffff;
-	border-radius: 10px 10px 0px 0px;
-	padding: 7px;
-	width: fit-content;
+.bck-title26 {
+	background: #19763a;
+    width: fit-content;
+    padding: 5px 15px 2px 15px;
+    color: #fff;
+    border-radius: 20% 20% 0% 0%;
 }
 
 
