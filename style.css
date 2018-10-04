@@ -767,6 +767,7 @@ content: "\f063";
 .bck-title3 {
     color: #f8a800;
     font-size: 2.4rem;
+    font-weight: 700;
     font-weight: 600;
     display: inline-block;
 	position: relative;
@@ -869,7 +870,7 @@ content: "\f0da";
 	background-color: #f8a800;
 	color: #ffffff;
 	border-radius: 0px 0px 10px 0px;
-	padding: 10px;
+	padding: 7px;
 	width: fit-content;
 }
 
@@ -878,7 +879,7 @@ content: "\f0da";
 	background-color: #f8a800;
 	color: #ffffff;
 	border-radius: 0px 0px 10px 0px;
-	padding: 10px;
+	padding: 7px;
 	width: fit-content;
 }
 
@@ -887,7 +888,7 @@ content: "\f0da";
 	background-color: #72a5d9;
 	color: #ffffff;
 	border-radius: 0px 0px 10px 0px;
-	padding: 10px;
+	padding: 7px;
 	width: fit-content;
 }
 
@@ -896,7 +897,7 @@ content: "\f0da";
 	background-color: #3aaa35;
 	color: #ffffff;
 	border-radius: 0px 0px 10px 0px;
-	padding: 10px;
+	padding: 7px;
 	width: fit-content;
 }
 
@@ -905,7 +906,7 @@ content: "\f0da";
 	background-color: #f8a800;
 	color: #ffffff;
 	border-radius: 0px 0px 10px 0px;
-	padding: 10px;
+	padding: 7px;
 	width: fit-content;
 }
 
@@ -914,7 +915,7 @@ content: "\f0da";
 	background-color: #007bc2;
 	color: #ffffff;
 	border-radius: 0px 0px 10px 0px;
-	padding: 10px;
+	padding: 7px;
 	width: fit-content;
 }
 
@@ -923,7 +924,7 @@ content: "\f0da";
 	background-color: #9e61a4;
 	color: #ffffff;
 	border-radius: 0px 0px 10px 0px;
-	padding: 10px;
+	padding: 7px;
 	width: fit-content;
 }
 
