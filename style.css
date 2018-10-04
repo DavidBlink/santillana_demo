@@ -1964,6 +1964,7 @@ content: "\f0da";
     border: 2px solid #906da6;
     border-radius: 20px 20px 0px 0px;
     font-size: 2.4rem;
+    width: fit-content;
 }
 
 .bck-box.bck-box-17 .bck-title:after {
@@ -1974,7 +1975,8 @@ content: "\f0da";
     padding: 50px;
     z-index: 100;
     position: absolute;
-    margin-top: -57px;
+    margin-top: -68px;
+    left: 277px;
 }
 
 .bck-box.bck-box-17 .bck-content {
