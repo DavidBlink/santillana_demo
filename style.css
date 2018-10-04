@@ -621,7 +621,7 @@ body.is_app .santillana_demo-navbar.ocultar {
     display: inline-block;
     position: relative;
     background: #3aaa35;
-    padding: 5px 30px 2px 60px;
+    padding: 5px 30px 4px 60px;
     border-radius: 0px 15px 0px 0px;
 }
 
@@ -1834,7 +1834,7 @@ content: "\f0da";
     padding: 10px 0px 5px 0px;
     border-radius: 20px 20px 0px 0px;
     border: 1px solid #c20f1a;
-    font-size: 2rem;
+    font-size: 2.4rem;
     
 }
 
@@ -1853,6 +1853,7 @@ content: "\f0da";
     text-align: left;
     padding: 10px 0px 5px 20px;
     border-radius: 0px 20px 0px 0px;
+    font-size: 2.5rem;
    
     
 }
@@ -1873,6 +1874,7 @@ content: "\f0da";
     text-align: left;
     padding: 5px 20px 5px 20px;
     border-radius: 0px 0px 20px 0px;
+    font-size: 2.4rem;
 }
 
 .bck-box.bck-box-10 .bck-content {
@@ -1930,6 +1932,7 @@ content: "\f0da";
     padding: 10px 10px 5px 10px;
     border: 2px solid #906da6;
     border-radius: 20px 20px 0px 0px;
+    font-size: 2.4rem;
 }
 
 .bck-box.bck-box-13 .bck-title:before {
@@ -1961,6 +1964,8 @@ content: "\f0da";
     border: 2px solid #906da6;
     border-radius: 20px 20px 0px 0px;
     width: fit-content;
+    font-size: 2.5rem;
+
 }
 
 .bck-box.bck-box-17 .bck-title:before {
