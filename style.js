@@ -29,6 +29,10 @@
 				{ name: 'revisa-naranja1', element: 'h3', attributes: { 'class': 'bck-title10'} },
 				{ name: 'revisa-naranja2', element: 'h3', attributes: { 'class': 'bck-title18'} },
 				{ name: 'revisa-azul', element: 'h3', attributes: { 'class': 'bck-title19'} },
+				{ name: 'demuestra-verde', element: 'h3', attributes: { 'class': 'bck-title20'} },
+				{ name: 'demuestra-naranja', element: 'h3', attributes: { 'class': 'bck-title21'} },
+				{ name: 'demuestra-azul', element: 'h3', attributes: { 'class': 'bck-title22'} },
+				{ name: 'demuestra-morado', element: 'h3', attributes: { 'class': 'bck-title23'} },
 				
 							
 
