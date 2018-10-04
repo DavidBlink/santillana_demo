@@ -1935,8 +1935,8 @@ content: "\f0da";
     padding: 40px;
     z-index: 100;
     position: absolute;
-    left: 0px;
-    top: -32px;
+    left: -18px;
+    margin-top: -48px;
 }
 
 .bck-box.bck-box-13 .bck-content {
