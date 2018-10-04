@@ -620,7 +620,7 @@ body.is_app .santillana_demo-navbar.ocultar {
     font-weight: 600;
     display: inline-block;
     position: relative;
-    background: #008000;
+    background: #70a83b;
     padding: 5px 30px 2px 60px;
     border-radius: 0px 15px 0px 0px;
 }
@@ -630,7 +630,7 @@ content: "\f063";
     font-family: FontAwesome;
     display: inline-block;
     background-color: #fff;
-    color: #008000;
+    color: #70a83b;
     border-radius: 50%;
     padding: 0px;
     font-weight: 100;
@@ -676,7 +676,7 @@ content: "\f063";
 .bck-title5 {
 	font-size: 26px;
     font-weight: 600;
-    color: #008000;
+    color: #70a83b;
 }
 
 /*titulo morado*/
@@ -771,6 +771,23 @@ content: "\f0da";
 }
 
 
+/*saber hacer*/
+.bck-title24 {
+	background-color: #ffffff;
+	color: #e3ab00;
+	width: fit-content;
+	border-radius: 10px 10px 0px 0px;
+	padding: 5px 10px 4px 10px;
+
+}
+
+
+
+
+
+
+
+
 /*enfasis*/
 
 .bck-enfasis {
@@ -783,7 +800,7 @@ content: "\f0da";
 }
 
 .bck-verde1 {
-	color: #5c8b41;
+	color: #70a83b;
 }
 
 .bck-morado {
@@ -1342,7 +1359,7 @@ content: "\f0da";
 /*caja 4 Activaverde flotante*/
 
 .bck-box.bck-box-4 .bck-title {
-    background-color: #09a109;
+    background-color: #70a83b;
     color: #fff;
     font-weight: 700;
     text-align: left;
@@ -1360,7 +1377,7 @@ content: "\f0da";
     font-family: FontAwesome;
     display: inline-block;
     background-color: #fff;
-    color: #a3bd31;
+    color: #70a83b;
     border-radius: 50%;
     padding: 3px;
     font-weight: 300;
