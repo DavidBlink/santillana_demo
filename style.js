@@ -26,6 +26,8 @@
 				{ name: 'paso gris', element: 'h3', attributes: { 'class': 'bck-title7'} },
 				{ name: 'paso naranja', element: 'h3', attributes: { 'class': 'bck-title12'} },
 				{ name: 'pie de foto', element: 'h3', attributes: { 'class': 'bck-title9'} },
+				{ name: 'Saber hacer', element: 'h3', attributes: { 'class': 'bck-title24'} },
+				{ name: 'Saber hacer2', element: 'h3', attributes: { 'class': 'bck-title25'} },
 				{ name: 'revisa-naranja1', element: 'h3', attributes: { 'class': 'bck-title10'} },
 				{ name: 'revisa-naranja2', element: 'h3', attributes: { 'class': 'bck-title18'} },
 				{ name: 'revisa-azul', element: 'h3', attributes: { 'class': 'bck-title19'} },
