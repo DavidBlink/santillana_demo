@@ -1964,9 +1964,8 @@ content: "\f0da";
     background-repeat: no-repeat;
     background-size: contain;
     padding: 40px;
-    z-index: -100;
+    z-index: 100;
     position: absolute;
-    left: 0px;
 }
 
 .bck-box.bck-box-17 .bck-content {
