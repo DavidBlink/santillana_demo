@@ -1940,11 +1940,11 @@ content: "\f0da";
     background: url(imagenes/cervatillo1.png);
     background-repeat: no-repeat;
     background-size: contain;
-    padding: 40px;
+    padding: 50px;
     z-index: 100;
     position: absolute;
-    left: -18px;
-    margin-top: -39px;
+    left: -23px;
+    margin-top: -57px;
 }
 
 .bck-box.bck-box-13 .bck-content {
@@ -1953,29 +1953,28 @@ content: "\f0da";
     padding: 10px 25px 10px 15px;
 }
 
-/*caja 17 formacion buitre*/
-
+/*caja 17 formacion ciervo*/
 
 .bck-box.bck-box-17 .bck-title {
 	background-color: transparent;
     color: #e6b300;
     font-weight: 700;
+    text-align: center;
     padding: 10px 10px 5px 10px;
     border: 2px solid #906da6;
     border-radius: 20px 20px 0px 0px;
-    width: fit-content;
-    font-size: 2.5rem;
-
+    font-size: 2.4rem;
 }
 
-.bck-box.bck-box-17 .bck-title:before {
+.bck-box.bck-box-17 .bck-title:after {
     content: " ";
     background: url(imagenes/buitresinbrazo.png);
     background-repeat: no-repeat;
     background-size: contain;
-    padding: 40px;
-    z-index: 10;
+    padding: 50px;
+    z-index: 100;
     position: absolute;
+    margin-top: -57px;
 }
 
 .bck-box.bck-box-17 .bck-content {
