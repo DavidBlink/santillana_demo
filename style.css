@@ -1948,18 +1948,21 @@ content: "\f0da";
 
 /*caja 17 formacion buitre*/
 
+.bck-box.bck-box-17 {
+	text-align: inherit;
+}
+
 .bck-box.bck-box-17 .bck-title {
 	background-color: transparent;
     color: #e6b300;
     font-weight: 700;
-    text-align: center;
     padding: 10px 10px 5px 10px;
     border: 2px solid #906da6;
     border-radius: 20px 20px 0px 0px;
     width: fit-content;
 }
 
-.bck-box.bck-box-17 .bck-title:after {
+.bck-box.bck-box-17 .bck-title:before {
     content: " ";
     background: url(imagenes/buitresinbrazo.png);
     background-repeat: no-repeat;
@@ -1967,9 +1970,6 @@ content: "\f0da";
     padding: 40px;
     z-index: 10;
     position: absolute;
-    text-align: right;
-    right: 66%;
-    margin-top: -47px;
 }
 
 .bck-box.bck-box-17 .bck-content {
