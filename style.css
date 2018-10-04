@@ -1969,12 +1969,15 @@ content: "\f0da";
 
 .bck-box.bck-box-17 .bck-title:after {
     content: " ";
-    background: url(imagenes/buitre1.png);
+    background: url(imagenes/buitresinbrazo.png);
     background-repeat: no-repeat;
     background-size: contain;
     padding: 40px;
-    z-index: 100;
+    z-index: 10;
     position: absolute;
+    text-align: right;
+    right: 66%;
+    margin-top: -47px;
 }
 
 .bck-box.bck-box-17 .bck-content {
