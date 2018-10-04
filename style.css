@@ -1823,7 +1823,7 @@ content: "\f0da";
     border-radius: 0px 0px 20px 20px;
 }
 
-/*caja comprensión*/
+/*caja comprension*/
 
 .bck-box.bck-box-8 .bck-title {
     background-color: #ffffff;
@@ -1833,6 +1833,7 @@ content: "\f0da";
     padding: 10px 0px 5px 0px;
     border-radius: 20px 20px 0px 0px;
     border: 1px solid #c20f1a;
+    font-size: 2rem;
     
 }
 
