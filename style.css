@@ -1915,7 +1915,7 @@ content: "\f0da";
     border-radius: 0px 0px 20px 20px;
 }
 
-/*caja 13 formacion*/
+/*caja 13 formacion ciervo*/
 
 .bck-box.bck-box-13 .bck-title {
 	background-color: transparent;
@@ -1937,6 +1937,35 @@ content: "\f0da";
     position: absolute;
     left: -18px;
     margin-top: -48px;
+}
+
+.bck-box.bck-box-13 .bck-content {
+	background-color: #e8e3f0;
+    border-radius: 0px 0px 30px 0px;
+    padding: 10px 25px 10px 15px;
+}
+
+/*caja 17 formacion buitre*/
+
+.bck-box.bck-box-13 .bck-title {
+	background-color: transparent;
+    color: #e6b300;
+    font-weight: 700;
+    text-align: center;
+    padding: 10px 10px 5px 10px;
+    border: 2px solid #906da6;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.bck-box.bck-box-13 .bck-title:after {
+    content: " ";
+    background: url(imagenes/buitre1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 40px;
+    z-index: -100;
+    position: absolute;
+    left: 0px;
 }
 
 .bck-box.bck-box-13 .bck-content {
