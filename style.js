@@ -36,6 +36,7 @@
 				{ name: 'demuestra-azul', element: 'h3', attributes: { 'class': 'bck-title22'} },
 				{ name: 'demuestra-morado', element: 'h3', attributes: { 'class': 'bck-title23'} },
 				{ name: 'relaciona', element: 'h3', attributes: { 'class': 'bck-title26'} },
+				{ name: 'argumentar azul', element: 'h3', attributes: { 'class': 'bck-title27'} },
 				
 							
 
