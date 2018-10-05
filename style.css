@@ -842,10 +842,12 @@ content: "\f0da";
 /*saber hacer*/
 .bck-title24 {
 	background-color: #ffffff;
-	color: #f8a800;
-	width: fit-content;
-	border-radius: 10px 10px 0px 0px;
-	padding: 5px 10px 4px 10px;
+    color: #f8a800;
+    width: fit-content;
+    border-radius: 10px 10px 0px 0px;
+    padding: 5px 10px 4px 10px;
+    font-size: 3.3rem;
+    font-weight: 600;
 }
 
 /*saber hacer2*/
@@ -1975,8 +1977,8 @@ content: "\f0da";
     padding: 50px;
     z-index: 100;
     position: absolute;
-    margin-top: -68px;
-    left: 277px;
+    margin-top: -58px;
+    left: 274px;
 }
 
 .bck-box.bck-box-17 .bck-content {
