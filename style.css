@@ -1953,7 +1953,7 @@ content: "\f0da";
     padding: 10px 25px 10px 15px;
 }
 
-/*caja 17 formacion ciervo*/
+/*caja 17 formacion buitre*/
 
 .bck-box.bck-box-17 .bck-title {
 	background-color: transparent;
@@ -1969,7 +1969,7 @@ content: "\f0da";
 
 .bck-box.bck-box-17 .bck-title:after {
     content: " ";
-    background: url(imagenes/buitresinbrazo.png);
+    background: url(imagenes/buitre1.png);
     background-repeat: no-repeat;
     background-size: contain;
     padding: 50px;
