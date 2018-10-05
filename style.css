@@ -2026,6 +2026,19 @@ content: "\f0da";
     padding: 10px 25px 10px 15px;
 }
 
+
+/*caja fondo azul mate*/
+
+.bck-box.bck-box-23 .bck-content {
+    background-color: #a6c1f3;
+    opacity: 0.5;
+    border-radius: 20px 0px 0px 0px;
+}
+
+
+
+
+
 /**Iconos**/
 
 .item-container .icon:before {
