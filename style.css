@@ -870,25 +870,25 @@ content: "\f0da";
 .bck-title10 {
 	background-color: #f8a800;
 	color: #ffffff;
-	border-radius: 0px 0px 10px 0px;
+	border-radius: 0px 0px 20px 0px;
 	padding: 7px;
 	width: fit-content;
 }
 
 /*revisa naranja2*/
 .bck-title18 {
-	background-color: #f8a800;
-	color: #ffffff;
-	border-radius: 0px 0px 10px 0px;
-	padding: 7px;
-	width: fit-content;
+    background-color: #e2a255;
+    color: #ffffff;
+    border-radius: 0px 0px 20px 0px;
+    padding: 7px 20px 7px 20px;
+    width: fit-content;
 }
 
 /*revisa azul*/
 .bck-title19 {
 	background-color: #72a5d9;
 	color: #ffffff;
-	border-radius: 0px 0px 10px 0px;
+	border-radius: 0px 0px 20px 0px;
 	padding: 7px;
 	width: fit-content;
 }
