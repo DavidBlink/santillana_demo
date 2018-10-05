@@ -2047,6 +2047,39 @@ content: "\f0da";
     padding: 10px 25px 10px 15px;
 }
 
+/*caja 16 formacion ciervo2*/
+
+.bck-box.bck-box-16 .bck-title {
+	background-color: transparent;
+    color: #e6b300;
+    font-weight: 700;
+    text-align: center;
+    padding: 10px 10px 5px 10px;
+    border: 2px solid #906da6;
+    border-radius: 20px 20px 0px 0px;
+    font-size: 2.4rem;
+}
+
+.bck-box.bck-box-16 .bck-title:before {
+    content: " ";
+    background: url(imagenes/cervatillo1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 50px;
+    z-index: 100;
+    position: absolute;
+    right: 0;
+    margin-top: -57px;
+}
+
+.bck-box.bck-box-13 .bck-content {
+	background-color: #e8e3f0;
+    border-radius: 0px 0px 30px 0px;
+    padding: 10px 25px 10px 15px;
+}
+
+
+
 
 /*caja fondo azul mate*/
 
@@ -2085,9 +2118,11 @@ content: "\f0da";
 	border-color: #ddd
 }
 
-table td.bck-td {
+table td.bck-td-1 {
 	background-color: #CC99FF;
 }
+
+/*tabla y celda verde*/
 
 .bck-table-2 {
 	border-radius: 10px;
@@ -2097,6 +2132,19 @@ table td.bck-td {
 
 .bck-table-2 td {
 	border: 1px solid #a1c037;
+}
+
+
+/*tabla y celda azul*/
+
+
+.bck-table-3 {
+	border-radius: 10px;
+	border: 2px solid #007bc2;
+}
+
+.bck-table-3 td {
+	border: 1px solid #007bc2;
 }
 
 
@@ -2110,6 +2158,15 @@ td {
 	color: #ffffff;
 	background: #a1c037;
 	border-right: 1px solid #ffffff;
+	padding: 5px;
+	text-align: center;
+	font-weight: 700;
+}
+
+/*celda 2*/
+.bck-td-2 {
+	color: #ffffff;
+	background: #007bc2;
 	padding: 5px;
 	text-align: center;
 	font-weight: 700;
