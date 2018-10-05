@@ -91,6 +91,7 @@
 				{ name: 'Caja formacion-ciervo', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-13' } },
 				{ name: 'Caja formacion-ciervo2', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-16' } },
 				{ name: 'Caja formacion-buitre', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-17' } },
+				{ name: 'Fondo azul mate', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-23' } },
 				
 				{ name: 'Tabla', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table'} },
 				{ name: 'Tabla verde', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-2'} },
