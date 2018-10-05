@@ -852,13 +852,17 @@ content: "\f0da";
 
 /*saber hacer2*/
 .bck-title25 {
-	border: solid 2px color: #f8a800;
-	background-color: #ffffff;
-	color: #f8a800;
-	width: fit-content;
-	border-radius: 10px 10px 0px 0px;
-	padding: 5px 10px 4px 10px;
-	font-size: 3.3rem;
+    border-left: 10px solid #f8a800;
+    border-top: 10px solid #f8a800;
+    border-right: 200px solid #f8a800;
+    border-bottom: 1px solid #f8a800;
+    background-color: #ffffff;
+    color: #f8a800;
+    padding: 1px 10px 0px 10px;
+    width: fit-content;
+    border-radius: 20px 20px 0px 0px;
+    padding: 5px 20px 1px 20px;
+    font-size: 3.3rem;
     font-weight: 600;
 }
 
