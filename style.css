@@ -852,11 +852,14 @@ content: "\f0da";
 
 /*saber hacer2*/
 .bck-title25 {
+	border: solid 2px color: #f8a800;
 	background-color: #ffffff;
 	color: #f8a800;
 	width: fit-content;
 	border-radius: 10px 10px 0px 0px;
 	padding: 5px 10px 4px 10px;
+	font-size: 3.3rem;
+    font-weight: 600;
 }
 
 /*revisa naranja1*/
@@ -951,14 +954,17 @@ content: "\f0da";
 
 .bck-morado {
 	color: #9e61a4;
+	font-weight: 600;
 }
 
 .bck-azul {
 	color: #9e61a4;
+	font-weight: 600;
 }
 
 .bck-rojo {
-	color: #9e61a4;
+	color: #e30613;
+    font-weight: 600;
 }
 
 .bck-naranja {
