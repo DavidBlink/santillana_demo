@@ -2140,11 +2140,11 @@ table td.bck-td-1 {
 
 .bck-table-3 {
 	border-radius: 10px;
-	border: 2px solid #007bc2;
+	border: 2px solid #4492cf;
 }
 
 .bck-table-3 td {
-	border: 1px solid #007bc2;
+	border: 1px solid #4492cf;
 }
 
 
@@ -2166,7 +2166,7 @@ td {
 /*celda azul*/
 .bck-td-2 {
 	color: #ffffff;
-	background: #007bc2;
+	background: #4492cf;
 	padding: 5px;
 	text-align: center;
 	font-weight: 700;
