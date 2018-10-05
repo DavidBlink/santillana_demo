@@ -2163,10 +2163,19 @@ td {
 	font-weight: 700;
 }
 
-/*celda 2*/
+/*celda azul*/
 .bck-td-2 {
 	color: #ffffff;
 	background: #007bc2;
+	padding: 5px;
+	text-align: center;
+	font-weight: 700;
+}
+
+/*celda azul claro*/
+.bck-td-3 {
+	color: #ffffff;
+	background: #d8e2f5;
 	padding: 5px;
 	text-align: center;
 	font-weight: 700;
