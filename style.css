@@ -871,8 +871,9 @@ content: "\f0da";
 	background-color: #f8a800;
 	color: #ffffff;
 	border-radius: 0px 0px 20px 0px;
-	padding: 7px;
+	padding: 7px 20px 7px 20px;
 	width: fit-content;
+	font-size: 2.4rem;
 }
 
 /*revisa naranja2*/
@@ -882,6 +883,7 @@ content: "\f0da";
     border-radius: 0px 0px 20px 0px;
     padding: 7px 20px 7px 20px;
     width: fit-content;
+    font-size: 2.4rem;
 }
 
 /*revisa azul*/
@@ -889,8 +891,9 @@ content: "\f0da";
 	background-color: #72a5d9;
 	color: #ffffff;
 	border-radius: 0px 0px 20px 0px;
-	padding: 7px;
+	padding: 7px 20px 7px 20px;
 	width: fit-content;
+	font-size: 2.4rem;
 }
 
 /*demuestra verde*/
@@ -898,8 +901,9 @@ content: "\f0da";
 	background-color: #3aaa35;
 	color: #ffffff;
 	border-radius: 0px 0px 10px 0px;
-	padding: 7px;
+	padding: 7px 20px 7px 20px;
 	width: fit-content;
+	font-size: 2.4rem;
 }
 
 /*demuestra naranja*/
@@ -907,8 +911,9 @@ content: "\f0da";
 	background-color: #f8a800;
 	color: #ffffff;
 	border-radius: 0px 0px 10px 0px;
-	padding: 7px;
+	padding: 7px 20px 7px 20px;
 	width: fit-content;
+	font-size: 2.4rem;
 }
 
 /*demuestra azul*/
@@ -916,8 +921,9 @@ content: "\f0da";
 	background-color: #007bc2;
 	color: #ffffff;
 	border-radius: 0px 0px 10px 0px;
-	padding: 7px;
+	padding: 7px 20px 7px 20px;
 	width: fit-content;
+	font-size: 2.4rem;
 }
 
 /*demuestra morado*/
@@ -925,8 +931,9 @@ content: "\f0da";
 	background-color: #9e61a4;
 	color: #ffffff;
 	border-radius: 0px 0px 10px 0px;
-	padding: 7px;
+	padding: 7px 20px 7px 20px;
 	width: fit-content;
+	font-size: 2.4rem;
 }
 
 /*relaciona*/
@@ -936,6 +943,7 @@ content: "\f0da";
     padding: 5px 15px 2px 15px;
     color: #fff;
     border-radius: 20% 20% 0% 0%;
+    font-size: 2.4rem;
 }
 
 
@@ -1912,6 +1920,7 @@ content: "\f0da";
     padding: 10px 20px 5px 20px;
     border-radius: 20px 20px 0px 0px;
     width: fit-content;
+    font-size: 2.4rem;
 }
 
 .bck-box.bck-box-22 .bck-content {
