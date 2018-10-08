@@ -2241,7 +2241,6 @@ background-image: url(imagenes/despuesbuitretexto.png);
 
 .bck-table td {
 	padding: 10px;
-	border-color: #ddd
 }
 
 table td.bck-td-1 {
@@ -2307,7 +2306,7 @@ td {
 	font-weight: 700;
 }
 
-/*celda azul claro*/
+/*celda azul borde bottom*/
 .bck-td-4 {
 	color: #ffffff;
 	background: #d8e2f5;
