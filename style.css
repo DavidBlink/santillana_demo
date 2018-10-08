@@ -660,7 +660,7 @@ body.is_app .santillana_demo-navbar.ocultar {
 .bck-title4{
     color: #ffffff;
     font-size: 2.4rem;
-    font-weight: 600;
+    font-weight: 700;
     display: inline-block;
     position: relative;
     background: #3aaa35;
@@ -690,11 +690,11 @@ body.is_app .santillana_demo-navbar.ocultar {
 .bck-title13{
         color: #ffffff;
     font-size: 2.4rem;
-    font-weight: 600;
+    font-weight: 700;
     display: inline-block;
     position: relative;
     background: #9e61a4;
-    padding: 5px 30px 2px 60px;
+    padding: 5px 30px 4px 60px;
     border-radius: 0px 15px 0px 0px;
 }
 
@@ -720,11 +720,11 @@ content: "\f063";
 .bck-title14{
         color: #ffffff;
     font-size: 2.4rem;
-    font-weight: 600;
+    font-weight: 700;
     display: inline-block;
     position: relative;
     background: #e30613;
-    padding: 5px 30px 2px 60px;
+    padding: 5px 30px 4px 60px;
     border-radius: 0px 15px 0px 0px;
 }
 
@@ -749,11 +749,11 @@ content: "\f063";
 .bck-title15{
         color: #ffffff;
     font-size: 2.4rem;
-    font-weight: 600;
+    font-weight: 700;
     display: inline-block;
     position: relative;
     background: #007bc2;
-    padding: 5px 30px 2px 60px;
+    padding: 5px 30px 4px 60px;
     border-radius: 0px 15px 0px 0px;
 }
 
