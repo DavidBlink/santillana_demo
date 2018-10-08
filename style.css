@@ -35,7 +35,6 @@
 body {
 	font-family: HelveticaNeueLTStd-Lt;
 	letter-spacing: 1px;
-
 }
 
 
@@ -111,7 +110,6 @@ a:hover, a:active, a:focus {
     margin: 20px 140px 20px 30px;
     letter-spacing: 1px;
 }
-
 
 .content_type_clase_santillana_demo #actividad .content .header .title img,
 .content_type_clase_santillana_demo #actividad .content .header .chapter {
@@ -2305,6 +2303,16 @@ td {
 	color: #ffffff;
 	background: #d8e2f5;
 	padding: 5px;
+	text-align: center;
+	font-weight: 700;
+}
+
+/*celda azul claro*/
+.bck-td-4 {
+	color: #ffffff;
+	background: #d8e2f5;
+	padding: 5px;
+	border-bottom: 2px solid #4492cf;
 	text-align: center;
 	font-weight: 700;
 }
