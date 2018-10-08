@@ -1001,6 +1001,19 @@ content: "\f0da";
     transform: rotate(-14deg);
 }
 
+/*pasado al presente*/
+.bck-title25 {
+    border-left: 30px solid #9e61a4;
+    border-top: 100px solid #9e61a4;
+    border-right: 30px solid #9e61a4;
+    background-color: #ffffff;
+    color: #9e61a4;
+    padding: 1px 10px 0px 10px;
+    border-radius: 20px 20px 0px 0px;
+    padding: 5px 20px 1px 20px;
+    font-size: 3.3rem;
+    font-weight: bold;
+}
 
 
 
