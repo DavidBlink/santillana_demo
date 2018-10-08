@@ -1,5 +1,42 @@
 /*General CSS SANTILLANA CHILE*/
 
+/* Fonts */
+
+	@font-face {
+	  font-family: HelveticaNeueLTStd;
+	  src: url('fonts/HelveticaNeueLTStd Lt.otf');
+	}
+
+	@font-face {
+	  font-family: HelveticaNeueLTStd Roman;
+	  src: url('fonts/HelveticaNeueLTStd Roman.otf');
+	}
+
+	@font-face {
+	  font-family: HelveticaNeueLTStd-Bd;
+	  src: url('fonts/HelveticaNeueLTStd-Bd.otf');
+	}
+
+	@font-face {
+	  font-family: HelveticaNeueLTStd-Md;
+	  src: url('fonts/HelveticaNeueLTStd-Md.otf');
+	}
+
+	@font-face {
+	  font-family: HelveticaNeueLTStd-MdCn;
+	  src: url('fonts/HelveticaNeueLTStd-MdCn.otf');
+	}
+
+	@font-face {
+	  font-family: ZapfDingbats;
+	  src: url('fonts/ZapfDingbats.ttf');
+	}
+
+body {
+	font-family: HelveticaNeueLTStd;
+}
+
+
 .body_clase .content-wrapper {
 	padding-top: 65px;
 	padding-bottom: 0px;
