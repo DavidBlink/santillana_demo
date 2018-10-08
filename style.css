@@ -3,7 +3,7 @@
 /* Fonts */
 
 	@font-face {
-	  font-family: HelveticaNeueLTStd;
+	  font-family: HelveticaNeueLTStd Lt;
 	  src: url('fonts/HelveticaNeueLTStd Lt.otf');
 	}
 
@@ -33,7 +33,7 @@
 	}
 
 body {
-	font-family: HelveticaNeueLTStd;
+	font-family: HelveticaNeueLTStd Lt;
 }
 
 
