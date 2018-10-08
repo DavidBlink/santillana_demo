@@ -2142,17 +2142,17 @@ content: "\f0da";
 /**Iconos**/
 
 .item-container .icon:before {
-content: "";
-background-repeat: no-repeat;
--webkit-background-size: cover;
-  -moz-background-size: cover;
+    content: "";
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
     -o-background-size: cover;
-       background-size: cover;
-background-position: center center;
-display: inline-block;
-vertical-align: middle;
-   height: 38px;
-   width: 40px;
+    background-size: contain;
+    background-position: center center;
+    display: inline-block;
+    vertical-align: middle;
+    height: 75px;
+    width: 150px;
 }
 
 /*icono Antes*/
@@ -2379,6 +2379,18 @@ td {
 }
 /**/
 /****/
+@media screen and (max-width: 450px) { 
+
+
+
+
+
+
+
+}
+
+
+
 
 @media screen and (max-width: 768px) {
 
@@ -2412,3 +2424,5 @@ td {
 		bottom:0 ;
 	}
 }
+
+
