@@ -109,9 +109,9 @@
 				{ name: 'Desplegable', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'santillana_demo-dropdown' } },
 				{ name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'santillana_demo-dropdown-2' } },
 				
-				{ name: 'Icono Escuchar', element: 'span', attributes: { 'class': 'icon icon-escuchar' } },
-				{ name: 'Icono Escuchar', element: 'span', attributes: { 'class': 'icon icon-escuchar' } },
-				{ name: 'Icono Escuchar', element: 'span', attributes: { 'class': 'icon icon-escuchar' } }
+				{ name: 'Icono Antes', element: 'span', attributes: { 'class': 'icon icon-antes' } },
+				{ name: 'Icono Durante', element: 'span', attributes: { 'class': 'icon icon-durante' } },
+				{ name: 'Icono Despues', element: 'span', attributes: { 'class': 'icon icon-despues' } }
 
 
 			]
