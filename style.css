@@ -957,6 +957,42 @@ content: "\f0da";
     font-size: 2.4rem;
 }
 
+/*titulo form-ciervoybuitre*/
+
+.bck-title28 {
+	background-color: transparent;
+    color: #e6b300;
+    font-weight: 700;
+    padding: 10px 10px 5px 10px;
+    border: 2px solid #906da6;
+    border-radius: 20px 20px 0px 0px;
+    font-size: 2.4rem;
+}
+
+.bck-title28:before {
+    content: " ";
+    background: url(imagenes/cervatillo4.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 50px;
+    z-index: 100;
+    position: absolute;
+    right: 0;
+    margin-top: -57px;
+}
+
+.bck-title28:after {
+    content: " ";
+    background: url(imagenes/buitre2.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 50px;
+    z-index: 100;
+    position: absolute;
+    right: 0;
+    margin-top: -57px;
+}
+
 
 
 
@@ -2073,50 +2109,6 @@ content: "\f0da";
 }
 
 .bck-box.bck-box-13 .bck-content {
-	background-color: #e8e3f0;
-    border-radius: 0px 0px 30px 0px;
-    padding: 10px 25px 10px 15px;
-}
-
-
-/*Caja form-ciervoybuitre*/
-
-.bck-box.bck-box-24 .bck-title {
-	background-color: transparent;
-    color: #e6b300;
-    font-weight: 700;
-    text-align: center;
-    padding: 10px 10px 5px 10px;
-    border: 2px solid #906da6;
-    border-radius: 20px 20px 0px 0px;
-    font-size: 2.4rem;
-}
-
-.bck-box.bck-box-24 .bck-title:before {
-    content: " ";
-    background: url(imagenes/cervatillo4.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    padding: 50px;
-    z-index: 100;
-    position: absolute;
-    right: 0;
-    margin-top: -57px;
-}
-
-.bck-box.bck-box-24 .bck-title:after {
-    content: " ";
-    background: url(imagenes/buitre2.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    padding: 50px;
-    z-index: 100;
-    position: absolute;
-    right: 0;
-    margin-top: -57px;
-}
-
-.bck-box.bck-box-24 .bck-content {
 	background-color: #e8e3f0;
     border-radius: 0px 0px 30px 0px;
     padding: 10px 25px 10px 15px;
