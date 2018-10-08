@@ -2283,7 +2283,6 @@ td {
 	color: #ffffff;
 	background: #a1c037;
 	border-right: 1px solid #ffffff;
-	padding: 5px;
 	text-align: center;
 	font-weight: 700;
 }
@@ -2292,7 +2291,6 @@ td {
 .bck-td-2 {
 	color: #ffffff;
 	background: #4492cf;
-	padding: 5px;
 	text-align: center;
 	font-weight: 700;
 }
@@ -2301,14 +2299,12 @@ td {
 .bck-td-3 {
 	color: #ffffff;
 	background: #d8e2f5;
-	padding: 5px;
 	text-align: center;
 	font-weight: 700;
 }
 
 /*celda borde bottom*/
 .bck-td-4 {
-	padding: 5px;
 	border-bottom: 2px solid #4492cf!important;
 	text-align: center;
 	font-weight: 700;
