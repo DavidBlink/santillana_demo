@@ -2155,9 +2155,19 @@ vertical-align: middle;
    width: 40px;
 }
 
-/*icono 1*/
-.item-container .icon-escuchar:before {
-background-image: url(imagenes/icono_escuchar.jpg);
+/*icono Antes*/
+.item-container .icon-antes:before {
+background-image: url(imagenes/antesbuitre.png);
+}
+
+/*icono Durante*/
+.item-container .icon-durante:before {
+background-image: url(imagenes/durantebuitre.png);
+}
+
+/*icono Despues*/
+.item-container .icon-despues:before {
+background-image: url(imagenes/despuesbuitre.png);
 }
 
 
