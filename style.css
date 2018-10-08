@@ -34,6 +34,7 @@
 
 body {
 	font-family: HelveticaNeueLTStd-Lt;
+
 }
 
 
@@ -107,6 +108,7 @@ a:hover, a:active, a:focus {
     border-radius: 10px;
     background-color: #262e2a8f;
     margin: 20px 140px 20px 30px;
+    letter-spacing: 2px;
 }
 
 
@@ -648,6 +650,10 @@ body.is_app .santillana_demo-navbar.ocultar {
 }
 
 /*titulos*/
+
+.bck-title {
+	letter-spacing: 2px;
+}
 
 /*flecha verde*/
 
