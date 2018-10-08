@@ -1532,6 +1532,7 @@ content: "\f0da";
 .bck-box {
 	max-width: 100%;
 	margin-bottom: 20px;
+
 }
 
 .bck-box.center {
@@ -1582,6 +1583,7 @@ content: "\f0da";
     margin-top: 30px;
     background-color: #a87c24;
     text-align: left;
+    letter-spacing: 2px;
 }
 
 .bck-box.bck-box-2 .bck-title p{
@@ -1617,6 +1619,7 @@ content: "\f0da";
     padding-left: 30px;
     padding-top: 5px;
     margin-top: -30px;
+    letter-spacing: 2px;
 }
 
 
@@ -1652,6 +1655,7 @@ content: "\f0da";
     padding: 10px 30px 5px 40px;
     border-radius: 20px 0px 0px 0px;
     width: fit-content;
+    letter-spacing: 2px;
 }
 
 .bck-box.bck-box-4 .bck-title p{
@@ -1695,6 +1699,7 @@ content: "\f0da";
     padding: 10px 30px 5px 40px;
     border-radius: 20px 0px 0px 0px;
     width: fit-content;
+    letter-spacing: 2px;
 }
 
 .bck-box.bck-box-5 .bck-title:before {
@@ -1729,6 +1734,7 @@ content: "\f0da";
     padding: 10px 30px 5px 40px;
     border-radius: 20px 0px 0px 0px;
     width: fit-content;
+    letter-spacing: 2px;
 }
 
 .bck-box.bck-box-6 .bck-title:before {
@@ -1763,6 +1769,7 @@ content: "\f0da";
     padding: 10px 30px 5px 40px;
     border-radius: 20px 0px 0px 0px;
     width: fit-content;
+    letter-spacing: 2px;
 }
 
 .bck-box.bck-box-15 .bck-title:before {
@@ -1797,10 +1804,12 @@ content: "\f0da";
     padding: 5px 30px 5px 40px;
     border-radius: 0px 20px 0px 0px;
     width: fit-content;
+    letter-spacing: 2px;
 }
 
 .bck-box.bck-box-18 .bck-title p{
 	font-size: 2.4rem;
+	letter-spacing: 2px;
 }
 
 .bck-box.bck-box-18 .bck-title:before {
@@ -1841,6 +1850,7 @@ content: "\f0da";
 
 .bck-box.bck-box-19 .bck-title p{
 	font-size: 2rem;
+	letter-spacing: 2px;
 }
 
 .bck-box.bck-box-19 .bck-title:before {
@@ -1879,6 +1889,7 @@ content: "\f0da";
 
 .bck-box.bck-box-20 .bck-title p{
 	font-size: 2rem;
+	letter-spacing: 2px;
 }
 
 .bck-box.bck-box-20 .bck-title:before {
@@ -1917,6 +1928,7 @@ content: "\f0da";
 
 .bck-box.bck-box-21 .bck-title p{
 	font-size: 2rem;
+	letter-spacing: 2px;
 }
 
 .bck-box.bck-box-21 .bck-title:before {
@@ -1971,6 +1983,7 @@ content: "\f0da";
     border-radius: 20px 20px 0px 0px;
     border: 1px solid #c20f1a;
     font-size: 2.4rem;
+    letter-spacing: 2px;
     
 }
 
@@ -1990,6 +2003,7 @@ content: "\f0da";
     padding: 10px 0px 5px 20px;
     border-radius: 0px 20px 0px 0px;
     font-size: 2.5rem;
+    letter-spacing: 2px;
    
     
 }
@@ -2011,6 +2025,7 @@ content: "\f0da";
     padding: 5px 20px 5px 20px;
     border-radius: 0px 0px 20px 0px;
     font-size: 2.4rem;
+    letter-spacing: 2px;
 }
 
 .bck-box.bck-box-10 .bck-content {
@@ -2054,6 +2069,7 @@ content: "\f0da";
     text-align: center;
     padding: 10px 0px 5px 0px;
     border-radius: 0px 0px 20px 0px;
+    letter-spacing: 2px;
 }
 
 .bck-box.bck-box-11 .bck-content {
@@ -2070,6 +2086,7 @@ content: "\f0da";
     text-align: center;
     padding: 10px 0px 5px 0px;
     border-radius: 20px 20px 0px 0px;
+    letter-spacing: 2px;
 }
 
 .bck-box.bck-box-12 .bck-content {
@@ -2089,6 +2106,7 @@ content: "\f0da";
     border: 2px solid #906da6;
     border-radius: 20px 20px 0px 0px;
     font-size: 2.4rem;
+    letter-spacing: 2px;
 }
 
 .bck-box.bck-box-13 .bck-title:before {
@@ -2121,6 +2139,7 @@ content: "\f0da";
     border-radius: 20px 20px 0px 0px;
     font-size: 2.4rem;
     width: fit-content;
+    letter-spacing: 2px;
 }
 
 .bck-box.bck-box-17 .bck-title:after {
@@ -2152,6 +2171,7 @@ content: "\f0da";
     border: 2px solid #906da6;
     border-radius: 20px 20px 0px 0px;
     font-size: 2.4rem;
+    letter-spacing: 2px;
 }
 
 .bck-box.bck-box-16 .bck-title:before {
