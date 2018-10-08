@@ -38,6 +38,7 @@
 				{ name: 'relaciona', element: 'h3', attributes: { 'class': 'bck-title26'} },
 				{ name: 'argumentar azul', element: 'h3', attributes: { 'class': 'bck-title27'} },
 				{ name: 'form ciervoybuitre', element: 'h3', attributes: { 'class': 'bck-title28'} },
+				{ name: 'Pasado al presente', element: 'h3', attributes: { 'class': 'bck-title29'} },
 				
 							
 
