@@ -2142,14 +2142,22 @@ content: "\f0da";
 /**Iconos**/
 
 .item-container .icon:before {
-	content: "";
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: center center;
-	display: inline-block;
-	vertical-align: middle;
-	height: 25px;
-	width: 25px;
+content: "";
+background-repeat: no-repeat;
+-webkit-background-size: cover;
+  -moz-background-size: cover;
+    -o-background-size: cover;
+       background-size: cover;
+background-position: center center;
+display: inline-block;
+vertical-align: middle;
+   height: 38px;
+   width: 40px;
+}
+
+/*icono 1*/
+.item-container .icon-escuchar:before {
+background-image: url(imagenes/icono_escuchar.jpg);
 }
 
 
