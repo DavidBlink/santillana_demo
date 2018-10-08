@@ -2157,17 +2157,17 @@ vertical-align: middle;
 
 /*icono Antes*/
 .item-container .icon-antes:before {
-background-image: url(imagenes/antesbuitre.png);
+background-image: url(imagenes/antesbuitretexto.png);
 }
 
 /*icono Durante*/
 .item-container .icon-durante:before {
-background-image: url(imagenes/durantebuitre.png);
+background-image: url(imagenes/durantebuitretexto.png);
 }
 
 /*icono Despues*/
 .item-container .icon-despues:before {
-background-image: url(imagenes/despuesbuitre.png);
+background-image: url(imagenes/despuesbuitretexto.png);
 }
 
 
