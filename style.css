@@ -91,7 +91,7 @@ a {
 }
 
 a:hover, a:active, a:focus {
-    color: #008000;
+    color: #3aaa35;
 }
 
 .zoom_flag_img {
@@ -241,7 +241,7 @@ fieldset[disabled] .content_type_clase_santillana_demo .slide_main input {
 }
 
 #indice .unit-content .header {
-	border: 2px solid #008000;
+	border: 2px solid #3aaa35;
     border-bottom-right-radius: 0px;
 }
 
@@ -263,7 +263,7 @@ fieldset[disabled] .content_type_clase_santillana_demo .slide_main input {
 #indice .units ul li.active:not(.disabled),
 body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 #indice .units ul li:focus:not(.disabled) {
-	background: #008000;
+	background: #3aaa35;
 }
 
 #indice .units ul li:not(.add) a .title {
@@ -870,7 +870,7 @@ content: "\f0da";
     font-family: FontAwesome;
     display: inline-block;
     background-color: #fff;
-    color: #008000;
+    color: #3aaa35;
     border-radius: 50%;
     padding: 0px;
     font-weight: 100;
@@ -1445,7 +1445,7 @@ content: "\f0da";
     position: absolute;
 	height: 6px;
     width: 6px;
-    background-color: #008000;
+    background-color: #3aaa35;
     margin-top: 12px;
     margin-left: -15px;
 	margin-right: 7px;
