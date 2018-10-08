@@ -107,7 +107,11 @@
 				{ name: 'Celda azul-claro', element: 'td', attributes: { 'class': 'bck-td-3' } },
 
 				{ name: 'Desplegable', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'santillana_demo-dropdown' } },
-				{ name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'santillana_demo-dropdown-2' } }
+				{ name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'santillana_demo-dropdown-2' } },
+				
+				{ name: 'Icono Escuchar', element: 'span', attributes: { 'class': 'icon icon-escuchar' } },
+				{ name: 'Icono Escuchar', element: 'span', attributes: { 'class': 'icon icon-escuchar' } },
+				{ name: 'Icono Escuchar', element: 'span', attributes: { 'class': 'icon icon-escuchar' } }
 
 
 			]
@@ -139,6 +143,12 @@
 				return $(this).html() + ' > ' + blink.courseInfo.unit;
 			})
 		},
+		
+		
+		configEditor: function (editor) {
+		editor.dtd.$removeEmpty['span'] = false;
+		},
+		
 
 		fillSlidesTitle: function () {
 			var self = this.slidesTitle;
