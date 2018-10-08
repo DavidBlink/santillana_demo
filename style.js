@@ -37,6 +37,7 @@
 				{ name: 'demuestra-morado', element: 'h3', attributes: { 'class': 'bck-title23'} },
 				{ name: 'relaciona', element: 'h3', attributes: { 'class': 'bck-title26'} },
 				{ name: 'argumentar azul', element: 'h3', attributes: { 'class': 'bck-title27'} },
+				{ name: 'form ciervoybuitre', element: 'h3', attributes: { 'class': 'bck-title28'} },
 				
 							
 
