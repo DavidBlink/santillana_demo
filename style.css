@@ -2444,12 +2444,112 @@ td {
 /**/
 /****/
 @media screen and (max-width: 450px) { 
+.bck-title25 {
+    border-left: 10px solid #f8a800;
+    border-top: 10px solid #f8a800;
+    border-right: 20px solid #f8a800;
+    border-bottom: 0.5px solid #f8a800;
+    background-color: #ffffff;
+    color: #f8a800;
+    width: fit-content;
+    padding: 5px 20px 1px 20px;
+    font-size: 3.3rem;
+    font-weight: 600;
+}
 
+.bck-box.bck-box-13 .bck-title:before {
+    content: " ";
+    background: url(imagenes/cervatillo1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 50px;
+    z-index: 100;
+    position: absolute;
+    left: -23px;
+    margin-top: -20px;
+}
 
+.bck-box.bck-box .bck-content {
+    background-color: #f6e7bf;
+    border-radius: 0px 50px 0px 50px;
+    padding: 20px 20px 20px 20px;
+}
 
+.content_type_clase_santillana_demo .santillana_demo-navbar .dropdown {
+    display: none;
+}
 
+.bck-box.bck-box-17 .bck-title:after {
+    padding: 37px;
+    margin-top: -43px;
+    left: 219px;
+}
+.bck-box.bck-box-16 .bck-title:before {
+    padding: 40px;
+    left: 241px;
+}
 
+.bck-title {
+	font-size: 2rem;
+}
 
+.bck-title29 {
+    border-left: 10px solid #9e61a4;
+    border-top: 20px solid #9e61a4;
+    border-right: 10px solid #9e61a4;
+    background-color: #ffffff;
+    text-align: center;
+    color: #9e61a4;
+    padding: 8px 20px 1px 20px;
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+.bck-title28 {
+    background-color: transparent;
+    color: #e6b300;
+    border-left: 20px solid #9e61a4;
+    border-top: 20px solid #9e61a4;
+    border-right: 20px solid #9e61a4;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 10px 10px 5px 10px;
+    font-size: 2.6rem;
+}
+
+.bck-title28:after {
+    content: " ";
+    background: url(imagenes/buitre2.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 35px;
+    z-index: 100;
+    position: absolute;
+    left: 230px;
+    margin-top: -35px;
+    -moz-transform: rotate(-14deg);
+    -webkit-transform: rotate(-14deg);
+    -o-transform: rotate(-14deg);
+    -ms-transform: rotate(-14deg);
+    transform: rotate(-14deg);
+}
+
+.bck-title28:before {
+    content: " ";
+    background: url(imagenes/cervatillo4.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 32px;
+    z-index: 100;
+    position: absolute;
+    left: 4px;
+    margin-top: 0px;
+}
+
+.bck-title25 {
+    border-right: 30px solid #f8a800;
+ }
 
 }
 
