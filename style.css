@@ -918,7 +918,7 @@ content: "\f0da";
 
 /*revisa naranja2*/
 .bck-title18 {
-    background-color: #e2a255;
+    background-color: #FF9B52;
     color: #ffffff;
     border-radius: 0px 0px 20px 0px;
     padding: 7px 20px 7px 20px;
@@ -1117,8 +1117,10 @@ content: "\f0da";
 .bck-fondoazul {
     background-color: #72a5d9;
     border-radius: 10px 10px 0px 10px;
-    padding: 3px 10px 3px 10px;
     color: #fff;
+    padding: 7px 12px 7px 12px;
+    font-weight: 700;
+    letter-spacing: 1px;
     font-size: 2.4rem;
 }
 
