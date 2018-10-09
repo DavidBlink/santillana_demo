@@ -2166,14 +2166,14 @@ content: "\f0da";
 
 .bck-box.bck-box-16 .bck-title {
     background-image: url(imagenes/formacion-completo.jpg);
-    display: block;
+    background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
     text-align: center;
-    padding: 10px 10px 5px 10px;
+    padding: 5px;
     border: 2px solid #906da6;
     border-radius: 20px 20px 0px 0px;
-    font-size: 3.1rem;
+    font-size: 2rem;
 }
 
 .bck-box.bck-box-16 .bck-title:before {
