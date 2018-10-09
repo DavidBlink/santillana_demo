@@ -2165,7 +2165,7 @@ content: "\f0da";
 /*caja 16 formacion ciervo2*/
 
 .bck-box.bck-box-16 .bck-title {
-	background-color: transparent;
+	background: url(imagenes/formacion-completo.jpg);
     color: #e6b300;
     font-weight: 700;
     text-align: center;
