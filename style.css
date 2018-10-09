@@ -2132,16 +2132,14 @@ content: "\f0da";
 /*caja 17 formacion buitre*/
 
 .bck-box.bck-box-17 .bck-title {
-	background-color: transparent;
-    color: #e6b300;
-    font-weight: 700;
-    text-align: center;
-    padding: 10px 10px 5px 10px;
+    background-image: url(imagenes/formacion-completo.jpg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 5px;
     border: 2px solid #906da6;
     border-radius: 20px 20px 0px 0px;
-    font-size: 2.4rem;
-    width: fit-content;
-    letter-spacing: 1px;
+    font-size: 2rem;
 }
 
 .bck-box.bck-box-17 .bck-title:after {
@@ -2181,11 +2179,11 @@ content: "\f0da";
     background: url(imagenes/cervatillo3.png);
     background-repeat: no-repeat;
     background-size: contain;
-    padding: 50px;
+    padding: 41px;
     z-index: 100;
     position: absolute;
     right: 0;
-    margin-top: -57px;
+    margin-top: -44px;
 }
 
 .bck-box.bck-box-16 .bck-content {
