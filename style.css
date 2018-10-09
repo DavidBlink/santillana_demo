@@ -2186,11 +2186,11 @@ content: "\f0da";
     background: url(imagenes/cervatillo3.png);
     background-repeat: no-repeat;
     background-size: contain;
-    padding: 41px;
+    padding: 43px;
     z-index: 100;
     position: absolute;
     right: 0;
-    margin-top: -44px;
+    margin-top: -48px;
 }
 
 .bck-box.bck-box-16 .bck-content {
