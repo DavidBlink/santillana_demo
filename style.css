@@ -2121,11 +2121,11 @@ content: "\f0da";
     background: url(imagenes/cervatillo1.png);
     background-repeat: no-repeat;
     background-size: contain;
-    padding: 50px;
+    padding: 42px;
     z-index: 100;
     position: absolute;
-    left: -23px;
-    margin-top: -57px;
+    left: -16px;
+    margin-top: -50px;
 }
 
 .bck-box.bck-box-13 .bck-content {
