@@ -2141,6 +2141,8 @@ content: "\f0da";
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
+    width: 400px;
+    height: auto;
     padding: 5px;
     border: 2px solid #906da6;
     border-radius: 20px 20px 0px 0px;
@@ -2156,7 +2158,7 @@ content: "\f0da";
     z-index: 100;
     position: absolute;
     margin-top: -58px;
-    left: 310px;
+    left: 320px;
 }
 
 .bck-box.bck-box-17 .bck-content {
@@ -2176,7 +2178,7 @@ content: "\f0da";
     padding: 5px;
     border: 2px solid #906da6;
     border-radius: 20px 20px 0px 0px;
-    font-size: 2rem;
+    font-size: 1.6rem;
 }
 
 .bck-box.bck-box-16 .bck-title:before {
