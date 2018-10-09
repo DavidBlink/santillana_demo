@@ -2165,15 +2165,15 @@ content: "\f0da";
 /*caja 16 formacion ciervo2*/
 
 .bck-box.bck-box-16 .bck-title {
-	background: url(imagenes/formacion-completo.jpg);
-    color: #e6b300;
-    font-weight: 700;
+    background-image: url(imagenes/formacion-completo.jpg);
+    display: block;
+    background-size: contain;
+    background-repeat: no-repeat;
     text-align: center;
     padding: 10px 10px 5px 10px;
     border: 2px solid #906da6;
     border-radius: 20px 20px 0px 0px;
-    font-size: 2.4rem;
-    letter-spacing: 1px;
+    font-size: 3.1rem;
 }
 
 .bck-box.bck-box-16 .bck-title:before {
