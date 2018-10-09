@@ -2515,16 +2515,15 @@ td {
 }
 
 .bck-title28 {
-    background-color: transparent;
-    color: #e6b300;
-    border-left: 20px solid #9e61a4;
-    border-top: 20px solid #9e61a4;
-    border-right: 20px solid #9e61a4;
-    font-weight: 700;
-    text-transform: uppercase;
+    background-image: url(imagenes/formacion-completo.jpg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
     text-align: center;
-    padding: 10px 10px 5px 10px;
-    font-size: 2.6rem;
+    padding: 5px;
+    border: 2px solid #906da6;
+    border-radius: 20px 20px 0px 0px;
+    font-size: 1.6rem;
 }
 
 .bck-title28:after {
