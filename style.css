@@ -1059,6 +1059,17 @@ content: "\f0da";
     font-weight: 700;
 }
 
+/*titulo EPA*/
+.bck-title30 {
+    background-image: url(imagenes/epa.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
+    width: 90%;
+    padding: 8px 20px 1px 20px;
+}
+
 /*enfasis*/
 .bck-enfasis {
     color: #9363A8;
@@ -2435,15 +2446,15 @@ td {
 
 /*Desplegable 2*/
 .bck-dropdown.santillana_demo-dropdown-2 {
-    background-color: #9665AB;
+    background-color: #3aaa35;
 }
 
 .santillana_demo-dropdown-2 .bck-dropdown-icon {
-    background-color: #9665AB;
+    background-color: #3aaa35;
 }
 
 .santillana_demo-dropdown-2 .bck-dropdown-content {
-    background-color: #e5b7e4;
+    background-color: #ffffff;
 }
 
 .edit .santillana_demo-dropdown-2 .bck-dropdown-content {
