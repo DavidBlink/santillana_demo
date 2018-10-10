@@ -39,6 +39,7 @@
 				{ name: 'argumentar azul', element: 'h3', attributes: { 'class': 'bck-title27'} },
 				{ name: 'form ciervoybuitre', element: 'h3', attributes: { 'class': 'bck-title28'} },
 				{ name: 'Pasado al presente', element: 'h3', attributes: { 'class': 'bck-title29'} },
+				{ name: 'epa', element: 'h3', attributes: { 'class': 'bck-title30'} },
 				
 							
 
