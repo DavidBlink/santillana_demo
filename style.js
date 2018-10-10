@@ -36,10 +36,12 @@
 				{ name: 'demuestra-azul', element: 'h3', attributes: { 'class': 'bck-title22'} },
 				{ name: 'demuestra-morado', element: 'h3', attributes: { 'class': 'bck-title23'} },
 				{ name: 'relaciona', element: 'h3', attributes: { 'class': 'bck-title26'} },
+				{ name: 'fondo verde', element: 'h3', attributes: { 'class': 'bck-title31'} },
 				{ name: 'argumentar azul', element: 'h3', attributes: { 'class': 'bck-title27'} },
 				{ name: 'form ciervoybuitre', element: 'h3', attributes: { 'class': 'bck-title28'} },
 				{ name: 'Pasado al presente', element: 'h3', attributes: { 'class': 'bck-title29'} },
 				{ name: 'epa', element: 'h3', attributes: { 'class': 'bck-title30'} },
+				
 				
 							
 
