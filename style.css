@@ -2134,6 +2134,7 @@ strong {
     background-color: #ffffff;
     border: 1px solid #848d94;
     border-radius: 0px 0px 20px 20px;
+    padding-left: 20px;
 }
 
 /*caja 13 formacion ciervo*/
@@ -2286,7 +2287,7 @@ background-image: url(imagenes/despuesbuitretexto.png);
 }
 
 table td.bck-td-1 {
-    background-color: #CC99FF;
+    background-color: #a1c037;
 }
 
 /*tabla y celda verde*/
