@@ -844,7 +844,37 @@ content: "\f063";
     width: fit-content;
     padding: 5px 10px 5px 10px;
     color: #fff;
-    border-radius: 20% 20% 20% 20%;
+    border-radius: 15px 15px 15px 15px;
+    font-size: 2rem;
+}
+
+/*paso morado*/
+.bck-title32 {
+    background: #eb5d8d;
+    width: fit-content;
+    padding: 5px 10px 5px 10px;
+    color: #fff;
+    border-radius: 15px 15px 15px 15px;
+    font-size: 2rem;
+}
+
+/*paso verde*/
+.bck-title33 {
+    background: #74b959;
+    width: fit-content;
+    padding: 5px 10px 5px 10px;
+    color: #fff;
+    border-radius: 15px 15px 15px 15px;
+    font-size: 2rem;
+}
+
+/*paso azul*/
+.bck-title34 {
+    background: #00b1eb;
+    width: fit-content;
+    padding: 5px 10px 5px 10px;
+    color: #fff;
+    border-radius: 15px 15px 15px 15px;
     font-size: 2rem;
 }
 
