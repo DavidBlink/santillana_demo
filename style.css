@@ -861,7 +861,8 @@ content: "\f063";
 .bck-title9{
     font-size: 1.5rem;
     position: relative;
-    padding-left: 40px;
+    padding-left: 20px;
+    line-height: 1.5rem;
 }
 
 .bck-title9:before {
@@ -875,6 +876,7 @@ content: "\f063";
     /* font-weight: 100; */
     width: 24px;
     height: 24px;
+    margin-bottom: -10px;
     /* position: absolute; */
     /* left: 15px; */
     text-align: center;
@@ -1270,7 +1272,7 @@ strong {
     line-height: initial;
     text-align: center;
     color: #fff;
-    border-radius: 30% 30% 0% 30%;
+    border-radius: 8px 8px 0px 8px;
 }
 
 
@@ -1299,14 +1301,14 @@ strong {
 #actividad .content .workspace ol li .bck-ol-4 li:before {
     content: counter(bck-li-counter)" ";
     position: absolute;
-    background: #3aaa35;
+    background: #19763a;
     width: 24px;
     height: 24px;
     line-height: initial;
     text-align: center;
     margin-left: -34px;
     color: #fff;
-    border-radius: 30% 30% 0% 30%;
+    border-radius: 8px 8px 0px 8px;
 }
 
 /*lista morado*/
@@ -2039,7 +2041,7 @@ strong {
     text-align: left;
     padding: 10px 0px 1px 20px;
     border-radius: 0px 20px 0px 0px;
-    font-size: 2.5rem;
+    font-size: 1.8rem;
     letter-spacing: 1px;
    
     
@@ -2049,6 +2051,7 @@ strong {
     background-color: #eae7d8;
     border-radius: 0px 0px 20px 20px;
     padding: 10px 20px 10px 20px;
+    font-size: 1.8rem;
 }
 
 /*caja saber más*/
@@ -2112,6 +2115,7 @@ strong {
 .bck-box.bck-box-11 .bck-content {
     background-color: #ffffff;
     border-bottom: 2px solid #baba0f;
+    padding-left: 10px;
 }
 
 /*caja azul*/
