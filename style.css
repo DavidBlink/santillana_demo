@@ -1159,6 +1159,15 @@ strong {
     padding: 4px 11px 5px 11px;
 }
 
+
+.bck-circuloverde {
+    background:  #19763a;
+    border-radius: 50%;
+    color: #ffffff;
+    padding: 4px 11px 5px 11px;
+}
+
+
 .bck-azulclaro {
     color: #99a6ba;
     font-variant: small-caps;
