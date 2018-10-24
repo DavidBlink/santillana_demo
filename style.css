@@ -2275,6 +2275,16 @@ strong {
     border-radius: 20px 0px 0px 0px;
 }
 
+/*caja bocadillo*/
+
+.bck-box.bck-box-25 .bck-content {
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #333;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+
 
 /**Iconos**/
 
@@ -2336,7 +2346,6 @@ table td.bck-td-1 {
 
 
 /*tabla y celda azul*/
-
 
 .bck-table-3 {
     border-radius: 10px;
@@ -2741,7 +2750,7 @@ td {
 font-size: 20px;
 }
 
-.bck-box.bck-box-2,.bck-box.bck-box-5, .bck-box.bck-box-6, .bck-box.bck-box-7, .bck-box.bck-box-8, .bck-box.bck-box-9, .bck-box.bck-box-10, .bck-box.bck-box-11, .bck-box.bck-box-12,.bck-box.bck-box-13,.bck-box.bck-box-14,.bck-box.bck-box-15,.bck-box.bck-box-16,.bck-box.bck-box-17,.bck-box.bck-box-18,.bck-box.bck-box-19, .bck-box.bck-box-20,.bck-box.bck-box-21,.bck-box.bck-box-22,.bck-box.bck-box-24{
+.bck-box.bck-box-2,.bck-box.bck-box-5, .bck-box.bck-box-6, .bck-box.bck-box-7, .bck-box.bck-box-8, .bck-box.bck-box-9, .bck-box.bck-box-10, .bck-box.bck-box-11, .bck-box.bck-box-12,.bck-box.bck-box-13,.bck-box.bck-box-14,.bck-box.bck-box-15,.bck-box.bck-box-16,.bck-box.bck-box-17,.bck-box.bck-box-18,.bck-box.bck-box-19, .bck-box.bck-box-20,.bck-box.bck-box-21,.bck-box.bck-box-22,.bck-box.bck-box-24, .bck-box.bck-box-25{
    font-size: 16px;
  margin-top: 15px;
 }
