@@ -1038,6 +1038,18 @@ content: "\f063";
     font-size: 2.4rem;
 }
 
+
+/*argumentar verde*/
+.bck-title35 {
+    background-color: #3aaa35;
+    width: fit-content;
+    padding: 7px 15px 7px 15px;
+    font-weight: 600;
+    color: #fff;
+    border-radius: 15px 15px 0px 15px;
+    font-size: 2.4rem;
+}
+
 /*titulo form-ciervoybuitre*/
 
 .bck-title28 {
@@ -2793,6 +2805,4 @@ font-size: 20px;
    font-size: 16px;
  margin-top: 15px;
 }
-
-
 }
