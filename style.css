@@ -1322,7 +1322,7 @@ strong {
     height: 24px;
     margin-left: -30px;
     margin-top: -1px;
-   /* line-height: initial;*/
+    line-height: initial;
     text-align: center;
     color: #fff;
     border-radius: 8px 8px 0px 8px;
@@ -1357,7 +1357,7 @@ strong {
     background: #19763a;
     width: 24px;
     height: 24px;
-  /*line-height: initial;*/
+    line-height: initial;
     text-align: center;
     margin-left: -34px;
     color: #fff;
@@ -1392,14 +1392,11 @@ strong {
     height: 24px;
     margin-left: -30px;
     margin-top: -1px;
-    /*line-height: initial;*/
+    line-height: initial;
     text-align: center;
     color: #fff;
     border-radius: 30% 30% 0% 30%;
 }
-
-
-
 
 
 
@@ -1411,7 +1408,6 @@ strong {
     list-style-type: none;
     counter-reset: bck-li-counter;
 }
-
 
 
 #actividad .content .cke_contents .bck-ol-5 li,
