@@ -146,7 +146,7 @@ input, button, select, textarea {
 
 .content_type_clase_santillana_demo #actividad .texto_curso li,
 .content_type_clase_santillana_demo #actividad .workspace ul li li {
-    margin-bottom: 10px;
+    margin-bottom: 15px;
 }
 
 .content_type_clase_santillana_demo #actividad .texto_curso li:last-of-type,
@@ -1317,13 +1317,12 @@ strong {
 #actividad .content .workspace ol li .bck-ol-3 li:before {
     content: counter(bck-li-counter)" ";
     position: absolute;
-    background: orange;
-    width: 24px;
-    height: 24px;
-    margin-left: -30px;
-    margin-top: -1px;
-    line-height: initial;
+    background: #ffa500;
+    width: 28px;
+    height: 28px;
+    line-height: unset;
     text-align: center;
+    margin-left: -34px;
     color: #fff;
     border-radius: 8px 8px 0px 8px;
 }
@@ -1355,9 +1354,9 @@ strong {
     content: counter(bck-li-counter)" ";
     position: absolute;
     background: #19763a;
-    width: 24px;
-    height: 24px;
-    line-height: initial;
+    width: 28px;
+    height: 28px;
+    line-height: unset;
     text-align: center;
     margin-left: -34px;
     color: #fff;
