@@ -1127,6 +1127,15 @@ content: "\f063";
     letter-spacing: 2px;
 }
 
+/*titulo Actividades*/
+.bck-title36 {
+   color: #369831;
+   font-weight: bold;
+   text-align: center;
+   font-size: 3rem;
+}
+
+
 /*enfasis*/
 
 strong {
@@ -1642,7 +1651,17 @@ strong {
     line-height: 2.1rem;
 }
 
-
+/*color cajas desplegables*/
+#actividad .workspace.chooseblanks .inline-answer a {
+    display: inline-block;
+    vertical-align: top;
+    border: 2px solid #ffa500;
+    padding: 3px 6px;
+    margin: 3px 2px;
+    -webkit-border-radius: 13px;
+    -moz-border-radius: 13px;
+    border-radius: 13px;
+}
 
 
 /*Cajas*/
