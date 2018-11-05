@@ -2365,7 +2365,7 @@ strong {
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
-    width: 400px;
+    width: 100%;
     height: auto;
     padding: 5px;
     border: 2px solid #906da6;
@@ -2382,7 +2382,7 @@ strong {
     z-index: 100;
     position: absolute;
     margin-top: -58px;
-    left: 320px;
+    left: 75%;
 }
 
 .bck-box.bck-box-17 .bck-content {
@@ -2425,11 +2425,50 @@ strong {
 
 /*caja formacion ciervo y buitre*/
 
+.bck-box.bck-box-24 .bck-title {
+    background-image: url(imagenes/formacion-completo.jpg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
+    width: 100%;
+    padding: 5px;
+    border: 2px solid #906da6;
+    border-radius: 20px 20px 0px 0px;
+    font-size: 1.6rem;
+}
+
+.bck-box.bck-box-24 .bck-title:before {
+    content: " ";
+    background: url(imagenes/cervatillo3.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 43px;
+    z-index: 100;
+    position: absolute;
+    right: 0;
+    margin-top: -48px;
+}
 
 
+.bck-box.bck-box-24 .bck-title:after {
+    content: " ";
+    background: url(imagenes/buitre1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 50px;
+    z-index: 100;
+    position: absolute;
+    margin-top: -58px;
+    left: 75%;
+}
 
 
-
+.bck-box.bck-box-24 .bck-content {
+    background-color: #e8e3f0;
+    border-radius: 0px 0px 30px 0px;
+    padding: 10px 25px 10px 15px;
+}
 
 
 /*caja fondo azul mate*/
