@@ -2348,7 +2348,7 @@ strong {
     padding: 42px;
     z-index: 100;
     position: absolute;
-    left: -16px;
+    left: 0;
     margin-top: -50px;
 }
 
@@ -2460,7 +2460,7 @@ strong {
     z-index: 100;
     position: absolute;
     margin-top: -58px;
-    left: 90%;
+    left: 80%;
 }
 
 
