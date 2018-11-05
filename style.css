@@ -2440,13 +2440,13 @@ strong {
 
 .bck-box.bck-box-24 .bck-title:before {
     content: " ";
-    background: url(imagenes/cervatillo3.png);
+    background: url(imagenes/cervatillo1.png);
     background-repeat: no-repeat;
     background-size: contain;
     padding: 43px;
     z-index: 100;
     position: absolute;
-    right: 0;
+    left: 0;
     margin-top: -48px;
 }
 
