@@ -2365,7 +2365,7 @@ strong {
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
-    width: 100%;
+    width: 80%;
     height: auto;
     padding: 5px;
     border: 2px solid #906da6;
@@ -2460,7 +2460,7 @@ strong {
     z-index: 100;
     position: absolute;
     margin-top: -58px;
-    left: 75%;
+    left: 90%;
 }
 
 
