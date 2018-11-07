@@ -48,7 +48,7 @@
 				{ name: 'Titulo Actividades', element: 'h3', attributes: { 'class': 'bck-title36'} },
 				{ name: 'obj derecha titulo', element: 'h3', attributes: { 'class': 'bck-title37'} },
 				{ name: 'obj izq titulo', element: 'h3', attributes: { 'class': 'bck-title38'} },
-				{ name: 'derecha subtítulo', element: 'span', attributes: { 'class': 'bck-title39'} },
+				
 				
 				
 							
@@ -68,7 +68,7 @@
 				{ name: 'enfasis gris', element: 'span', attributes: { 'class': 'bck-gris'} },
 				{ name: 'Explora-aprende azul', element: 'span', attributes: { 'class': 'bck-fondoazul'} },
 				{ name: 'derecha título', element: 'span', attributes: { 'class': 'bck-titulopequeno'} },
-				
+				{ name: 'subtítulo-pie', element: 'span', attributes: { 'class': 'bck-subtitulo'} },
 				
 				
 				
