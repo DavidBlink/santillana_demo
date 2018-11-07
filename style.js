@@ -46,7 +46,8 @@
 				{ name: 'Pasado al presente', element: 'h3', attributes: { 'class': 'bck-title29'} },
 				{ name: 'epa', element: 'h3', attributes: { 'class': 'bck-title30'} },
 				{ name: 'Titulo Actividades', element: 'h3', attributes: { 'class': 'bck-title36'} },
-				{ name: 'objetivo titulo', element: 'h3', attributes: { 'class': 'bck-title37'} },
+				{ name: 'obj derecha titulo', element: 'h3', attributes: { 'class': 'bck-title37'} },
+				{ name: 'obj izq titulo', element: 'h3', attributes: { 'class': 'bck-title38'} },
 				
 				
 							
