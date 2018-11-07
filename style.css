@@ -623,7 +623,7 @@ body.is_app .santillana_demo-navbar.ocultar {
 #actividad .content img {
     margin-top: 10px;
     border: 0px solid;
-    border-radius: 0px;
+    border-radius: 5px;
     border-bottom-right-radius: 0;
 }
 
@@ -1270,6 +1270,10 @@ strong {
     color: #3aaa35;
     border-bottom: 2px solid #3aaa35;
     width: 100%;
+}
+
+.bck-subtitulo {
+    font-size: 1.5rem;
 }
 
 
@@ -2271,7 +2275,7 @@ strong {
 .bck-box.bck-box-9 .bck-title {
     background-color: #eae7d8;
     color: #d3711c;
-    font-weight: 700;
+    font-weight: bold;
     text-align: left;
     padding: 10px 0px 1px 20px;
     border-radius: 0px 20px 0px 0px;
