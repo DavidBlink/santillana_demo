@@ -1143,13 +1143,14 @@ content: "\f063";
 
 .bck-title37 {
     border-bottom: 2px solid yellow;
-    color: grey;
+    color: #5f5e5e;
     font-size: 1.5rem;
     text-align: right;
+    padding-bottom: 10px;
 }
 
 .bck-title37:after {
-    background-image: url(/imagenes/aftertitulosaber.png)
+    background-image: url(imagenes/aftertitulosaber.png)
     content: ' ';
     position: absolute;
     padding: 10px;
