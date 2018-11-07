@@ -67,6 +67,9 @@
 				{ name: 'enfasis gris', element: 'span', attributes: { 'class': 'bck-gris'} },
 				{ name: 'Explora-aprende azul', element: 'span', attributes: { 'class': 'bck-fondoazul'} },
 				{ name: 'derecha título', element: 'span', attributes: { 'class': 'bck-titulopequeno'} },
+				{ name: 'derecha subtítulo', element: 'span', attributes: { 'class': 'bck-subtitulo'} },
+				
+				
 				
 				{ name: 'Lista Ordenada', element: 'ol', attributes: { 'class': 'bck-ol' } },
 				{ name: 'Lista Ordenada 2', element: 'ol', attributes: { 'class': 'bck-ol-2' } },
