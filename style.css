@@ -790,7 +790,7 @@ content: "\f063";
 .bck-title5 {
     font-size: 26px;
     font-weight: 600;
-    color: #3aaa35;
+    color: #3a8c38;
     line-height: 3.5rem;
 }
 
@@ -1156,13 +1156,7 @@ content: "\f063";
     padding-bottom: 10px;
 }
 
-.bck-title37:after {
-    background-image: url(imagenes/aftertitulosaber.png)
-    content: ' ';
-    position: absolute;
-    padding: 10px;
-    right: 0;
-}
+
 
 
 .bck-title38 {
@@ -1222,7 +1216,7 @@ strong {
     background: orange;
     border-radius: 50%;
     color: #ffffff;
-    padding: 4px 11px 5px 11px;
+    padding: 3px 8px 3px 8px;
 }
 
 
@@ -1272,7 +1266,6 @@ strong {
     color: #e30613;
     font-weight: 600;
     padding: 0px 0px 4px 0px;
-    margin-left: 10px;
     font-size: 1.8rem;
     color: #3aaa35;
     border-bottom: 2px solid #3aaa35;
