@@ -1145,10 +1145,20 @@ content: "\f063";
 }
 
 .bck-title37 {
-    
-
-    
+    border-bottom: 2px solid yellow;
+    color: grey;
+    font-size: 1.5rem;
+    text-align: right;
 }
+
+.bck-title37:after {
+    background-image: url(/imagenes/aftertitulosaber.png)
+    content: ' ';
+    position: absolute;
+    padding: 10px;
+    right: 0;
+}
+
 
 /*enfasis*/
 
