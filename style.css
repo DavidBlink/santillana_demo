@@ -671,7 +671,7 @@ body.is_app .santillana_demo-navbar.ocultar {
     display: inline-block;
     position: relative;
     background: #3aaa35;
-    padding: 7px 0px 7px 60px;
+    padding: 7px 30px 7px 60px;
     border-radius: 0px 15px 0px 0px;
 }
 
@@ -1235,8 +1235,7 @@ strong {
 .bck-titulopequeno {
     color: #e30613;
     font-weight: 600;
-    background: #fff;
-    padding: 15px 50px 5px 15px;
+    padding: 0px 10px 5px 15px;
     margin-left: 10px;
     font-size: 1.8rem;
     color: #3aaa35;
@@ -1629,7 +1628,6 @@ strong {
     height: 6px;
     width: 6px;
     background-color: #3aaa35;
-    margin-top: 12px;
     margin-left: -15px;
     margin-right: 7px;
     margin-bottom: 2px;
@@ -1653,7 +1651,6 @@ strong {
     height: 6px;
     width: 6px;
     background-color: #baba0f;
-    margin-top: 12px;
     margin-left: -15px;
     margin-right: 7px;
     margin-bottom: 2px;
@@ -1678,7 +1675,6 @@ strong {
     height: 6px;
     width: 6px;
     background-color: #fff;
-    margin-top: 12px;
     margin-left: -15px;
     margin-right: 7px;
     margin-bottom: 2px;
@@ -1702,7 +1698,6 @@ strong {
     height: 6px;
     width: 6px;
     background-color: #9e61a4;
-    margin-top: 12px;
     margin-left: -15px;
     margin-right: 7px;
     margin-bottom: 2px;
