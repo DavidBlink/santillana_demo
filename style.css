@@ -1271,12 +1271,13 @@ strong {
 .bck-titulopequeno {
     color: #e30613;
     font-weight: 600;
-    padding: 0px 10px 5px 15px;
+    padding: 0px 0px 4px 0px;
     margin-left: 10px;
     font-size: 1.8rem;
     color: #3aaa35;
     border-bottom: 2px solid #3aaa35;
     width: 100%;
+    display: block;
 }
 
 .bck-subtitulo {
