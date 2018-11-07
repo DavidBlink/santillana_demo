@@ -663,7 +663,7 @@ body.is_app .santillana_demo-navbar.ocultar {
     display: inline-block;
     position: relative;
     background: #3aaa35;
-    padding: 7px 30px 7px 60px;
+    padding: 7px 0px 7px 60px;
     border-radius: 0px 15px 0px 0px;
 }
 
@@ -1224,6 +1224,18 @@ strong {
     font-size: 2.8rem;
 }
 
+.bck-titulopequeno {
+    color: #e30613;
+    font-weight: 600;
+    background: #fff;
+    padding: 15px 50px 5px 15px;
+    margin-left: 10px;
+    font-size: 1.8rem;
+    color: #3aaa35;
+    border-bottom: 2px solid #3aaa35;
+    width: 100%;
+}
+
 
 /*listas ordenadas*/
     .content ol,
@@ -1319,6 +1331,7 @@ strong {
     position: relative;
     z-index: 0;
     font-weight: 700;
+    margin-left: 5px;
 }
 
 #actividad .content .cke_contents .bck-ol-3 li:before,
@@ -1332,7 +1345,7 @@ strong {
     height: 28px;
     line-height: unset;
     text-align: center;
-    margin-left: -34px;
+    margin-left: -37px;
     color: #fff;
     border-radius: 8px 8px 0px 8px;
 }
@@ -1818,7 +1831,7 @@ strong {
     font-size: 2rem;
     border-bottom: 2px solid #ffffff;
     padding-left: 30px;
-    padding-top: 5px;
+    padding-top: 15px;
     margin-top: -30px;
 }
 
