@@ -117,6 +117,7 @@
 				{ name: 'Caja form-ciervoybuitre', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-24' } },
 				{ name: 'Fondo azul mate', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-23' } },
 				{ name: 'Caja bocadillo', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-25' } },
+				{ name: 'Caja Actividades', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-26' } },
 				
 				{ name: 'Tabla', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table'} },
 				{ name: 'Tabla verde', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-2'} },
