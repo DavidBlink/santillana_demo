@@ -1819,7 +1819,7 @@ strong {
 
 .bck-box.center .bck-content {
     position: relative;
-    font-size: 1.5rem;
+    font-size: 1.8rem;
 }
 
 .bck-box.left, img[style~="float:right"] {
@@ -1837,7 +1837,7 @@ strong {
 }
 
 .bck-box .bck-content {
-    text-align: justify;
+    text-align: left;
     padding: 10px;
     padding-left: 50px;
 }
@@ -1936,9 +1936,6 @@ strong {
     letter-spacing: 1px;
 }
 
-.bck-box.bck-box-4 .bck-title p{
-    font-size: 2rem;
-}
 
 .bck-box.bck-box-4 .bck-title:before {
     content: "\f063";
@@ -1956,9 +1953,9 @@ strong {
     text-align: center;
 }
 .bck-box.bck-box-4 {
-    position: absolute;
-    top: 3%;
-    left: 40px;
+    position: relative;
+    top: -20px;
+    left: 0;
 }
 
 .bck-box.bck-box-4 .bck-content {
