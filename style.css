@@ -1872,9 +1872,11 @@ content: "\f063";
 /*caja actividades*/
 
 .bck-box.bck-box-26 .bck-title{
-    color: #70a83b;
+    color: #19763a;
     font-weight: 600;
     text-align: left;
+    margin-left: 20px;
+    margin-bottom: 3px;
 
 }
 
@@ -1886,6 +1888,7 @@ content: "\f063";
     border-bottom: 2px solid #10a83b;
     border-top: 2px solid #10a83b;
     text-align: left;
+    border-right: 20px
 }
 
 
