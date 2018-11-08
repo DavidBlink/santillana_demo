@@ -40,6 +40,13 @@ body {
 }
 
 
+/*paginacion*/
+
+.pags{
+    display: none;
+}
+
+
 .body_clase .content-wrapper {
     padding-top: 65px;
     padding-bottom: 0px;
