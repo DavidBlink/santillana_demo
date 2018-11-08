@@ -913,7 +913,8 @@ content: "\f063";
     font-size: 1.5rem;
     position: relative;
     padding-left: 0px;
-    line-height: 1.5rem;
+    line-height: 1.5rem;ç
+    text-align: left;
 }
 
 .bck-title9:before {
@@ -925,12 +926,11 @@ content: "\f063";
     /* border-radius: 50%; */
     /* padding: 0px; */
     /* font-weight: 100; */
-    width: 24px;
+    width: 10px;
     height: 24px;
     margin-bottom: -10px;
-    /* position: absolute; */
-    /* left: 15px; */
-    text-align: center;
+    position: relative;
+    text-align: left;
 }
 
 
