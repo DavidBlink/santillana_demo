@@ -1841,14 +1841,22 @@ content: "\f063";
 }
 
 
+/*caja actividades*/
 
-.bck-box.bck-box-1 .bck-title {
-   
+.bck-box.bck-box-26 .bck-title{
+    color: #70a83b;
+    font-weight: 600;
+    border-bottom: 2px solid #70a83b;
+    display: block;
+
 }
 
-.bck-box.bck-box-1 {
-   
+.bck-box.bck-box-26 .bck-content {
+    background-color: #fff;
+    padding: 20px 40px 20px 20px;
 }
+
+
 
 /*caja 2 marron*/
 
