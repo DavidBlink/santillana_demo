@@ -1,3 +1,5 @@
+_david_santillanachile
+
 /*General CSS SANTILLANA CHILE*/
 
 /* Fonts */
@@ -1936,29 +1938,10 @@ strong {
     letter-spacing: 1px;
 }
 
-.bck-box.bck-box-4 .bck-title p{
-    font-size: 2rem;
-}
-
-.bck-box.bck-box-4 .bck-title:before {
-    content: "\f063";
-    font-family: FontAwesome;
-    display: inline-block;
-    background-color: #fff;
-    color: #3aaa35;
-    border-radius: 50%;
-    padding: 3px;
-    font-weight: 300;
-    width: 24px;
-    height: 24px;
-    position: absolute;
-    left: 9px;
-    text-align: center;
-}
 .bck-box.bck-box-4 {
-    position: absolute;
-    top: 3%;
-    left: 40px;
+    position: relative;
+    top: -20px;
+    left: 0;
 }
 
 .bck-box.bck-box-4 .bck-content {
