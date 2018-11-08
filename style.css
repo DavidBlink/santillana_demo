@@ -1945,9 +1945,9 @@ strong {
 }
 
 .bck-box.bck-box-4 .bck-content {
-    background-color: #f6e7bf;
-    border-radius: 0px 50px 0px 50px;
-    padding: 20px 40px 20px 20px;
+    background-color: #FFF2E0;
+    padding: 20px 30px;
+    border-top: 1px solid #3AAA35;
 }
 
 /*caja 5 Activaazul*/
