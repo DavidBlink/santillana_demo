@@ -901,7 +901,7 @@ content: "\f063";
 .bck-title8 {
     font-size: 2.2rem;
     font-weight: bold;
-    color: #000000;
+    color: #333;
 }
 
 /*pie de foto*/
@@ -2280,8 +2280,8 @@ content: "\f063";
 /*caja resumen naranja*/
 
 .bck-box.bck-box-9 .bck-title {
-    background-color: #eae7d8;
-    color: #d3711c;
+    background-color: #ECE8D8;
+    color: #EE7567;
     font-weight: bold;
     text-align: left;
     padding: 10px 0px 1px 20px;
@@ -2293,7 +2293,7 @@ content: "\f063";
 }
 
 .bck-box.bck-box-9 .bck-content {
-    background-color: #eae7d8;
+    background-color: #ECE8D8;
     border-radius: 0px 0px 20px 20px;
     padding: 10px 20px 10px 20px;
     font-size: 1.8rem;
