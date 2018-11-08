@@ -2346,13 +2346,12 @@ content: "\f063";
 .bck-box.bck-box-10 .bck-title {
     background-color: #f8a800;
     color: #ffffff;
-    font-weight: 600;
+    font-weight: bold;
     width: fit-content;
     text-align: left;
     padding: 5px 20px 5px 20px;
     border-radius: 0px 0px 20px 0px;
-    font-size: 2.4rem;
-    letter-spacing: 1px;
+    font-size: 2rem;
 }
 
 .bck-box.bck-box-10 .bck-content {
