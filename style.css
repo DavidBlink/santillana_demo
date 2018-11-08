@@ -657,10 +657,6 @@ body.is_app .santillana_demo-navbar.ocultar {
     float: right;
 }
 
-#actividad .content .bck-img-align-center {
-    text-align: center;
-}
-
 #actividad .player.audio {
     background-image: url(audio_icon.png);
     background-size: 100%;
@@ -917,7 +913,7 @@ content: "\f063";
     font-size: 1.5rem;
     position: relative;
     padding-left: 0px;
-    line-height: 1.5rem;
+    line-height: 0.5rem;
 }
 
 .bck-title9:before {
@@ -1819,7 +1815,6 @@ content: "\f063";
 
 .bck-box.center {
     display: block;
-    text-align: center;
 }
 
 .bck-box.center .bck-content {
