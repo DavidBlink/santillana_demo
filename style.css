@@ -631,7 +631,7 @@ body.is_app .santillana_demo-navbar.ocultar {
 #actividad .content img {
     margin-top: 10px;
     border: 0px solid;
-    border-radius: 5px;
+    border-radius: 15px;
     border-bottom-right-radius: 0;
 }
 
