@@ -1821,7 +1821,6 @@ strong {
 
 .bck-box.center .bck-content {
     position: relative;
-    font-size: 1.5rem;
 }
 
 .bck-box.left, img[style~="float:right"] {
@@ -1839,7 +1838,7 @@ strong {
 }
 
 .bck-box .bck-content {
-    text-align: justify;
+    text-align: left;
     padding: 10px;
     padding-left: 50px;
 }
