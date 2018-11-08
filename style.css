@@ -1909,16 +1909,6 @@ content: "\f063";
 
 /*caja3 flotante*/
 
-.bck-box.bck-box-3 .bck-title{
-    background: #a1c037;
-    width: fit-content;
-    padding: 7px 20px 5px 20px;
-    color: #fff;
-    font-weight: bolder;
-    font-size: 2.3rem;
-    border-radius: 20px 20px 0% 0%;
-}
-
 
 .bck-box.bck-box-3 {
     position: relative;
