@@ -913,14 +913,14 @@ content: "\f063";
     font-size: 1.5rem;
     position: relative;
     padding-left: 0px;
-    line-height: 0.5rem;
+    line-height: 1.5rem;
 }
 
 .bck-title9:before {
     content: "\f0da";
     font-family: FontAwesome;
     display: inline-block;
-    background-color: #fff;
+    background-color: transparent;
     color: #3aaa35;
     /* border-radius: 50%; */
     /* padding: 0px; */
