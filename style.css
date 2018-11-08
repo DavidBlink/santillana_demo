@@ -1214,7 +1214,7 @@ content: "\f063";
     background: orange;
     border-radius: 50%;
     color: #ffffff;
-    padding: 3px 8px 3px 8px;
+    padding: 1px 6px 1px 6px;
 }
 
 
@@ -1854,10 +1854,11 @@ content: "\f063";
 
 .bck-box.bck-box-26 .bck-content {
     background-color: #fff;
-    padding: 25px 0 20px 20px;
+    padding: 20px;
     border-left: 2px solid #10a83b;
     border-right: 2px solid #10a83b;
     border-bottom: 2px solid #10a83b;
+    text-align: left;
 }
 
 
