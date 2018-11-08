@@ -1846,8 +1846,6 @@ content: "\f063";
 .bck-box.bck-box-26 .bck-title{
     color: #70a83b;
     font-weight: 600;
-    border-bottom: 2px solid #70a83b;
-    display: block;
     text-align: left;
 
 }
@@ -1858,6 +1856,7 @@ content: "\f063";
     border-left: 2px solid #10a83b;
     border-right: 2px solid #10a83b;
     border-bottom: 2px solid #10a83b;
+    border-top: 2px solid #10a83b;
     text-align: left;
 }
 
