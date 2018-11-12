@@ -2729,6 +2729,15 @@ td {
 
 }
 
+.btn-primary, .btn-primary.disabled {
+    color: #333;
+    background-color: #85c93900;
+    border-color: transparent;
+    opacity: 1;
+    padding-left: 2px;
+}
+
+
  .btn-primary.disabled {
     word-wrap: break-word;
     font-size: 18px;
