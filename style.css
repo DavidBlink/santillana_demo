@@ -114,15 +114,13 @@ a:hover, a:active, a:focus {
 
 #indice .unit-content .header .title {
     color: #fff;
-    float: left;
-    font-size: 30px;
+    margin: 0px;
+    width: 100%;
+    font-size: 24px;
     font-weight: 700;
-    padding: 4px 10px 6px 10px;
+    padding: 5px 10px 10px 20px;
     height: auto;
-    border-radius: 10px;
-    background-color: #262e2a8f;
-    margin: 20px 140px 20px 30px;
-    letter-spacing: 1px;
+    background-color: #3DAD48;
 }
 
 .content_type_clase_santillana_demo #actividad .content .header .title img,
@@ -253,14 +251,19 @@ fieldset[disabled] .content_type_clase_santillana_demo .slide_main input {
 }
 
 #indice .unit-content .header {
-    border: 2px solid #3aaa35;
-    border-bottom-right-radius: 0px;
+   
 }
 
 #indice .unit-content .header.default {
     background-image: url(../../../images/libro/transparente.png) ! important;
     background-color: #7aac39;
 }
+
+
+.title-buttons {
+    text-align: left;
+}
+
 
 #indice .units ul li a .number {
     width: 0px;
@@ -2727,7 +2730,12 @@ td {
 }
 
  .btn-primary.disabled {
-    background: #3aaa35;
+    word-wrap: break-word;
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0;
+    display: inline-block;
+    max-width: 300px;
  }
 
 
