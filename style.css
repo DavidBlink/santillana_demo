@@ -275,6 +275,16 @@ fieldset[disabled] .content_type_clase_santillana_demo .slide_main input {
 }
 
 
+#indice .unit-content .actividades .item .online {
+    display: none;
+}
+
+#indice .unit-content .actividades .item .acceso:before {
+    display: none;
+}
+
+
+
 #indice .unit-content .actividades .item .acceso.editorial.lock:before, #indice .unit-content .material .item .acceso.editorial.lock:before {
     display: none;
 }
@@ -1254,7 +1264,6 @@ content: "\f063";
 }
 
 /*enfasis*/
-
 
 .bck-enfasis {
     color: #9363A8;
