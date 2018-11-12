@@ -28,6 +28,8 @@
 				{ name: 'paso morado', element: 'h3', attributes: { 'class': 'bck-title32'} },
 				{ name: 'paso verde', element: 'h3', attributes: { 'class': 'bck-title33'} },
 				{ name: 'paso azul', element: 'h3', attributes: { 'class': 'bck-title34'} },
+				{ name: 'paso violeta', element: 'h3', attributes: { 'class': 'bck-title39'} },
+				{ name: 'paso rosa', element: 'h3', attributes: { 'class': 'bck-title40'} },
 				{ name: 'pie de foto', element: 'h3', attributes: { 'class': 'bck-title9'} },
 				{ name: 'Saber hacer', element: 'h3', attributes: { 'class': 'bck-title24'} },
 				{ name: 'Saber hacer2', element: 'h3', attributes: { 'class': 'bck-title25'} },
@@ -83,6 +85,7 @@
 				{ name: 'Lista letra verde', element: 'ol', attributes: { 'class': 'bck-ol-5' } },
 				{ name: 'Lista letra naranja', element: 'ol', attributes: { 'class': 'bck-ol-6' } },
 				{ name: 'Lista letra morado', element: 'ol', attributes: { 'class': 'bck-ol-8' } },
+				{ name: 'Lista letra rojo', element: 'ol', attributes: { 'class': 'bck-ol-11' } },
 				
 				
 				{ name: 'Lista Desordenada', element: 'ul', attributes: { 'class': 'bck-ul'} },
