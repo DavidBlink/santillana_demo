@@ -252,11 +252,9 @@ fieldset[disabled] .content_type_clase_santillana_demo .slide_main input {
 /* CURSO */
 
 #indice .unit-content {
-    -webkit-border-radius: 0px;
-    -moz-border-radius: 0px;
     border-radius: 0px;
-    background-color: #E5E5E6!important;
-    border: 5px solid #E5E5E6!important;
+    background-color: #E5E5E6;
+    border: 5px solid #E5E5E6;
     overflow: hidden;
     margin-bottom: 40px;
     position: relative;
@@ -349,16 +347,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
     max-width: 300px;
 }
 
-#indice .unit-content {
-    -webkit-border-radius: 8px;
-    -moz-border-radius: 8px;
-    border-radius: 8px;
-    background-color: #eee;
-    border: 1px solid #ddd;
-    overflow: hidden;
-    margin-bottom: 40px;
-    position: relative;
-}
+
 
 
 /**/
@@ -1278,7 +1267,7 @@ content: "\f063";
     background: orange;
     border-radius: 50%;
     color: #ffffff;
-    padding: 1px 6px 1px 6px;
+    padding: 1px 5px 1px 7px;
 }
 
 
