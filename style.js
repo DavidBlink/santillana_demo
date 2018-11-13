@@ -24,6 +24,7 @@
 				{ name: 'titulo gris', element: 'h3', attributes: { 'class': 'bck-title8'} },
 				{ name: 'titulo fondo rojo', element: 'h3', attributes: { 'class': 'bck-title42'} },
 				{ name: 'explora', element: 'h3', attributes: { 'class': 'bck-title6'} },
+				{ name: 'explora rojo', element: 'h3', attributes: { 'class': 'bck-title43'} },
 				{ name: 'paso gris', element: 'h3', attributes: { 'class': 'bck-title7'} },
 				{ name: 'paso naranja', element: 'h3', attributes: { 'class': 'bck-title12'} },
 				{ name: 'paso morado', element: 'h3', attributes: { 'class': 'bck-title32'} },
