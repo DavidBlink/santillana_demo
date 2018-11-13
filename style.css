@@ -2856,6 +2856,14 @@ td {
     font-weight: 700;
 }
 
+/*celda rojo*/
+.bck-td-5 {
+    color: #ffffff;
+    background: #e30613;
+    text-align: center;
+    font-weight: 700;
+}
+
 /*imagen de fondo actividades*/
 
 #actividad .carousel-inner .item-container.aux-fullscreen.is-medium .class_slide, #actividad .carousel-inner .item-container.aux-bckg.is-medium .class_slide {
