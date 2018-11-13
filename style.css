@@ -2984,18 +2984,6 @@ td {
 }
 
 
-@media only screen and (min-width: 768px) and (max-width: 1024px) {
-
-   .bck-box.bck-box-3 {
-   position: absolute;
-    top: 13%;
-    left: 50%;
-} 
-
-}
-
-
-
 @media screen and (max-width: 768px) {
 
     #actividad .carousel-inner .class_slide {
@@ -3211,5 +3199,6 @@ font-size: 20px;
    font-size: 16px;
  margin-top: 15px;
 }
+
 
 }
