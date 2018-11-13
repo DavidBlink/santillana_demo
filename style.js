@@ -67,6 +67,7 @@
 				{ name: 'rojo', element: 'span', attributes: { 'class': 'bck-rojo'} },
 				{ name: 'circulo naranja', element: 'span', attributes: { 'class': 'bck-naranja'} },
 				{ name: 'circulo verde', element: 'span', attributes: { 'class': 'bck-circuloverde'} },
+				{ name: 'circulo rojo', element: 'span', attributes: { 'class': 'bck-circulorojo'} },
 				{ name: 'azul claro', element: 'span', attributes: { 'class': 'bck-azulclaro'} },
 				{ name: 'verde desafio', element: 'span', attributes: { 'class': 'bck-verdedesafio'} },
 				{ name: 'sombreado', element: 'span', attributes: { 'class': 'bck-sombreado'} },
