@@ -2953,10 +2953,6 @@ td {
 
 @media screen and (max-width: 1024px){
 
-.content_type_clase_santillana_demo .santillana_demo-navbar .dropdown button, .content_type_clase_santillana_demo .santillana_demo-navbar li { 
-    margin: 0px;
-}
-
 #actividad .carousel-inner .item-container.copy-fullscreen-top .fs-img-container, #actividad .carousel-inner .item-container.copy-fullscreen-bottom .fs-img-container {
     width: 768px;
     height: 1024px !important;
