@@ -851,7 +851,7 @@ content: "\f063";
     display: inline-block;
     position: relative;
     background: #e30613;
-    padding: 7px 30px 7px 60px;
+    padding: 7px 20px 7px 20px;
     border-radius: 0px 15px 0px 0px;
 }
 
@@ -2013,12 +2013,17 @@ content: "\f063";
 
 .bck-box.bck-box-28 .bck-title{
     color: #c82b32;
-    font-weight: 600;
+    font-weight: 700;
     text-align: center;
     margin-left: 20px;
-    margin-bottom: 3px;
+    margin-bottom: -20px;
     background-color: #ffffff;
-    border-radius: 15px 15px 0px 15px;
+    border: 2px solid;
+    border-radius: 5px 5px 0px 5px;
+    width: fit-content;
+    padding: 2px 10px 2px 10px;
+    z-index: 100;
+    font-size: 2rem;
 }
 
 .bck-box.bck-box-28 .bck-content {
@@ -2030,6 +2035,7 @@ content: "\f063";
     border-top: 2px solid #c82b32;
     text-align: left;
     border-radius: 15px;
+    z-index: 1;
 }
 
 /*caja 2 marron*/
