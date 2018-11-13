@@ -689,6 +689,7 @@ body.is_app .santillana_demo-navbar.ocultar {
 /* CKEDITOR */
 #actividad .content img {
     margin-top: 10px;
+    margin-bottom: 10px;
     border: 0px solid;
     border-radius: 15px;
     border-bottom-right-radius: 0;
