@@ -132,9 +132,11 @@
 				{ name: 'Tabla', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table'} },
 				{ name: 'Tabla verde', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-2'} },
 				{ name: 'Tabla azul', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-3'} },
+				{ name: 'Tabla rojo', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-4'} },
 				{ name: 'Celda', element: 'td', attributes: { 'class': 'bck-td'} },
 				{ name: 'Celda verde', element: 'td', attributes: { 'class': 'bck-td-1' } },
 				{ name: 'Celda azul', element: 'td', attributes: { 'class': 'bck-td-2' } },
+				{ name: 'Celda rojo', element: 'td', attributes: { 'class': 'bck-td-5' } },
 				{ name: 'Celda azul-claro', element: 'td', attributes: { 'class': 'bck-td-3' } },
 				{ name: 'Celd borde abajo', element: 'td', attributes: { 'class': 'bck-td-4' } },
 
