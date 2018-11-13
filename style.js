@@ -123,6 +123,8 @@
 				{ name: 'Caja bocadillo', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-25' } },
 				{ name: 'Caja Actividades', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-26' } },
 				{ name: 'Caja Relaciona', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-27' } },
+				{ name: 'Caja desafio rojo', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-28' } },
+				
 				
 				{ name: 'Tabla', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table'} },
 				{ name: 'Tabla verde', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-2'} },
