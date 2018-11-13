@@ -843,7 +843,17 @@ content: "\f063";
     left: 15px;
     text-align: center;
 }
-
+/*titulo fondo rojo*/
+.bck-title42{
+        color: #ffffff;
+    font-size: 2.4rem;
+    font-weight: 700;
+    display: inline-block;
+    position: relative;
+    background: #e30613;
+    padding: 7px 30px 7px 60px;
+    border-radius: 0px 15px 0px 0px;
+}
 
 /*titulo verde*/
 
