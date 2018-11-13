@@ -2794,6 +2794,19 @@ table td.bck-td-1 {
 }
 
 
+/*tabla roja y celda roja*/
+
+.bck-table-4 {
+    border-radius: 10px;
+    border: 2px solid #e30613;
+
+}
+
+.bck-table-4 td {
+    border: 1px solid #e30613;
+}
+
+
 /*tabla y celda azul*/
 
 .bck-table-3 {
