@@ -191,23 +191,9 @@
 		},
 
 		formatCarouselindicators: function () {
-			var idgrupo = window.idgrupo,
-				idalumno = window.idalumno,
-				slideNavParams = '';
-
-			if (idgrupo) slideNavParams += '&idgrupo=' + idgrupo;
-			if (idalumno) slideNavParams += '&idalumno=' + idalumno;
-
 			var $navbarBottom = $('.navbar-bottom'),
-				$carouselIndicators = $('.slider-indicators').find('li'),
-				that = this,
-				firstSlide = eval('t0_slide');
-
-			var subunits = that.subunits,
-				totalSlides = 0,
-				subunit_index,
-				subunit_pags;
-
+				$carouselIndicators = $('.slider-indicators').find('li');
+			var firstSlide = eval('t0_slide');
 			var dropDown = '' +
 					'<div class="dropdown">' +
 						'<button id="dLabel" type="button" data-toggle="dropdown" aria-haspopup="true" role="button" aria-expanded="false">' +
@@ -232,37 +218,17 @@
 					clase = (slide.seccion == 'taller') ? ('fa fa-edit') : ('fa fa-check');
 				}
 
+				dropDown += '<li role="presentation"><a role="menuitem"></span> <span class="title">' + textIndice + '</span></a></li>';
 
 				navigatorIndex++;
 			};
-
-			for (var unit = 0; unit < subunits.length; unit++) {
-				if (subunits[unit].titulosSlides) {
-					var slideTitNum = subunits[unit].titulosSlides.length;
-					var currElem;
-
-					for (var sli = 0; sli < slideTitNum; sli++ ) {
-						var tituloSlide = subunits[unit].titulosSlides[sli] || subunits[unit].type;
-						subunit_slide_titles.push(tituloSlide);
-
-						if (subunits[unit].id != idclase) {
-							dropDown += '<li role="presentation">\
-								<a role="menuitem" onclick="redireccionar(\'/coursePlayer/clases2.php?editar=0&idcurso=' + idcurso + '&idclase=' + subunits[unit].id + '&modo=0&popup=1&numSec='+(sli+1) + slideNavParams +'\', false, undefined)"></span> <span class="title">' + tituloSlide + '</span></a></li>';
-						}
-						else {
-							dropDown += '<li role="presentation">\
-											<a role="menuitem"></span> <span class="title">' + tituloSlide + '</span></a></li>';
-						}
-					}
-				}
-			}
 
 			dropDown += '' +
 						'</ul>' +
 					'</div>';
 
 			$navbarBottom
-				.attr('class', 'maya-navbar')
+				.attr('class', 'santillana_demo-navbar')
 				.wrapInner('<div class="navbar-content"></div>')
 				.find('ol')
 					.before(dropDown)
@@ -276,61 +242,11 @@
 
 			$('#volverAlIndice').click(function() {
 				return showCursoCommit();
-			});
-
-			if (subunits.length !== 0) {
-				for (var i in subunits) {
-					if (subunits[i].pags) {
-						var subunitSlides = parseInt(subunits[i].pags);
-						totalSlides += subunitSlides;
-					}
-					if (subunits[i].id && subunits[i].id == idclase) {
-						subunit_index = i;
-						subunit_pags = parseInt(subunits[i].pags);
-					}
-
-				}
-
-				that.totalSlides = totalSlides;
-
-				$('#top-navigator').append('<span class="left slider-navigator">' +
-						'<span class="fa fa-chevron-left"></span>' +
-					'</span>' +
-					'<span class="slide-counter" data-subunit-index="' + subunit_index +
-						'" data-subunit-pags="' + subunit_pags + '">' +
-						that.getActualSlideNumber(subunits) + ' / ' + totalSlides +
-					'</span>' +
-					'<span class="right slider-navigator">' +
-						'<span class="fa fa-chevron-right"></span>' +
-					'</span>');
-
-				blink.events.on('section:shown', function() {
-					$('.slide-counter').html(that.getActualSlideNumber(subunits) +
-						' / ' + totalSlides);
-				});
-			} else {
-				$('#top-navigator').append('<span class="left slider-navigator">' +
-						'<span class="fa fa-chevron-left"></span>' +
-					'</span>' +
-					'<span class="slide-counter">' + (window.activeSlide + 1) +
-						' / ' + window.secuencia.length +
-					'</span>' +
-					'<span class="right slider-navigator">' +
-						'<span class="fa fa-chevron-right"></span>' +
-					'</span>');
-
-				blink.events.on('section:shown', function() {
-					$('.slide-counter').html((window.activeSlide + 1) +
-						' / ' + window.secuencia.length);
-					$('.bck-dropdown-2').hideBlink();
-				});
-			}
-
+			})
 
 			blink.events.on('section:shown', function() {
-				var $navbarBottom2 = $('#dLabel');
 				var sectionTitle = eval('t' + blink.activity.getFirstSlideIndex(window.activeSlide) + '_slide').title;
-					$navbarBottom2.find('.sectionTitle').text(sectionTitle);
+				$navbarBottom.find('.sectionTitle').text(sectionTitle);
 			});
 
 			var curso = blink.getCourse(idcurso);
@@ -340,24 +256,23 @@
 				var dropDownTemas = '' +
 					'<div class="dropdownTemas">' +
 						'<button id="tLabel" type="button" data-toggle="dropdown" aria-haspopup="true" role="button" aria-expanded="false">' +
-							'<h2>' +
+							'<h2><span id="courseIndex"></span>' +
 								'<div id="nombre-tema-wrapper">' +
 									'</span><span id="nombre-tema">' + blink.courseInfo.unit + '<span class="caret"></span></span>' +
-									'<a href="#" id="goTo-indice"></a>' +
+									'<a href="#" id="goTo-indice">' + text_web.slide_volver_indice + '</a>' +
 								'</div>' +
 							'</h2>' +
 						'</button>' +
 						'<ul class="dropdown-menu" role="menu" aria-labelledby="tLabel">';
 
 				for (var i in units) {
-					var title = units[i].title,
-					    idTema = units[i].id;
+					var title = units[i].title;
 					if (title && units[i].subunits.length) { //Si el tema tiene actividades
 						dropDownTemas += '' +
-							'<li role="presentation" class="lista-temas" data-url="' + units[i].subunits[0].url + slideNavParams + '&popup=1">' +
-								'<span><a role="menuitem">'+ title + '</a>' +
+							'<li role="presentation" class="lista-temas" data-url="' + units[i].subunits[0].url + '">' +
+								'<span>'+ units[i].number + '</span><a role="menuitem">' + title + '</a>' +
 							'</li>'
-						if (idTema == blink.courseInfo.IDUnit) number = units[i].number;
+						if (title == blink.courseInfo.unit) number = units[i].number;
 					}
 				}
 
@@ -393,10 +308,6 @@
 							container: 'body'
 						});
 			}
-
-			var $navbarBottom2 = $('#dLabel');
-			var sectionTitle = eval('t' + blink.activity.getFirstSlideIndex(window.activeSlide) + '_slide').title;
-				$navbarBottom2.find('.sectionTitle').text(sectionTitle);
 
 			blink.events.trigger(true, 'style:endFormatCarousel');
 		},
