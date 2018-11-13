@@ -2957,6 +2957,11 @@ td {
     width: 768px;
     height: 1024px !important;
 }
+
+.content_type_clase_santillana_demo .santillana_demo-navbar .dropdown button, .content_type_clase_santillana_demo .santillana_demo-navbar li {
+    margin: 0px;
+}
+
 }
 
 
