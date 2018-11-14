@@ -143,6 +143,7 @@
 
 				{ name: 'Desplegable', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'santillana_demo-dropdown' } },
 				{ name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'santillana_demo-dropdown-2' } },
+				{ name: 'Desplegable 3 rojo', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'santillana_demo-dropdown-3' } },
 				
 				{ name: 'Icono Antes', element: 'span', attributes: { 'class': 'icon icon-antes' } },
 				{ name: 'Icono Durante', element: 'span', attributes: { 'class': 'icon icon-durante' } },
