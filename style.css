@@ -858,8 +858,10 @@ content: "\f063";
 /*fondo coral*/
 .bck-title44 {
     background-color: #d68967;
+    width: fit-content;
     color: #ffffff;
     font-weight: bolder;
+    font-size: 2rem;
     padding: 1px 3px 1px 3px;
 }
 
