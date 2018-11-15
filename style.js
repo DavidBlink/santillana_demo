@@ -23,6 +23,7 @@
 				{ name: 'titulo naranja', element: 'h3', attributes: { 'class': 'bck-title3'} },
 				{ name: 'titulo gris', element: 'h3', attributes: { 'class': 'bck-title8'} },
 				{ name: 'titulo fondo rojo', element: 'h3', attributes: { 'class': 'bck-title42'} },
+				{ name: 'fondo coral', element: 'h3', attributes: { 'class': 'bck-title44'} },
 				{ name: 'explora', element: 'h3', attributes: { 'class': 'bck-title6'} },
 				{ name: 'explora rojo', element: 'h3', attributes: { 'class': 'bck-title43'} },
 				{ name: 'paso gris', element: 'h3', attributes: { 'class': 'bck-title7'} },
