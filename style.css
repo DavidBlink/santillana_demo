@@ -3110,11 +3110,11 @@ td {
     border-top-right-radius: 20px;
 }
 
-.santillana_demo-dropdown .bck-dropdown-icon, .santillana_demo-dropdown-2 .bck-dropdown-icon {
+.santillana_demo-dropdown .bck-dropdown-icon, .santillana_demo-dropdown-2 .bck-dropdown-icon, .santillana_demo-dropdown-3 .bck-dropdown-icon {
     color: white;
 }
 
-.santillana_demo-dropdown .bck-dropdown-icon > .fa, .santillana_demo-dropdown-2 .bck-dropdown-icon > .fa {
+.santillana_demo-dropdown .bck-dropdown-icon > .fa, .santillana_demo-dropdown-2 .bck-dropdown-icon > .fa, .santillana_demo-dropdown-3 .bck-dropdown-icon > .fa {
     border: 3px solid white;
 }
 
