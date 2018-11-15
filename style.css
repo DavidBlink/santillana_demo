@@ -1260,9 +1260,6 @@ content: "\f063";
     padding-bottom: 10px;
 }
 
-
-
-
 .bck-title38 {
     border-bottom: 2px solid #3aaa35;
     color: #5f5e5e;
@@ -2411,6 +2408,47 @@ content: "\f063";
     border-top: 1px solid #e30613;
 }
 
+
+/*caja 32 Activarojo2*/
+
+.bck-box.bck-box-32 .bck-title {
+    background-color: #e30613;
+    color: #fff;
+    font-weight: 700;
+    text-align: left;
+    padding: 10px 30px 5px 40px;
+    border-radius: 20px 0px 0px 0px;
+    width: fit-content;
+}
+
+
+.bck-box.bck-box-32 .bck-title:before {
+    content: "\f063";
+    font-family: FontAwesome;
+    display: inline-block;
+    background-color: #fff;
+    color: #e30613;
+    border-radius: 50%;
+    padding: 3px;
+    font-weight: 300;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    left: 9px;
+    text-align: center;
+}
+.bck-box.bck-box-32 {
+    position: relative;
+    top: -20px;
+    left: 0;
+}
+
+.bck-box.bck-box-32 .bck-content {
+    background-color: #ffffff;
+    padding: 20px 30px;
+    border-top: 1px solid #e30613;
+}
+
 /*caja queverde*/
 
 .bck-box.bck-box-18 .bck-title {
@@ -3228,6 +3266,7 @@ td {
     .content_type_clase_santillana_demo .santillana_demo-navbar .dropdown {
     display: none!important;
    }
+
 }
 
 
