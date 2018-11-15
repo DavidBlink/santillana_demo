@@ -2263,7 +2263,7 @@ content: "\f063";
     padding: 20px 40px 20px 20px;
 }
 
-/*caja 4 Activaverde flotante*/
+/*caja 4 Activaverde*/
 
 .bck-box.bck-box-4 .bck-title {
     background-color: #3aaa35;
@@ -2383,6 +2383,7 @@ content: "\f063";
     width: fit-content;
 }
 
+
 .bck-box.bck-box-15 .bck-title:before {
     content: "\f063";
     font-family: FontAwesome;
@@ -2398,11 +2399,16 @@ content: "\f063";
     left: 9px;
     text-align: center;
 }
-
+.bck-box.bck-box-15 {
+    position: relative;
+    top: -20px;
+    left: 0;
+}
 
 .bck-box.bck-box-15 .bck-content {
-    background-color: #f6e7bf;
-    border-radius: 0px 50px 0px 50px;
+    background-color: #FFF2E0;
+    padding: 20px 30px;
+    border-top: 1px solid #e30613;
 }
 
 /*caja queverde*/
