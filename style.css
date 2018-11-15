@@ -3153,6 +3153,23 @@ td {
 .edit .santillana_demo-dropdown-2 .bck-dropdown-content {
     color: white;
 }
+
+/*Desplegable rojo*/
+.bck-dropdown.santillana_demo-dropdown-3 {
+    background-color: #e30613;
+}
+
+.santillana_demo-dropdown-3 .bck-dropdown-icon {
+    background-color: #e30613;
+}
+
+.santillana_demo-dropdown-3 .bck-dropdown-content {
+    background-color: #ffffff;
+}
+
+.edit .santillana_demo-dropdown-3 .bck-dropdown-content {
+    color: white;
+}
 /**/
 /****/
 
