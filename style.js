@@ -63,6 +63,7 @@
 				{ name: 'Versalitas', element: 'span', attributes: { 'class': 'bck-versalitas'} },
 				{ name: 'verde', element: 'span', attributes: { 'class': 'bck-verde1'} },
 				{ name: 'subrayado verde', element: 'span', attributes: { 'class': 'bck-verde2'} },
+				{ name: 'subrayado rojo', element: 'span', attributes: { 'class': 'bck-subrojo'} },
 				{ name: 'morado', element: 'span', attributes: { 'class': 'bck-morado'} },
 				{ name: 'azul', element: 'span', attributes: { 'class': 'bck-azul'} },
 				{ name: 'rojo', element: 'span', attributes: { 'class': 'bck-rojo'} },
