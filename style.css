@@ -855,6 +855,14 @@ content: "\f063";
     border-radius: 0px 15px 0px 0px;
 }
 
+/*fondo coral*/
+.bck-title44 {
+    background-color: #d68967;
+    color: #ffffff;
+    font-weight: bolder;
+    padding: 1px 3px 1px 3px;
+}
+
 /*titulo verde*/
 
 .bck-title5 {
