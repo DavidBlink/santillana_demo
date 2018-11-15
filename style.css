@@ -2965,6 +2965,13 @@ td {
     font-weight: 700;
 }
 
+/*celda azul claro 2*/
+.bck-td-6 {
+    background: #ccdbf1;
+    text-align: center;
+    font-weight: 700;
+}
+
 /*celda borde bottom*/
 .bck-td-4 {
     border-bottom: 2px solid #4492cf!important;
