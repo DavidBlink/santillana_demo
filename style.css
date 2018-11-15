@@ -2415,13 +2415,11 @@ content: "\f063";
     position: relative;
     top: -20px;
     left: 0;
-}
-
-.bck-box.bck-box-32 .bck-content {
     background-color: #ffffff;
     padding: 20px 30px;
     border-top: 1px solid #e30613;
 }
+
 
 /*caja queverde*/
 
@@ -2695,6 +2693,7 @@ content: "\f063";
 .bck-box.bck-box-11 .bck-content {
     background-color: #ffffff;
     border-bottom: 2px solid #baba0f;
+    border-top: 0px;
     padding-left: 10px;
 }
 
