@@ -855,16 +855,7 @@ content: "\f063";
     border-radius: 0px 15px 0px 0px;
 }
 
-/*fondo coral*/
-.bck-title44 {
-    background-color: #d68967;
-    width: fit-content;
-    color: #ffffff;
-    border-radius: 5px 0px 5px 0px;
-    font-weight: bolder;
-    font-size: 1.8rem;
-    padding: 1px 3px 1px 3px;
-}
+
 
 /*titulo verde*/
 
@@ -1318,6 +1309,17 @@ content: "\f063";
 .bck-morado {
     color: #9e61a4;
     font-weight: 600;
+}
+
+
+.bck-coral {
+    background-color: #d68967;
+    width: fit-content;
+    color: #ffffff;
+    border-radius: 5px 0px 5px 0px;
+    font-weight: bolder;
+    font-size: 1.8rem;
+    padding: 2px 4px 2px 4px;
 }
 
 .bck-azul {
