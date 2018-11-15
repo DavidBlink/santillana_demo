@@ -1902,6 +1902,28 @@ content: "\f063";
     border-radius: 50%;
 }
 
+/*lista cuadrada rojo*/
+#actividad .content .cke_contents ul .bck-ul-8 li,
+#actividad .content .texto_curso ul .bck-ul-8 li,
+#actividad .content .texto_curso ul .bck-ul-8 li,
+#actividad .content .workspace ul .bck-ul-8 li {
+    list-style: none;
+}
+
+#actividad .content .cke_contents ul .bck-ul-8 li:before,
+#actividad .content .texto_curso ul .bck-ul-8 li:before,
+#actividad .content .texto_curso .bck-ul-8 li:before,
+#actividad .content .workspace ul li .bck-ul-8 li:before {
+    content: "";
+    position: absolute;
+    height: 6px;
+    width: 6px;
+    background-color: #c82b32;
+    margin-left: -15px;
+    margin-right: 7px;
+    margin-bottom: 2px;
+    border-radius: 0px;
+}
 
 
 /**/
