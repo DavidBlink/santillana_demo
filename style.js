@@ -145,6 +145,7 @@
 				{ name: 'Celda azul', element: 'td', attributes: { 'class': 'bck-td-2' } },
 				{ name: 'Celda rojo', element: 'td', attributes: { 'class': 'bck-td-5' } },
 				{ name: 'Celda azul-claro', element: 'td', attributes: { 'class': 'bck-td-3' } },
+				{ name: 'Celda azul-claro2', element: 'td', attributes: { 'class': 'bck-td-6' } },
 				{ name: 'Celd borde abajo', element: 'td', attributes: { 'class': 'bck-td-4' } },
 
 				{ name: 'Desplegable', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'santillana_demo-dropdown' } },
