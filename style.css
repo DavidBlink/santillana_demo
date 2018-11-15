@@ -2146,12 +2146,13 @@ content: "\f063";
 /*Caja bordes rojo*/
 .bck-box.bck-box-31 .bck-content {
     background-color: #ffffff;
-    padding: 5px;
+    padding: 2px;
     border: 2px solid #e30613;
     text-align: center;
     border-radius: 0px;
     font-weight: bold;
     color: #e30613;
+    margin-top: 10px;
 }
 
 
