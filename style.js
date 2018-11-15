@@ -111,6 +111,7 @@
 				{ name: 'Caja Activaazul', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-5' } },
 				{ name: 'Caja Activamorado', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-6' } },
 				{ name: 'Caja Activarojo', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-15' } },
+				{ name: 'Caja Activarojo2', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-32' } },
 				{ name: 'Caja queverde', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-18' } },
 				{ name: 'Caja queazul', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-19' } },
 				{ name: 'Caja quemorado', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-20' } },
