@@ -2411,32 +2411,6 @@ content: "\f063";
 
 /*caja 32 Activarojo2*/
 
-.bck-box.bck-box-32 .bck-title {
-    background-color: #e30613;
-    color: #fff;
-    font-weight: 700;
-    text-align: left;
-    padding: 10px 30px 5px 40px;
-    border-radius: 20px 0px 0px 0px;
-    width: fit-content;
-}
-
-
-.bck-box.bck-box-32 .bck-title:before {
-    content: "\f063";
-    font-family: FontAwesome;
-    display: inline-block;
-    background-color: #fff;
-    color: #e30613;
-    border-radius: 50%;
-    padding: 3px;
-    font-weight: 300;
-    width: 24px;
-    height: 24px;
-    position: absolute;
-    left: 9px;
-    text-align: center;
-}
 .bck-box.bck-box-32 {
     position: relative;
     top: -20px;
