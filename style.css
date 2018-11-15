@@ -1302,6 +1302,11 @@ content: "\f063";
     display: block;
 }
 
+.bck-subrojo {
+    padding-bottom: 1px;
+    border-bottom: 1px solid #e30613;
+}
+
 .bck-morado {
     color: #9e61a4;
     font-weight: 600;
