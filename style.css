@@ -2393,6 +2393,9 @@ content: "\f063";
     border-top: 1px solid #e30613;
 }
 
+.bck-box.bck-box-15 .bck-content {
+    padding-left: 0px;
+}
 
 /*caja 32 Activarojo2*/
 
@@ -2403,6 +2406,10 @@ content: "\f063";
     background-color: #ffffff;
     padding: 20px 0px;
     border-top: 1px solid #e30613;
+}
+
+.bck-box.bck-box-32 .bck-content {
+    padding-left: 0px;
 }
 
 
