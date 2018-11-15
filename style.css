@@ -2133,7 +2133,7 @@ content: "\f063";
 /*caja desafio verde*/
 
 .bck-box.bck-box-29 .bck-title{
-    color: #3aaa35;
+    color: #95C11F;
     font-weight: 700;
     text-align: center;
     margin-left: 20px;
@@ -2151,10 +2151,10 @@ content: "\f063";
 .bck-box.bck-box-29 .bck-content {
     background-color: #fff;
     padding: 20px;
-    border-left: 2px solid #3aaa35;
-    border-right: 2px solid #3aaa35;
-    border-bottom: 2px solid #3aaa35;
-    border-top: 2px solid #3aaa35;
+    border-left: 2px solid #95C11F;
+    border-right: 2px solid #95C11F;
+    border-bottom: 2px solid #95C11F;
+    border-top: 2px solid #95C11F;
     text-align: left;
     border-radius: 15px;
     z-index: 1;
@@ -3378,6 +3378,5 @@ font-size: 20px;
    font-size: 16px;
  margin-top: 15px;
 }
-
 
 }
