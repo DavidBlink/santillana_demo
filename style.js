@@ -128,7 +128,9 @@
 				{ name: 'Caja Actividades', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-26' } },
 				{ name: 'Caja Relaciona', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-27' } },
 				{ name: 'Caja desafio rojo', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-28' } },
-				
+				{ name: 'Caja desafio verde', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-29' } },
+				{ name: 'Caja peq azul', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-30' } },
+				{ name: 'Caja bordes rojo', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-31' } },
 				
 				{ name: 'Tabla', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table'} },
 				{ name: 'Tabla verde', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-2'} },
