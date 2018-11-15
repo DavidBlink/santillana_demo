@@ -1910,7 +1910,7 @@ content: "\f063";
     position: absolute;
     height: 6px;
     width: 6px;
-    background-color: #009bdb;
+    background-color: #8cc1ce;
     margin-left: -15px;
     margin-right: 7px;
     margin-bottom: 2px;
@@ -2394,7 +2394,7 @@ content: "\f063";
 }
 
 .bck-box.bck-box-15 .bck-content {
-    padding-left: 0px;
+    padding-left: 10px;
 }
 
 /*caja 32 Activarojo2*/
@@ -2409,7 +2409,7 @@ content: "\f063";
 }
 
 .bck-box.bck-box-32 .bck-content {
-    padding-left: 0px;
+    padding-left: 10px;
 }
 
 
