@@ -2111,6 +2111,27 @@ content: "\f063";
 }
 
 
+/*Caja peq azul*/
+
+.bck-box.bck-box-30 .bck-content {
+    background-color: #e3eaef;
+    padding: 10px 10px 10px 20px;
+    border: 2px solid #728b98;
+    text-align: left;
+    border-radius: 15px;
+}
+
+/*Caja bordes rojo*/
+.bck-box.bck-box-31 .bck-content {
+    background-color: #ffffff;
+    padding: 5px;
+    border: 2px solid #e30613;
+    text-align: center;
+    border-radius: 0px;
+    font-weight: bold,
+    color: #e30613;
+}
+
 
 
 /*caja 2 marron*/
