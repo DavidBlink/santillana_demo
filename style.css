@@ -2666,14 +2666,11 @@ content: "\f063";
 .bck-box.bck-box-10 .bck-content {
     background-color: #faecd4;
     padding: 10px 20px 10px 20px;
-}
-
-.bck-box.bck-box-10 {
+    border-radius: 0px 20px 0px 20px;
     max-width: 100%;
     margin-bottom: 20px;
-    background: #faecd4;
-    border-radius: 0px 20px 0px 20px;
 }
+
 
 /*caja escucha verde*/
 
@@ -3076,14 +3073,14 @@ td {
 }
 
 
- .btn-primary.disabled {
+ /*.btn-primary.disabled {
     word-wrap: break-word;
     font-size: 18px;
     font-weight: 700;
     margin: 0;
     display: inline-block;
     max-width: 300px;
- }
+ }*/
 
 
  .btn-primary.disabled:focus {
