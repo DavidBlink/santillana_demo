@@ -51,7 +51,7 @@
 				{ name: 'epa', element: 'h3', attributes: { 'class': 'bck-title30'} },
 				{ name: 'Titulo Actividades', element: 'h3', attributes: { 'class': 'bck-title36'} },
 				{ name: 'obj derecha titulo', element: 'h3', attributes: { 'class': 'bck-title37'} },
-				{ name: 'obj izq titulo', element: 'h3', attributes: { 'class': 'bck-title38'} },
+				{ name: 'obj derecha verde', element: 'h3', attributes: { 'class': 'bck-title38'} },
 				{ name: 'obj derecha rojo', element: 'h3', attributes: { 'class': 'bck-title41'} },
 				
 				
