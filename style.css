@@ -2688,23 +2688,24 @@ content: "\f063";
 
 /*caja saber más*/
 
-.bck-box.bck-box-10 .bck-title {
-    background-color: #f8a800;
-    color: #ffffff;
-    font-weight: bold;
-    width: fit-content;
-    text-align: left;
-    padding: 5px 20px 5px 20px;
-    border-radius: 0px 0px 20px 0px;
-    font-size: 2rem;
+.bck-box.bck-box-10 {
+  background: #FFEACD;
+  border-top-right-radius: 20px;
 }
 
-.bck-box.bck-box-10 .bck-content {
-    background-color: #faecd4;
-    padding: 10px 20px 10px 20px;
-    border-radius: 0px 20px 0px 20px;
-    max-width: 100%;
-    margin-bottom: 20px;
+.bck-box.bck-box-10 .bck-content{
+   padding: 10px 20px 10px 20px;
+}
+
+.bck-box.bck-box-10 .bck-title {
+   background-color: #f8a800;
+   color: #ffffff;
+   font-weight: bold;
+   width: fit-content;
+   text-align: left;
+   padding: 5px 20px 5px 20px;
+   border-radius: 0px 0px 20px 0px;
+   font-size: 2rem;
 }
 
 
