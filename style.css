@@ -405,6 +405,7 @@ body.is_app .santillana_demo-navbar.ocultar {
     margin: 0px 5px;
     text-indent: 0px;
     width: fit-content;
+    width: -moz-fit-content;
     line-height: 3.5rem;
     font-size: 1.9rem;
     cursor: pointer;
@@ -914,6 +915,7 @@ content: "\f063";
 .bck-title6 {
     background: #a1c037;
     width: fit-content;
+    width: -moz-fit-content;
     padding: 7px 20px 5px 20px;
     color: #fff;
     font-weight: bolder;
@@ -926,6 +928,7 @@ content: "\f063";
 .bck-title43 {
     background: #e30613;
     width: fit-content;
+    width: -moz-fit-content;
     padding: 7px 20px 5px 20px;
     color: #fff;
     font-weight: bolder;
@@ -939,6 +942,7 @@ content: "\f063";
 .bck-title7 {
     background: #98a6b9;
     width: fit-content;
+    width: -moz-fit-content;
     padding: 5px 10px 5px 10px;
     color: #fff;
     border-radius: 10px 10px 10px 10px;
@@ -949,6 +953,7 @@ content: "\f063";
 .bck-title12 {
     background: #f8a800;
     width: fit-content;
+    width: -moz-fit-content;
     padding: 5px 10px 5px 10px;
     color: #fff;
     border-radius: 10px 10px 10px 10px;
@@ -959,6 +964,7 @@ content: "\f063";
 .bck-title32 {
     background: #eb5d8d;
     width: fit-content;
+    width: -moz-fit-content;
     padding: 5px 10px 5px 10px;
     color: #fff;
     border-radius: 10px 10px 10px 10px;
@@ -969,6 +975,7 @@ content: "\f063";
 .bck-title33 {
     background: #74b959;
     width: fit-content;
+    width: -moz-fit-content;
     padding: 5px 10px 5px 10px;
     color: #fff;
     border-radius: 10px 10px 10px 10px;
@@ -979,6 +986,7 @@ content: "\f063";
 .bck-title34 {
     background: #00b1eb;
     width: fit-content;
+    width: -moz-fit-content;
     padding: 5px 10px 5px 10px;
     color: #fff;
     border-radius: 10px 10px 10px 10px;
@@ -989,6 +997,7 @@ content: "\f063";
 .bck-title39 {
     background: #a487b7;
     width: fit-content;
+    width: -moz-fit-content;
     padding: 5px 10px 5px 10px;
     color: #fff;
     border-radius: 10px 10px 10px 10px;
@@ -999,6 +1008,7 @@ content: "\f063";
 .bck-title40 {
     background: #cc6e92;
     width: fit-content;
+    width: -moz-fit-content;
     padding: 5px 10px 5px 10px;
     color: #fff;
     border-radius: 10px 10px 10px 10px;
@@ -1049,6 +1059,7 @@ content: "\f063";
     background-color: #ffffff;
     color: #f8a800;
     width: fit-content;
+    width: -moz-fit-content;
     border-radius: 10px 10px 0px 0px;
     padding: 5px 10px 4px 10px;
     font-size: 3.3rem;
@@ -1064,6 +1075,7 @@ content: "\f063";
     background-color: #ffffff;
     color: #f8a800;
     width: fit-content;
+    width: -moz-fit-content;
     padding: 5px 20px 1px 20px;
     font-size: 3.3rem;
     font-weight: 600;
@@ -1076,6 +1088,7 @@ content: "\f063";
     border-radius: 0px 0px 20px 0px;
     padding: 7px 20px 7px 20px;
     width: fit-content;
+    width: -moz-fit-content;
     font-size: 2.4rem;
 }
 
@@ -1086,6 +1099,7 @@ content: "\f063";
     border-radius: 0px 0px 20px 0px;
     padding: 7px 20px 7px 20px;
     width: fit-content;
+    width: -moz-fit-content;
     font-size: 2.4rem;
 }
 
@@ -1096,6 +1110,7 @@ content: "\f063";
     border-radius: 0px 0px 15px 0px;
     padding: 7px 20px 7px 20px;
     width: fit-content;
+    width: -moz-fit-content;
     font-size: 2.4rem;
     font-weight: 600;
 }
@@ -1107,6 +1122,7 @@ content: "\f063";
     border-radius: 0px 0px 10px 0px;
     padding: 7px 20px 7px 20px;
     width: fit-content;
+    width: -moz-fit-content;
     font-size: 2.4rem;
     font-weight: 600;
 }
@@ -1118,6 +1134,7 @@ content: "\f063";
     border-radius: 0px 0px 10px 0px;
     padding: 7px 20px 7px 20px;
     width: fit-content;
+    width: -moz-fit-content;
     font-size: 2.4rem;
     font-weight: 600;
 }
@@ -1129,6 +1146,7 @@ content: "\f063";
     border-radius: 15px 15px 0px 15px;
     padding: 7px 20px 7px 20px;
     width: fit-content;
+    width: -moz-fit-content;
     font-size: 2.4rem;
     font-weight: 600;
 }
@@ -1140,6 +1158,7 @@ content: "\f063";
     border-radius: 0px 0px 20px 0px;
     padding: 7px 20px 7px 20px;
     width: fit-content;
+    width: -moz-fit-content;
     font-size: 2.4rem;
     font-weight: 600;
 }
@@ -1148,6 +1167,7 @@ content: "\f063";
 .bck-title26 {
     background: #19763a;
     width: fit-content;
+    width: -moz-fit-content;
     padding: 10px 18px 8px 19px;
     color: #fff;
     border-radius: 25px 25px 0px 0px;
@@ -1158,6 +1178,7 @@ content: "\f063";
 .bck-title27 {
     background: #29b8ce;
     width: fit-content;
+    width: -moz-fit-content;
     padding: 7px 15px 7px 15px;
     font-weight: 600;
     color: #fff;
@@ -1170,6 +1191,7 @@ content: "\f063";
 .bck-title35 {
     background-color: #3aaa35;
     width: fit-content;
+    width: -moz-fit-content;
     padding: 7px 15px 7px 15px;
     font-weight: 600;
     color: #fff;
@@ -1247,6 +1269,7 @@ content: "\f063";
 .bck-title31 {
     background: #3aaa35;
     width: fit-content;
+    width: -moz-fit-content;
     padding: 10px 18px 8px 19px;
     color: #fff;
     border-radius: 25px 25px 0px 0px;
@@ -1351,6 +1374,7 @@ content: "\f063";
 .bck-coral {
     background-color: #F08162;
     width: fit-content;
+    width: -moz-fit-content;
     color: #ffffff;
     border-radius: 0px 5px 0px 5px;
     font-weight: bolder;
@@ -2138,6 +2162,7 @@ content: "\f063";
 .bck-box.bck-box-27 .bck-title{
     background: #19763a;
     width: fit-content;
+    width: -moz-fit-content;
     padding: 3px 30px 3px 30px;
     color: #fff;
     border-radius: 20px 20px 0px 0px;
@@ -2189,6 +2214,7 @@ content: "\f063";
     border: 1px solid;
     border-radius: 5px 5px 0px 5px;
     width: fit-content;
+    width: -moz-fit-content;
     padding: 2px 10px 2px 10px;
     z-index: 112;
     font-size: 2rem;
@@ -2219,6 +2245,7 @@ content: "\f063";
     border: 1px solid;
     border-radius: 5px 5px 0px 5px;
     width: fit-content;
+    width: -moz-fit-content;
     padding: 2px 10px 2px 10px;
     z-index: 112;
     font-size: 2rem;
@@ -2321,6 +2348,7 @@ content: "\f063";
 .bck-box .bck-box-3 .bck-title{
     background: #a1c037;
     width: fit-content;
+    width: -moz-fit-content;
     padding: 7px 20px 5px 20px;
     color: #fff;
     font-weight: bolder;
@@ -2350,6 +2378,7 @@ content: "\f063";
     padding: 10px 30px 5px 40px;
     border-radius: 20px 0px 0px 0px;
     width: fit-content;
+    width: -moz-fit-content;
 }
 
 
@@ -2390,6 +2419,7 @@ content: "\f063";
     padding: 10px 30px 5px 40px;
     border-radius: 20px 0px 0px 0px;
     width: fit-content;
+    width: -moz-fit-content;
 }
 
 .bck-box.bck-box-5 .bck-title:before {
@@ -2424,6 +2454,7 @@ content: "\f063";
     padding: 10px 30px 5px 40px;
     border-radius: 20px 0px 0px 0px;
     width: fit-content;
+    width: -moz-fit-content;
 }
 
 .bck-box.bck-box-6 .bck-title:before {
@@ -2490,6 +2521,7 @@ content: "\f063";
     padding: 5px 30px 5px 40px;
     border-radius: 0px 20px 0px 0px;
     width: fit-content;
+    width: -moz-fit-content;
 }
 
 .bck-box.bck-box-18 .bck-title p{
@@ -2530,6 +2562,7 @@ content: "\f063";
     padding: 10px 30px 5px 40px;
     border-radius: 0px 20px 0px 0px;
     width: fit-content;
+    width: -moz-fit-content;
 }
 
 .bck-box.bck-box-19 .bck-title p{
@@ -2568,6 +2601,7 @@ content: "\f063";
     padding: 10px 30px 5px 40px;
     border-radius: 0px 20px 0px 0px;
     width: fit-content;
+    width: -moz-fit-content;
 }
 
 .bck-box.bck-box-20 .bck-title p{
@@ -2606,6 +2640,7 @@ content: "\f063";
     padding: 10px 30px 5px 40px;
     border-radius: 0px 20px 0px 0px;
     width: fit-content;
+    width: -moz-fit-content;
 }
 
 .bck-box.bck-box-21 .bck-title p{
@@ -2709,6 +2744,7 @@ content: "\f063";
    color: #ffffff;
    font-weight: bold;
    width: fit-content;
+   width: -moz-fit-content;
    text-align: left;
    padding: 5px 20px 5px 20px;
    border-radius: 0px 0px 20px 0px;
@@ -2726,6 +2762,7 @@ content: "\f063";
     padding: 10px 20px 5px 20px;
     border-radius: 20px 20px 0px 0px;
     width: fit-content;
+    width: -moz-fit-content;
     font-size: 2.4rem;
 }
 
@@ -3319,6 +3356,7 @@ td {
     background-color: #ffffff;
     color: #f8a800;
     width: fit-content;
+    width: -moz-fit-content;
     padding: 5px 20px 1px 20px;
     font-size: 3.3rem;
     font-weight: 600;
