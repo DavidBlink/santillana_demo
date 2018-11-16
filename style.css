@@ -1260,14 +1260,18 @@ content: "\f063";
     font-size: 1.5rem;
     text-align: right;
     padding-bottom: 10px;
+    padding-right: 55px;
 }
 
 .bck-title37:after {
-content: " ";
-position: absolute;
-padding: 31px 32px;
-background-image: url(imagenes/aftertitulosaber.png);
-background-repeat: no-repeat;
+    content: " ";
+    position: absolute;
+    padding: 26px 26px;
+    top: -17px;
+    background-image: url(imagenes/aftertitulosaber.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 5px;
 }
 
 .bck-title38 {
@@ -1284,14 +1288,18 @@ background-repeat: no-repeat;
     font-size: 1.5rem;
     text-align: right;
     padding-bottom: 10px;
+    padding-right: 55px;
 }
 
 .bck-title41:after {
-content: " ";
-position: absolute;
-padding: 31px 32px;
-background-image: url(imagenes/aftertitulosaber.png);
-background-repeat: no-repeat;
+    content: " ";
+    position: absolute;
+    padding: 26px 26px;
+    top: -17px;
+    background-image: url(imagenes/aftertitulosaber.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 5px;
 }
 
 
