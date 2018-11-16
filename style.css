@@ -1584,7 +1584,7 @@ content: "\f063";
     height: 28px;
     line-height: unset;
     text-align: center;
-    margin-left: -34px;
+    margin-left: -37px;
     color: #fff;
     border-radius: 8px 8px 0px 8px;
 }
@@ -1617,7 +1617,7 @@ content: "\f063";
     height: 28px;
     line-height: unset;
     text-align: center;
-    margin-left: -34px;
+    margin-left: -37px;
     color: #fff;
     border-radius: 8px 8px 0px 8px;
 }
@@ -1650,7 +1650,7 @@ content: "\f063";
     height: 28px;
     line-height: unset;
     text-align: center;
-    margin-left: -34px;
+    margin-left: -37px;
     color: #fff;
     border-radius: 8px 8px 0px 8px;
 }
@@ -1680,14 +1680,13 @@ content: "\f063";
     content: counter(bck-li-counter)" ";
     position: absolute;
     background: #9e61a4;
-    width: 24px;
-    height: 24px;
-    margin-left: -30px;
-    margin-top: -1px;
-    line-height: initial;
+    width: 28px;
+    height: 28px;
+    line-height: unset;
     text-align: center;
+    margin-left: -37px;
     color: #fff;
-    border-radius: 30% 30% 0% 30%;
+    border-radius: 8px 8px 0px 8px;
 }
 
 
