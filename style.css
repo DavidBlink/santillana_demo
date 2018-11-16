@@ -1955,17 +1955,17 @@ content: "\f063";
 }
 
 /*lista des naranja*/
-#actividad .content .cke_contents ul .bck-ul-7 li,
-#actividad .content .texto_curso ul .bck-ul-7 li,
-#actividad .content .texto_curso ul .bck-ul-7 li,
-#actividad .content .workspace ul .bck-ul-7 li {
+#actividad .content .cke_contents ul .bck-ul-10 li,
+#actividad .content .texto_curso ul .bck-ul-10 li,
+#actividad .content .texto_curso ul .bck-ul-10 li,
+#actividad .content .workspace ul .bck-ul-10 li {
     list-style: none;
 }
 
-#actividad .content .cke_contents ul .bck-ul-7 li:before,
-#actividad .content .texto_curso ul .bck-ul-7 li:before,
-#actividad .content .texto_curso .bck-ul-7 li:before,
-#actividad .content .workspace ul li .bck-ul-7 li:before {
+#actividad .content .cke_contents ul .bck-ul-10 li:before,
+#actividad .content .texto_curso ul .bck-ul-10 li:before,
+#actividad .content .texto_curso .bck-ul-10 li:before,
+#actividad .content .workspace ul li .bck-ul-10 li:before {
     content: "";
     position: absolute;
     height: 6px;
