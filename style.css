@@ -2652,7 +2652,7 @@ content: "\f063";
 
 /*caja saber más*/
 
-.bck-box-10 .bck-title {
+.bck-box.bck-box-10 .bck-title {
     background-color: #f8a800;
     color: #ffffff;
     font-weight: bold;
@@ -2663,7 +2663,7 @@ content: "\f063";
     font-size: 2rem;
 }
 
-.bck-box-10 .bck-content {
+.bck-box.bck-box-10 .bck-content {
     background-color: #faecd4;
     padding: 10px 20px 10px 20px;
     border-radius: 0px 20px 0px 20px;
@@ -2712,7 +2712,7 @@ content: "\f063";
 
 /*caja azul*/
 
-.bck-box-12 .bck-title {
+.bck-box.bck-box-12 .bck-title {
     background-color: #c0c8d4;
     color: #333;
     font-weight: 600;
@@ -2721,7 +2721,7 @@ content: "\f063";
     border-radius: 20px 20px 0px 0px;
 }
 
-.bck-box-12 .bck-content {
+.bck-box.bck-box-12 .bck-content {
     background-color: #ffffff;
     border: 1px solid #848d94;
     border-radius: 0px 0px 20px 20px;
@@ -3080,6 +3080,11 @@ td {
     margin: 0;
     display: inline-block;
     max-width: 300px;
+ }
+
+
+ .btn-primary.disabled:focus {
+    background: orange;
  }
 
 
