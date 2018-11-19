@@ -2759,11 +2759,11 @@ content: "\f063";
     color: #fff;
     font-weight: 600;
     text-align: center;
-    padding: 10px 20px 5px 20px;
+    padding: 5px 17px 5px 5px;
     border-radius: 20px 20px 0px 0px;
     width: fit-content;
     width: -moz-fit-content;
-    font-size: 2.4rem;
+    font-size: 2rem;
 }
 
 .bck-box.bck-box-22 .bck-content {
@@ -3292,6 +3292,13 @@ td {
 /**/
 /****/
 
+@media screen and (max-width: 960px) {
+    .content_type_clase_santillana_demo .santillana_demo-navbar .dropdown{
+        display: none;
+    }
+}
+
+
 @media screen and (max-width: 1024px){
 
 #actividad .carousel-inner .item-container.copy-fullscreen-top .fs-img-container, #actividad .carousel-inner .item-container.copy-fullscreen-bottom .fs-img-container {
@@ -3345,7 +3352,6 @@ td {
 }
 
 
-
 @media screen and (max-width: 450px) { 
 
 .bck-title25 {
@@ -3386,12 +3392,6 @@ td {
     position: absolute;
     left: -12px;
     margin-top: -33px;
-}
-
-.bck-box.bck-box .bck-content {
-    background-color: #f6e7bf;
-    border-radius: 0px 50px 0px 50px;
-    padding: 20px 20px 20px 20px;
 }
 
 .content_type_clase_santillana_demo .santillana_demo-navbar .dropdown {
