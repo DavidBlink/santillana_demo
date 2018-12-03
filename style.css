@@ -38,6 +38,9 @@ body {
 
 }
 
+strong {
+    font-weight: 700;
+}
 
 /*paginacion*/
 
@@ -424,7 +427,7 @@ body.is_app .santillana_demo-navbar.ocultar {
 }
 
 .content_type_clase_santillana_demo .santillana_demo-navbar .dropdown button {
-    font-weight: 600;
+    font-weight: 500;
    }
 
 .content_type_clase_santillana_demo .santillana_demo-navbar .dropdown button:focus {
@@ -506,7 +509,7 @@ body.is_app .santillana_demo-navbar.ocultar {
 
 .content_type_clase_santillana_demo .santillana_demo-navbar .navbar-content h2 a {
     font-size: 1.6rem;
-    font-weight: 600;
+    font-weight: 500;
     margin-left: 10px;
     display: inline-block;
     color: #ffffff;
