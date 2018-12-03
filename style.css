@@ -1,4 +1,4 @@
-/*General CSS SANTILLANA CHILE*/
+/*General CSS SANTILLANA CHILE - NUEVOS*/
 
 /* Fonts */
 
@@ -80,10 +80,11 @@ body {
 }
 
 #actividad .carousel-inner .item-container {
+    font-family: HelveticaNeueLTStd-Roman;
     background-image: none;
     max-width: 1200px;
     box-shadow: rgba(0,0,0,0.298039) 0 0px 0px;
-    margin: 20px auto 30px;
+    margin: 0px auto 30px;
     padding: 0px;
     padding-bottom: 90px;
     position: relative;
@@ -91,6 +92,7 @@ body {
 
 #swipeview-slider > div {
     background-color: #fff;
+    padding-top: 60px;
 }
 
 h3 {
@@ -605,6 +607,15 @@ body:not(.android) .slider-control:not([disabled]):not(.disabled):hover {
     font-size: 1.5rem;
     overflow: auto;
 }
+
+.content_type_clase_santillana_demo .slide_main input:focus, .content_type_clase_santillana_demo .slide_main .form-control:focus {
+    border-color: #c4c3c3;
+    outline-width: 0px;
+    outline-style: none;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.075) inset, 0px 0px 8px rgba(255, 255, 255, 0.6);
+}
+
+
 /**/
 
 
@@ -3292,6 +3303,19 @@ td {
 /**/
 /****/
 
+@media screen and (max-width: 580px) {
+.slider-control.right {
+    right: -25px;
+}
+
+.slider-control.left {
+    left: -25px;
+}
+
+}
+
+
+
 @media screen and (max-width: 960px) {
     .content_type_clase_santillana_demo .santillana_demo-navbar .dropdown{
         display: none;
@@ -3381,6 +3405,11 @@ td {
     max-width: 90%;
 }
 
+.content_type_clase_santillana_demo .santillana_demo-navbar .navbar-content h2 {
+    font-size: 2rem;
+}
+
+
 
 .bck-box.bck-box-13 .bck-title:before {
     content: " ";
@@ -3453,10 +3482,6 @@ td {
 }
 
  
-.content_type_clase_santillana_demo .santillana_demo-navbar {
-    display: none;
-}
-
 .bck-box.bck-box-4 {
     width: 100% !important;
     position: relative;
