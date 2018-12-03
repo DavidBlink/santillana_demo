@@ -758,7 +758,7 @@ body:not(.android) .slider-control:not([disabled]):not(.disabled):hover {
 
 .bck-title4{
     color: #ffffff;
-    font-size: 2.2rem;
+    font-size: 20px;
     font-weight: 500;
     display: inline-block;
     position: relative;
@@ -788,7 +788,7 @@ body:not(.android) .slider-control:not([disabled]):not(.disabled):hover {
 
 .bck-title13{
         color: #ffffff;
-    font-size: 2.2rem;
+    font-size: 20px;
     font-weight: 500;
     display: inline-block;
     position: relative;
@@ -818,7 +818,7 @@ content: "\f063";
 
 .bck-title14{
         color: #ffffff;
-    font-size: 2.2rem;
+    font-size: 20px;
     font-weight: 500;
     display: inline-block;
     position: relative;
@@ -847,7 +847,7 @@ content: "\f063";
 
 .bck-title15{
         color: #ffffff;
-    font-size: 2.2rem;
+    font-size: 20px;
     font-weight: 500;
     display: inline-block;
     position: relative;
@@ -939,7 +939,7 @@ content: "\f063";
     padding: 7px 20px 5px 20px;
     color: #fff;
     font-weight: bolder;
-    font-size: 2.3rem;
+    font-size: 2.2rem;
     border-radius: 20px 20px 0% 0%;
 }
 
@@ -952,7 +952,7 @@ content: "\f063";
     padding: 7px 20px 5px 20px;
     color: #fff;
     font-weight: bolder;
-    font-size: 2.3rem;
+    font-size: 2.2rem;
     border-radius: 20px 20px 0% 0%;
 }
 
