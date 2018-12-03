@@ -118,7 +118,7 @@ a:hover, a:active, a:focus {
     margin: 0px;
     width: 100%;
     font-size: 24px;
-    font-weight: 700;
+    font-weight: 600;
     padding: 5px 10px 10px 20px;
     height: auto;
     background-color: #3aaa35;
@@ -351,7 +351,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 #indice .unit-content .actividades .item .title {
     word-wrap: break-word;
     font-size: 18px;
-    font-weight: 700;
+    font-weight: 600;
     margin: 0;
     color: #333;
     display: inline-block;
@@ -750,7 +750,7 @@ body:not(.android) .slider-control:not([disabled]):not(.disabled):hover {
 .bck-title4{
     color: #ffffff;
     font-size: 2.4rem;
-    font-weight: 700;
+    font-weight: 500;
     display: inline-block;
     position: relative;
     background: #3aaa35;
@@ -780,7 +780,7 @@ body:not(.android) .slider-control:not([disabled]):not(.disabled):hover {
 .bck-title13{
         color: #ffffff;
     font-size: 2.4rem;
-    font-weight: 700;
+    font-weight: 600;
     display: inline-block;
     position: relative;
     background: #9e61a4;
@@ -810,7 +810,7 @@ content: "\f063";
 .bck-title14{
         color: #ffffff;
     font-size: 2.4rem;
-    font-weight: 700;
+    font-weight: 500;
     display: inline-block;
     position: relative;
     background: #e30613;
@@ -839,7 +839,7 @@ content: "\f063";
 .bck-title15{
         color: #ffffff;
     font-size: 2.4rem;
-    font-weight: 700;
+    font-weight: 500;
     display: inline-block;
     position: relative;
     background: #007bc2;
@@ -866,7 +866,7 @@ content: "\f063";
 .bck-title42{
         color: #ffffff;
     font-size: 2.4rem;
-    font-weight: 700;
+    font-weight: 500;
     display: inline-block;
     position: relative;
     background: #e30613;
@@ -915,7 +915,7 @@ content: "\f063";
 .bck-title3 {
     color: #f8a800;
     font-size: 2.4rem;
-    font-weight: 700;
+    font-weight: 600;
     font-weight: 600;
     display: inline-block;
     position: relative;
@@ -1263,7 +1263,7 @@ content: "\f063";
     color: #9e61a4;
     padding: 8px 20px 1px 20px;
     font-size: 3.6rem;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 /*titulo EPA*/
@@ -1361,12 +1361,12 @@ content: "\f063";
 
 .bck-verde1 {
     color: #3aaa35; 
-    font-weight: 600;
+    font-weight: 500;
 }
 
 .bck-verde2 {
     color: #70a83b;
-    font-weight: 600;
+    font-weight: 500;
     border-bottom: 2px solid #70a83b;
     display: block;
 }
@@ -1378,7 +1378,7 @@ content: "\f063";
 
 .bck-morado {
     color: #9e61a4;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 
@@ -1388,7 +1388,7 @@ content: "\f063";
     width: -moz-fit-content;
     color: #ffffff;
     border-radius: 0px 5px 0px 5px;
-    font-weight: bolder;
+    font-weight: 600;
     font-size: 1.8rem;
     padding: 2px 4px 2px 4px;
     margin-bottom: 10px;
@@ -1396,12 +1396,12 @@ content: "\f063";
 
 .bck-azul {
     color: #007bc2;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 .bck-rojo {
     color: #e30613;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 .bck-naranja {
@@ -1434,7 +1434,7 @@ content: "\f063";
 
 .bck-verdedesafio {
     color: #95c11f;
-    font-weight: 700;
+    font-weight: 600;
     font-size: 2.2rem;
 }
 
@@ -1442,7 +1442,7 @@ content: "\f063";
     background: #e4ebc5;
     padding: 5px 10px 5px 10px;
     border-radius: 20%;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 .bck-gris {
@@ -1455,13 +1455,13 @@ content: "\f063";
     border-radius: 20px 20px 0px 20px;
     color: #fff;
     padding: 10px 14px 10px 14px;
-    font-weight: bold;
+    font-weight: 600;
     font-size: 2.8rem;
 }
 
 .bck-titulopequeno {
     color: #e30613;
-    font-weight: 600;
+    font-weight: 500;
     padding: 0px 0px 4px 0px;
     font-size: 1.8rem;
     color: #3aaa35;
@@ -1568,7 +1568,7 @@ content: "\f063";
 #actividad .content .workspace ol li .bck-ol-3 li {
     position: relative;
     z-index: 0;
-    font-weight: 700;
+    font-weight: 600;
     margin-left: 5px;
 }
 
@@ -1605,7 +1605,7 @@ content: "\f063";
 #actividad .content .workspace ol li .bck-ol-4 li {
     position: relative;
     z-index: 0;
-    font-weight: 700;
+    font-weight: 600;
     margin-left: 5px;
 }
 
@@ -1639,7 +1639,7 @@ content: "\f063";
 #actividad .content .workspace ol li .bck-ol-9 li {
     position: relative;
     z-index: 0;
-    font-weight: 700;
+    font-weight: 600;
     margin-left: 5px;
 }
 
@@ -1673,7 +1673,7 @@ content: "\f063";
 #actividad .content .workspace ol li .bck-ol-10 li {
     position: relative;
     z-index: 0;
-    font-weight: 700;
+    font-weight: 600;
     margin-left: 5px;
 }
 
@@ -1708,7 +1708,7 @@ content: "\f063";
 #actividad .content .workspace ol li .bck-ol-7 li {
     position: relative;
     z-index: 0;
-    font-weight: 700;
+    font-weight: 600;
     margin-left: 5px;
 }
 
@@ -2217,7 +2217,7 @@ content: "\f063";
 
 .bck-box.bck-box-28 .bck-title{
     color: #c82b32;
-    font-weight: 700;
+    font-weight: 600;
     text-align: center;
     margin-left: 20px;
     margin-bottom: -20px;
@@ -2248,7 +2248,7 @@ content: "\f063";
 
 .bck-box.bck-box-29 .bck-title{
     color: #95C11F;
-    font-weight: 700;
+    font-weight: 600;
     text-align: center;
     margin-left: 20px;
     margin-bottom: -20px;
@@ -2293,7 +2293,7 @@ content: "\f063";
     border: 2px solid #e30613;
     text-align: center;
     border-radius: 0px;
-    font-weight: bold;
+    font-weight: 600;
     color: #e30613;
     margin-top: 10px;
 }
@@ -2302,7 +2302,7 @@ content: "\f063";
 
 .bck-box.bck-box-2 .bck-title {
     color: #fff;
-    font-weight: 700;
+    font-weight: 600;
     border-radius: 20px 0px 0px 0px;
     margin-top: 30px;
     background-color: #a87c24;
@@ -2329,7 +2329,7 @@ content: "\f063";
 
 .bck-box.bck-box-14 .bck-title {
     color: #9e61a4;
-    font-weight: 700;
+    font-weight: 600;
     border-radius: 20px 0px 0px 0px;
     margin-top: 30px;
     background-color: #ffffff;
@@ -2362,7 +2362,7 @@ content: "\f063";
     width: -moz-fit-content;
     padding: 7px 20px 5px 20px;
     color: #fff;
-    font-weight: bolder;
+    font-weight: 600;
     font-size: 2.3rem;
     border-radius: 20px 20px 0% 0%;
 }
@@ -2384,7 +2384,7 @@ content: "\f063";
 .bck-box.bck-box-4 .bck-title {
     background-color: #3aaa35;
     color: #fff;
-    font-weight: 700;
+    font-weight: 600;
     text-align: left;
     padding: 10px 30px 5px 40px;
     border-radius: 20px 0px 0px 0px;
@@ -2425,7 +2425,7 @@ content: "\f063";
 .bck-box.bck-box-5 .bck-title {
     background-color: #007bc2;
     color: #fff;
-    font-weight: 700;
+    font-weight: 600;
     text-align: left;
     padding: 10px 30px 5px 40px;
     border-radius: 20px 0px 0px 0px;
@@ -2460,7 +2460,7 @@ content: "\f063";
 .bck-box.bck-box-6 .bck-title {
     background-color: #9e61a4;
     color: #fff;
-    font-weight: 700;
+    font-weight: 600;
     text-align: left;
     padding: 10px 30px 5px 40px;
     border-radius: 20px 0px 0px 0px;
@@ -2568,7 +2568,7 @@ content: "\f063";
 .bck-box.bck-box-19 .bck-title {
     background-color: #007bc2;
     color: #fff;
-    font-weight: 700;
+    font-weight: 600;
     text-align: left;
     padding: 10px 30px 5px 40px;
     border-radius: 0px 20px 0px 0px;
@@ -2607,7 +2607,7 @@ content: "\f063";
 .bck-box.bck-box-20 .bck-title {
     background-color: #9e61a4;
     color: #fff;
-    font-weight: 700;
+    font-weight: 600;
     text-align: left;
     padding: 10px 30px 5px 40px;
     border-radius: 0px 20px 0px 0px;
@@ -2646,7 +2646,7 @@ content: "\f063";
 .bck-box.bck-box-21 .bck-title {
     background-color: #e30613;
     color: #fff;
-    font-weight: 700;
+    font-weight: 600;
     text-align: left;
     padding: 10px 30px 5px 40px;
     border-radius: 0px 20px 0px 0px;
@@ -3079,7 +3079,7 @@ td {
     background: #a1c037;
     border-right: 1px solid #ffffff;
     text-align: center;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 /*celda azul*/
@@ -3087,7 +3087,7 @@ td {
     color: #ffffff;
     background: #4492cf;
     text-align: center;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 /*celda azul claro*/
@@ -3095,21 +3095,21 @@ td {
     color: #ffffff;
     background: #d8e2f5;
     text-align: center;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 /*celda azul claro 2*/
 .bck-td-6 {
     background: #ccdbf1;
     text-align: center;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 /*celda borde bottom*/
 .bck-td-4 {
     border-bottom: 2px solid #4492cf!important;
     text-align: center;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 /*celda rojo*/
@@ -3117,7 +3117,7 @@ td {
     color: #ffffff;
     background: #e30613;
     text-align: center;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 /*imagen de fondo actividades*/
@@ -3168,7 +3168,7 @@ td {
 .btn-primary.disabled {
     word-wrap: break-word;
     font-size: 18px;
-    font-weight: 700;
+    font-weight: 600;
     margin: 0;
     display: inline-block;
     max-width: 300px;
@@ -3450,7 +3450,7 @@ td {
     color: #9e61a4;
     padding: 8px 20px 1px 20px;
     font-size: 3rem;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 
@@ -3473,7 +3473,7 @@ td {
 .bck-title13 {
     color: #ffffff;
     font-size: 2rem;
-    font-weight: 700;
+    font-weight: 600;
     display: inline-block;
     position: relative;
     background: #9e61a4;
